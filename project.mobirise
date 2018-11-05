@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Online Referral",
-    "currentPage": "index.html",
+    "currentPage": "MDITP.html",
     "theme": {
       "name": "colorm",
       "title": "ColorM",
@@ -26,7 +26,7 @@
       ]
     },
     "versionFirst": "4.7.2",
-    "uniqCompNum": 34,
+    "uniqCompNum": 35,
     "versionPublish": "4.8.3",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -459,6 +459,9 @@
               "font-family": "'Merriweather', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
               "font-size": "48px"
+            },
+            "P": {
+              "color": "#000000"
             }
           }
         },
@@ -511,7 +514,7 @@
             "showSubtitle": true,
             "showText": true,
             "showButtons": true,
-            "bgCardImage": "@PROJECT_PATH@/assets/images/boy.jpg",
+            "bgCardImage": "@PROJECT_PATH@/assets/images/baby-1651161-1920-1920x1280.jpg",
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": true,
@@ -3195,6 +3198,12 @@
               "font-family": "'Merriweather', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
               "font-size": "46px"
+            },
+            ".header-text": {
+              "color": "#000000"
+            },
+            "P": {
+              "color": "#000000"
             }
           },
           "_params": {
@@ -3225,7 +3234,7 @@
           "title4": "HOST ANYWHERE",
           "title5": "IMAGE/CONTENT SLIDER",
           "title6": "CONTACT FORMS",
-          "tabTitle": "<li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1header9-2c\" aria-expanded=\"true\">25% Developmental Delay</a></li><li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2header9-2c\" aria-expanded=\"false\">AtYpical Development</a></li><li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3header9-2c\" aria-expanded=\"true\">diagnosed condition</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4header9-2c\">Awesome</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5header9-2c\">Amazing</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6header9-2c\">Beautiful</a></li>",
+          "tabTitle": "<li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1header9-2c\" aria-expanded=\"false\">25% Developmental Delay</a></li><li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2header9-2c\" aria-expanded=\"false\">AtYpical Development</a></li><li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3header9-2c\" aria-expanded=\"true\">diagnosed condition</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4header9-2c\">Awesome</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5header9-2c\">Amazing</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6header9-2c\">Beautiful</a></li>",
           "media11": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/nb1.png",
@@ -3405,9 +3414,9 @@
             "progress1": "73",
             "progress2": "74",
             "progress3": "74",
-            "progress4": 60,
-            "progress5": 70,
-            "progress6": 80,
+            "progress4": "73",
+            "progress5": "74",
+            "progress6": "74",
             "showTitles": false,
             "showTexts": true,
             "progressColor": "@primaryColor",
@@ -3429,13 +3438,13 @@
           },
           "title1": "Social-emotional",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "73% of children made as much or more progress as their typically developing peers in positive social-emotional development and relationships.",
+          "caption1": "73% of children made as much or more progress as their typically developing peers in <b>positive social-emotional</b> development and relationships.",
           "title2": "knowledge and skills",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "74% of children made as much or more progress as their typically developing peers in learning and functionally using new skills.",
+          "caption2": "74% of children made as much or more progress as their typically developing peers in <b>learning and functionally using new skills.</b>",
           "title3": "meeting their needs",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "74% of children made as much or more progress as their typically developing peers in using appropriate behaviors to meet their needs.",
+          "caption3": "74% of children made as much or more progress as their typically developing peers in <b>using appropriate behaviors to meet their needs.</b>",
           "title4": "Unlimited Sites",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",

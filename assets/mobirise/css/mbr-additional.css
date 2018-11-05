@@ -862,6 +862,9 @@ blockquote {
   font-family: 'Merriweather', serif;
   font-size: 48px;
 }
+#accordion1-6 P {
+  color: #000000;
+}
 #call5-b .mbr-section-text {
   font-family: 'Roboto', sans-serif;
 }
@@ -1231,6 +1234,12 @@ blockquote {
 #header9-2c .mbr-section-title {
   font-family: 'Merriweather', serif;
   font-size: 46px;
+}
+#header9-2c .header-text {
+  color: #000000;
+}
+#header9-2c P {
+  color: #000000;
 }
 #content3-1t .mbr-section-title,
 #content3-1t .mbr-section-subtitle {
