@@ -977,8 +977,8 @@ blockquote {
 }
 #features1-2f .mbr-section-title {
   font-weight: 700;
-  font-size: 60px;
-  font-family: 'Montserrat', sans-serif;
+  font-size: 48px;
+  font-family: 'Oxygen', sans-serif;
 }
 #features1-2f .mbr-section-subtitle {
   text-transform: uppercase;
@@ -1075,6 +1075,7 @@ blockquote {
 }
 #tabs3-2x P {
   font-family: 'Montserrat', sans-serif;
+  text-align: left;
 }
 #call4-14 .mbr-section-title {
   font-family: 'Montserrat', sans-serif;
