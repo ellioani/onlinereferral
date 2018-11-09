@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Online Referral",
-    "currentPage": "Referral.html",
+    "currentPage": "MDITP.html",
     "theme": {
       "name": "colorm",
       "title": "ColorM",
@@ -3535,7 +3535,13 @@
           "_anchor": "content3-14"
         },
         {
-          "_styles": {},
+          "_styles": {
+            "P": {
+              "color": "#000000",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
           "_params": {
             "showImages": true,
             "showTitle": true,
@@ -3558,24 +3564,24 @@
             "news": [
               {
                 "image": "@PROJECT_PATH@/assets/images/guide-to-early-intervention-745x352.png",
-                "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
-                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia sit molestias error, magni deleniti consectetur voluptas soluta, placeat quo voluptatem tempora ullam, velit in sunt suscipit recusandae natus quia porro eveniet? Quis vitae ad voluptas, ullam deserunt. Odit sapiente laborum, obcaecati facere iusto animi alias iste quis. Itaque molestiae quibusdam voluptatibus suscipit, quisquam sequi reiciendis minima nihil. Reiciendis sed, mollitia minima aliquam! Porro vitae error enim totam accusamus consequuntur laboriosam, esse quisquam nulla quibusdam! Libero consequuntur saepe, quo perspiciatis itaque beatae accusamus minus veniam aspernatur, neque, dignissimos repellat modi laborum commodi dolores officia voluptates! Molestias cumque adipisci ipsa, rerum non.",
+                "title": "<a href=\"http://marylandpublicschools.org/programs/Documents/Special-Ed/BKPIS/BlueEarlyInterventionGuide[Sept2018]online.pdf\" target=\"_blank\">A Family Guide to Early Intervention Services in Maryland</a>",
+                "text": "A Family Guide To Early\nIntervention Services\nin Maryland is part of\nMaryland’s Birth to\nKindergarten Parent\nInformation Series, a\ncollection of publications\ndesigned to support families\nin the statewide early\nintervention and education\nsystem of services in\nMaryland.\nWith this guide, we wish\nto welcome you into a\ncommunity dedicated to\nthe enrichment of child\ndevelopment, and\nto guide you through a\nprocess created by parents\nand professionals to\nenhance the potential of\nyour child and support your\nfamily.",
                 "date": "10 june 2016",
                 "active": false,
                 "alt": ""
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/procedural-safeguards-742x351.png",
-                "title": "Lorem ipsum dolor sit amet, Illo autem, cum voluptas?",
-                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. At id in ipsam accusantium totam ex est, repellat, reiciendis non et minus beatae velit animi eaque nemo nam enim, praesentium accusamus, saepe ut odit eligendi asperiores. Nemo quis expedita dignissimos officia, aliquam ex porro explicabo dicta, molestias, quisquam pariatur ea ratione neque distinctio magni iusto est, alias iste repellendus. Deleniti, quis laboriosam libero doloremque iste nostrum molestias alias dicta suscipit labore reiciendis eum quas facere placeat repellat voluptate quaerat accusamus corrupti. Amet, iusto, suscipit nemo perferendis blanditiis laudantium dolor voluptate eaque, sint, enim corporis eius necessitatibus accusantium magni dignissimos non neque.",
+                "title": "<a href=\"http://marylandpublicschools.org/programs/Documents/Special-Ed/BKPIS/PurpleParentalRightsGuide[Sept2018]online.pdf\" target=\"_blank\">A Family Companion Guide to Maryland's Parental Rights </a><br><a href=\"http://marylandpublicschools.org/programs/Documents/Special-Ed/BKPIS/PurpleParentalRightsGuide[Sept2018]online.pdf\" target=\"_blank\">and Procedural Safeguards Notice</a>",
+                "text": "A Companion Guide to\nMaryland's Parental\nRights and Procedural\nSafeguards Notice is\npart of Maryland’s Birth\n<br>to Kindergarten Parent\nInformation Series, a\ncollection of publications\ndesigned to support families\nin the statewide early\nintervention and education\nsystem of services in\nMaryland.&nbsp;",
                 "date": "10 june 2016",
                 "active": false,
                 "alt": ""
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/physicians-guide-813x326.png",
-                "title": "Lorem ipsum dolor sit amet, Illo autem, cum voluptas?",
-                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. At id in ipsam accusantium totam ex est, repellat, reiciendis non et minus beatae velit animi eaque nemo nam enim, praesentium accusamus, saepe ut odit eligendi asperiores. Nemo quis expedita dignissimos officia, aliquam ex porro explicabo dicta, molestias, quisquam pariatur ea ratione neque distinctio magni iusto est, alias iste repellendus. Deleniti, quis laboriosam libero doloremque iste nostrum molestias alias dicta suscipit labore reiciendis eum quas facere placeat repellat voluptate quaerat accusamus corrupti. Amet, iusto, suscipit nemo perferendis blanditiis laudantium dolor voluptate eaque, sint, enim corporis eius necessitatibus accusantium magni dignissimos non neque.",
+                "title": "<a href=\"http://marylandpublicschools.org/programs/Documents/Special-Ed/MIFTP/PhysiciansGuideRev032017.pdf\" target=\"_blank\">Maryland Infants and Toddlers Program Physician's Guide</a>",
+                "text": "As a primary health care provider and a central figure in a child’s medical home,\nyou are often a family’s first link to early intervention services. Parents may bring\na developmental concern to your attention or you may identify a concern as part\nof a routine visit or developmental screening. This guide will show you ways you can help families engage in\nthe early intervention process.",
                 "date": "10 june 2016",
                 "active": true,
                 "alt": ""

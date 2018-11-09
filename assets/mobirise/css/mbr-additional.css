@@ -1175,6 +1175,7 @@ blockquote {
 
 
 
+
 #content1-1j P {
   font-family: 'Montserrat', sans-serif;
   color: #000000;
@@ -1340,6 +1341,10 @@ blockquote {
   font-family: 'Montserrat', sans-serif;
   font-size: 46px;
   text-align: right;
+}
+#news1-13 P {
+  color: #000000;
+  font-family: 'Montserrat', sans-serif;
 }
 #call4-12 .mbr-section-title {
   font-family: 'Montserrat', sans-serif;
