@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Online Referral",
-    "currentPage": "index.html",
+    "currentPage": "MDITP.html",
     "theme": {
       "name": "colorm",
       "title": "ColorM",
@@ -2985,7 +2985,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/stock-photo-colorful-paint-children-hand-painted-over-white-background-45077105-600x959.jpg",
+              "src": "@PROJECT_PATH@/assets/images/colorful-hand-600x900.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
