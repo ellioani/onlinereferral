@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Online Referral",
-    "currentPage": "MDITP.html",
+    "currentPage": "Referral.html",
     "theme": {
       "name": "colorm",
       "title": "ColorM",
@@ -26,7 +26,7 @@
       ]
     },
     "versionFirst": "4.7.2",
-    "uniqCompNum": 35,
+    "uniqCompNum": 37,
     "versionPublish": "4.8.3",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -176,7 +176,7 @@
             "buttonAlign": "left",
             "showArrow": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/stock-photo-little-girl-with-a-cute-expression-1096710348-1500x1101.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/referral-cover-2000x1333.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#2c3e50",
@@ -267,7 +267,7 @@
               "name": "action-account-child",
               "family": "Material-Design-Icons",
               "active": true,
-              "link": "EarlyIntervention.html",
+              "link": "MDITP.html",
               "size": "",
               "color": "#000000",
               "newWindow": false
@@ -325,8 +325,8 @@
           "caption1": "Learn about the importance of developmental milestones and the tools available to track young children's development.",
           "buttons1": "<a data-app-btn=\"true\" href=\"Milestones.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">Developmental<br>Milestones<br></a>",
           "title2": "Responsive",
-          "subtitle2": "Infants and Toddlers Program",
-          "caption2": "Explore information about the Maryland Infants and Toddlers Program and the benefits of in early intervention.",
+          "subtitle2": "Maryland Infants and Toddlers Program",
+          "caption2": "Explore information about the Maryland Infants and Toddlers Program and the benefits of early intervention.",
           "buttons2": "<a data-app-btn=\"true\" href=\"MDITP.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">Maryland Infants &amp;<br>Toddlers Program<br></a>",
           "title3": "Web Fonts",
           "subtitle3": "referral process",
@@ -384,7 +384,7 @@
             "overlayColor": "#ffc80a",
             "overlayOpacity": 0.9
           },
-          "title": "The Maryland Infants and Toddlers Program supports young children with delays or disabilities and their families.&nbsp;",
+          "title": "The Maryland Infants and Toddlers Program supports young children with developmental delays or disabilities and their families.&nbsp;",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-white-outline\" href=\"https://mobirise.com\"><span class=\"cm-icon cm-icon-arrowright mbr-iconfont mbr-iconfont-btn\"></span></a>",
           "alias": "colorm/components",
           "_tags": [
@@ -399,7 +399,7 @@
             "paddingBottom": "2",
             "bgColor": "#ffffff"
           },
-          "text": "While all children grow and develop at their own rate, some infants and toddlers experience delays in their development or have been diagnosed with a special health condition that is likely to lead to non-typical development. &nbsp;The earlier any potential delays and disabilities are identified and early intervention services begin, the better chance a young child has of achieving his or her best potential.&nbsp;<br><br>The overall goals of early intervention are to:&nbsp;<br><b>Enable young children</b> to be active and successful participants during their early childhood years and in the future in a variety of settings: in their homes, in child care or preschool programs, and in their communities;&nbsp;<br><br><b>Enable families </b>to provide care for their children and have the resources they need to participate in their own desired family and community activities.<br>",
+          "text": "While all children grow and develop at their own rate, some infants and toddlers experience delays in their development or have been diagnosed with a special health condition that is likely to lead to non-typical development. &nbsp;The earlier any potential delays and disabilities are identified and early intervention services begin, the better chance a young child has of achieving his or her best potential.&nbsp;<br><br>The overall goals of early intervention are to:&nbsp;<br><b>Enable young children</b> to be active and successful participants during their early childhood years and in the future in a variety of settings: in their homes, in child care or preschool programs, and in their communities; and<br><br><b>Enable families </b>to provide care for their children and have the resources they need to participate in their own desired family and community activities.<br>",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
@@ -460,10 +460,10 @@
             "visibleSlides": "3",
             "slides": [
               {
-                "active": true,
+                "active": false,
                 "text": "<p>“Because of this program, I now can understand my child over the phone. I had previously gone an entire deployment without being able to communicate with her.”</p>",
-                "authorName": "John Smith",
-                "authorBio": "DEVELOPER",
+                "authorName": "Maryland Early Intervention Family Survey Respondant",
+                "authorBio": "2015 Family Survey",
                 "media": {
                   "image": {
                     "src": "@THEME_PATH@/components/_images/face1.jpg",
@@ -477,9 +477,9 @@
               },
               {
                 "active": false,
-                "text": "<p>“A major tturning point in the history of early philosophical science was the controversial ”</p>",
-                "authorName": "Abanoub S.",
-                "authorBio": "USER",
+                "text": "<p>“Without the ITP, we're not sure how we could have grown to become the strong family team we are today ”</p>",
+                "authorName": "Michele H. and Robert B.",
+                "authorBio": "Baltimore County, MD",
                 "media": {
                   "image": {
                     "src": "@THEME_PATH@/components/_images/face2.jpg",
@@ -493,9 +493,9 @@
               },
               {
                 "active": false,
-                "text": "<p>“A major tturning point in the history of early philosophical science was the controversial ”</p>",
-                "authorName": "Suffian A.",
-                "authorBio": "USER",
+                "text": "<p>“The early intervention program supports my child to be ready for school by assisting me to tach my child pre-reading activities (such as namig pictures) and pre-match activities (such as sorting household items).”</p>",
+                "authorName": "Maryland Early Intervention Family Survey Respondant",
+                "authorBio": "2017 Family Survey",
                 "media": {
                   "image": {
                     "src": "@THEME_PATH@/components/_images/face3.jpg",
@@ -508,10 +508,10 @@
                 }
               },
               {
-                "active": false,
-                "text": "<p>\"A major tturning point in the history of early philosophical science was the controversial \"</p>",
-                "authorName": "Alex Higgins",
-                "authorBio": "USER",
+                "active": true,
+                "text": "<p>\"We all work together as a team so that Kayleigh can reach her maximum potential and I know that early intervention has already made a huge difference in her future.\"</p>",
+                "authorName": "Klatt Family",
+                "authorBio": "One Family's Story",
                 "media": {
                   "image": {
                     "src": "@THEME_PATH@/components/_images/face4.jpg",
@@ -550,7 +550,7 @@
             "showTitle": true,
             "showButtons": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/stock-photo-colorful-wooden-building-blocks-selective-focus-306641441-1500x1101.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/building-blocks-purchased-2000x1333.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#eeeeee",
@@ -804,7 +804,7 @@
             "paddingBottom": "1",
             "columns": "2",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/stock-photo-colorful-wooden-building-blocks-selective-focus-306641443-1500x1101.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/building-blocks-purchased-2000x1333.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#2c3e50",
@@ -1001,7 +1001,7 @@
           "title61": "TRENDY WEBSITE BLOCKS",
           "title62": "TRENDY WEBSITE BLOCKS",
           "title63": "TRENDY WEBSITE BLOCKS",
-          "tabTitle": "<li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1tabs1-2g\" aria-expanded=\"false\">3-9 months</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2tabs1-2g\" aria-expanded=\"false\">12-18 months</a></li><li class=\"nav-item nav-item-last\" style=\"display: inline-block;\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3tabs1-2g\" aria-expanded=\"true\">20-33 months</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4tabs1-2g\" aria-expanded=\"false\">Awesome</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5tabs1-2g\" aria-expanded=\"false\">Amazing</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6tabs1-2g\" aria-expanded=\"true\">Beautiful</a></li>",
+          "tabTitle": "<li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1tabs1-2g\" aria-expanded=\"false\">3-9 months</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2tabs1-2g\" aria-expanded=\"true\">12-18 months</a></li><li class=\"nav-item nav-item-last\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3tabs1-2g\" aria-expanded=\"true\">20-33 months</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4tabs1-2g\" aria-expanded=\"false\">Awesome</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5tabs1-2g\" aria-expanded=\"false\">Amazing</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6tabs1-2g\" aria-expanded=\"true\">Beautiful</a></li>",
           "media11": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-header5",
@@ -1209,11 +1209,11 @@
               "family": "et-line"
             }
           },
-          "text11": "* Turns toward bright colors and lights<br>* Follows moving toys or faces with their eyes<br>* Recognizes the bottle or breast<br>* Responds to loud or new sounds<br>* Wiggles and kicks with legs and arms<br>* Lifts head and shoulders up while on stomach<br>* Becomes soothed by a familiar voice<br>* \"Talks\" back and forth with parents",
+          "text11": "* Turns toward bright colors and lights<br>* Follows moving toys or faces with their eyes<br>* Recognizes the bottle or breast<br>* Responds to loud or new sounds<br>* Wiggles and kicks with legs and arms<br>* Lifts head and shoulders up while on stomach<br>* Becomes soothed by a familiar voice<br>* Vocalizes back and forth with parents",
           "text12": "* Reaches for toys and picks them up<br>* Rolls over front-to-back and back-to-front<br>* Knows faces of family members<br>* Responds to sounds by making sounds<br>* Responds when you say baby's name<br>* Enjoys rattles and other toys that make sounds<br>* Turns toward voices<br>* Shows curiosity; tries to get things that are out of reach",
           "text13": "* Copies sounds or gestures<br>* Reaches for crumbs or other small things with their thumb and fingers<br>* Moves toys from one hand to the other hand<br>* Sits unassisted<br>* Responds to quiet talking<br>* Has favorite toys<br>* Understands \"no\"<br>* Makes lots of different sounds like \"mamamama\" and \"bababababa\"",
           "text21": "* Responds to name<br>* May be scared of strangers<br>* Crawls on hands and knees<br>* Pulls up to a standing position<br>* Walks by holding on to furniture<br>* Says 1 to 2 words<br>* Can point and look at familiar people or objects when asked&nbsp;<br>* Uses voice to get your attention<br>* Imitates words you say<br>* Enjoys music",
-          "text22": "* Uses gestures (like waving \"bye\")<br>* Likes to look at pictures in a book<br>* Can hold a crayon in a fist<br>* Can walk alne without help<br>* Puts out arm or leg to help with dressing<br>* Plays games like \"peek-a-boo\"<br>* Pokes with index finger<br>* Follows simple directions like \"pick up the toy\"",
+          "text22": "* Uses gestures (like waving \"bye\")<br>* Likes to look at pictures in a book<br>* Can hold a crayon in a fist<br>* Can walk alone without help<br>* Puts out arm or leg to help with dressing<br>* Plays games like \"peek-a-boo\"<br>* Pokes with index finger<br>* Follows simple directions like \"pick up the toy\"",
           "text23": "* Likes to hand things to others as play<br>* Shows affection for familiar people<br>* Explores alone but with parent close by<br>* Says and shakes head \"no\"<br>* Points to show what s/he wants<br>* Points to one body part<br>* May walk up steps<br>* Pulls toys while walking",
           "text31": "* Can name two objects<br>* Likes to pretend play<br>* Can throw a ball<br>* Likes to play alone with toys for a short time<br>* Says \"No\" a lot<br>* Feeds self with a spoon and drinks with a cup<br>* Shows interest in other children<br>* Turns pages in a book<br><br>",
           "text32": "* Uses 2 to 3 words together, like \"No, Mommy\" or \"More cookies\"<br>* Says names of toys and people<br>* Turns one page at a time<br>* Runs short distances without falling<br>* Copies others, especially adults and older children<br>* Repeats words overheard in conversation<br>* Begins to sort things by shape and color<br>* Stands on tiptoes<br>* Kicks a ball<br>* Begins to play with other chilren, as in chasing one another",
@@ -1307,7 +1307,7 @@
           },
           "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
           "title": "Red Flags of Development",
-          "text": "There are red flags in a child's development that can prevent them from learning. &nbsp;If you notice any of these red flags, <a href=\"Referral.html\">make a referral</a> to the Maryland Infants and Toddlers Program right away.",
+          "text": "There may be red flags in a child's development that can compromise their ability to interact with others, learn, and/or gain independence. If you notice any of these red flags, <a href=\"Referral.html\">make a referral</a> to the Maryland Infants and Toddlers Program right away.",
           "media": {
             "image": {
               "active": true,
@@ -1580,16 +1580,16 @@
             "overlayOpacity": "0.3"
           },
           "title": "Additional Resources",
-          "text": "These resources include print, video, and online information for families and professionals about early childhod development, developmental milestones, screening and evaluation, and strategies for supporting healthy development.",
+          "text": "These resources include print, video, and online information for families and professionals about early childhood development, developmental milestones, screening and evaluation, and strategies for supporting healthy development.",
           "title1": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion2-10-init\" data-core=\"\" href=\"#collapseOneaccordion2-10\" aria-expanded=\"false\" aria-controls=\"collapseOne\"><span class=\"sign\"></span>Develomental Milestones Tracker App (iPhone, Android)</a>",
           "title2": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion2-10-init\" data-core=\"\" href=\"#collapseTwoaccordion2-10\" aria-expanded=\"true\" aria-controls=\"collapseTwo\">Online Learning with CEUs for Child Care Providers</a>",
-          "title3": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion2-10-init\" data-core=\"\" href=\"#collapseThreeaccordion2-10\" aria-expanded=\"true\" aria-controls=\"collapseThree\">Additional Websites</a>",
+          "title3": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion2-10-init\" data-core=\"\" href=\"#collapseThreeaccordion2-10\" aria-expanded=\"false\" aria-controls=\"collapseThree\">Additional Websites</a>",
           "title4": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseFour\" aria-expanded=\"false\" aria-controls=\"collapseFour\">This is a accordion Title 4</a>",
           "title5": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseFive\" aria-expanded=\"false\" aria-controls=\"collapseFive\">This is a accordion Title 5</a>",
           "title6": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseSix\" aria-expanded=\"false\" aria-controls=\"collapseSix\">This is a accordion Title 6</a>",
           "text1": "<p>Track your child's milestones from age 2 months to 5 years with CDC's easy-to-use app on <a href=\"https://itunes.apple.com/us/app/cdcs-milestone-tracker/id1232718688?mt=8\" target=\"_blank\">iOs</a> and <a href=\"https://play.google.com/store/apps/details?id=gov.cdc.ncbddd.actearly.milestones\" target=\"_blank\">Android </a>devices in English and Spanish. &nbsp;With the app, you can e<span style=\"font-size: 1rem;\">nter and save information about one or more children; keep track of your child's doctors' appointments; get a summary of your child's milestones to view and to share with your physician and other important care providers; and receive tips and activities to support your child's development.&nbsp;</span></p>",
           "text2": "<p>The <a href=\"https://www.cdc.gov/ncbddd/watchmetraining/index.html\" target=\"_blank\">Watch Me! Celebrating Milestones and Sharing Concerns</a>&nbsp; is a free, online training course that helps child care providers identify children who might need extra help in their development. &nbsp;The 1-hour, 4-module course provides tools and best practices for monitoring the development of children in their care and for talking about it with parents. &nbsp;The course offers 0.1 CEUs.</p>",
-          "text3": "<p>Key websites for learning about early childhood development:<br>* <b><a href=\"https://www.zerotothree.org/\" target=\"_blank\">Zero to Three</a></b><br>* <strong><a href=\"https://www.acf.hhs.gov/ecd/child-health-development/watch-me-thrive\" target=\"_blank\">Birth to 5: Watch Me Thrive!</a>&nbsp;</strong><br>* <b><a href=\"http://www.easterseals.com/mtffc/\" target=\"_blank\">Make the First Five Count</a>&nbsp;</b></p>",
+          "text3": "<p>Key websites for learning about early childhood development:</p><br><p>* Maryland Healthy Beginnings<br>* <b><a href=\"https://www.zerotothree.org/\" target=\"_blank\">Zero to Three</a></b><br>* <strong><a href=\"https://www.acf.hhs.gov/ecd/child-health-development/watch-me-thrive\" target=\"_blank\">Birth to 5: Watch Me Thrive!</a>&nbsp;</strong><br>* <b><a href=\"http://www.easterseals.com/mtffc/\" target=\"_blank\">Make the First Five Count</a>&nbsp;</b></p>",
           "text4": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>",
           "text5": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>",
           "text6": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>",
@@ -1625,7 +1625,7 @@
             "showTitle": true,
             "showButtons": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/stock-photo-colorful-wooden-building-blocks-selective-focus-306641441-1500x1101.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/building-blocks-purchased-2000x1333.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#eeeeee",
@@ -1645,7 +1645,7 @@
             "Theme"
           ],
           "_name": "call4",
-          "_anchor": "call4-13"
+          "_anchor": "call4-z"
         },
         {
           "_styles": {
@@ -1962,7 +1962,7 @@
           },
           "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
           "title": "Online Referral System",
-          "text": "Now you can make a referral to the Maryland Infants and Toddlers Program at your convenience using the Online Referral System. &nbsp;This fully encrypted web-based application will ensure the security of your information while saving you time and incresing efficiency.",
+          "text": "Now you can make a referral to the Maryland Infants and Toddlers Program at your convenience using the Online Referral System. &nbsp;This fully encrypted web-based application will ensure the security of your information while saving you time and increasing efficiency.",
           "title11": "CREATE AN ACCOUNT",
           "title12": "COMPLETE A REFERRAL",
           "title13": "SYSTEM SPECIFICATIONS",
@@ -2279,7 +2279,7 @@
           },
           "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
           "title": "What Happens After Referral",
-          "text": "Once a referral is made the local Infants and Toddlers Program staff will call the family to talk through next steps, explain the family's rights, begin to gather information about the family's concerns, and schedule a developmental screening or evaluation to determine eligibility. &nbsp;After eligibility is established, early childhod specialists with will work with the family to identify the services and supports needed and to create a plan of action, called the Individualized Family Services Plan (IFSP).",
+          "text": "Once a referral is made the local Infants and Toddlers Program staff will call the family to talk through next steps, explain the family's rights, begin to gather information about the family's concerns, and schedule a developmental screening or evaluation to determine eligibility. &nbsp;After eligibility is established, early intervention providers will work with the family to complete an in-depth child and family assessment, to identify outcomes, services, and supports needed and to create a plan of action, called the Individualized Family Services Plan (IFSP).",
           "media": {
             "image": {
               "active": true,
@@ -2505,10 +2505,10 @@
               "family": "et-line"
             }
           },
-          "text11": "The local Infants and Toddlers Program has <b>45 days from the date of the child's referral</b> to complete evaluation and assessment, determine eligibility, and develop an Individualized Family Service Plan, if the child is found eligible. &nbsp;The family will always be a part of the evaluation and in planning the best course of action. &nbsp;",
+          "text11": "The local Infants and Toddlers Program has <b>45 days from the date of the child's referral</b> to complete evaluation and assessment, determine eligibility, and develop an Individualized Family Service Plan, if the child is found eligible. &nbsp;The family plays an active role in the evaluation and assessment process, as well as all aspects of early intervention services. &nbsp;",
           "text12": "Sites made with Mobirise are 100% mobile-friendly according the latest Google Test and Google loves those websites (officially)! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut cupiditate est, illum quo. Unde in fugit commodi labore earum harum, minus itaque maxime asperiores voluptatibus, iusto quae, ab dignissimos sequi.",
           "text13": "Sites made with Mobirise are 100% mobile-friendly according the latest Google Test and Google loves those websites (officially)! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut cupiditate est, illum quo. Unde in fugit commodi labore earum harum, minus itaque maxime asperiores voluptatibus, iusto quae, ab dignissimos sequi.",
-          "text21": "Services are determined based on the child's unique strengths and needs and the family's priorities and concerns identified through an in-depth family assessment. &nbsp;Services are delivered in the child's natural environment.",
+          "text21": "Services are determined based on the child's unique strengths and needs and the family's priorities and concerns identified through an in-depth family assessment. Services are intended to build the family's capacity to support their child's participation in everyday activities and are provided within those natural environments.",
           "text22": "Mobirise themes are based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework. Now, even if you're not code-savvy, you can be a part of an exciting growing bootstrap community. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique maxime, placeat. Dignissimos incidunt, consequuntur molestiae! Exercitationem tempora qui, non sit quia, voluptate sequi repudiandae accusamus voluptatem expedita ducimus vero incidunt.",
           "text23": "Mobirise themes are based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework. Now, even if you're not code-savvy, you can be a part of an exciting growing bootstrap community. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique maxime, placeat. Dignissimos incidunt, consequuntur molestiae! Exercitationem tempora qui, non sit quia, voluptate sequi repudiandae accusamus voluptatem expedita ducimus vero incidunt.",
           "text31": "Choose from the large selection of latest pre-made blocks - full-screen intro, bootstrap carousel, content slider, responsive image gallery with lightbox, parallax scrolling, video backgrounds, hamburger menu, sticky header and more. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus, nam officia. Repellendus quae modi eaque sed, aliquam molestias, amet neque blanditiis illo ratione eos! Unde minima porro, consequatur eveniet dolore!",
@@ -2544,7 +2544,7 @@
             "showTitle": true,
             "showButtons": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/stock-photo-colorful-wooden-building-blocks-selective-focus-306641441-1500x1101.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/building-blocks-purchased-2000x1333.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#eeeeee",
@@ -2564,7 +2564,7 @@
             "Theme"
           ],
           "_name": "call4",
-          "_anchor": "call4-14"
+          "_anchor": "call4-10"
         },
         {
           "_styles": {
@@ -2916,7 +2916,7 @@
           "title": "Maryland Infants &amp; Toddlers Program",
           "title1": "Bootstrap 4",
           "subtitle1": "family-centered focus",
-          "caption1": "Families are strong and valued partners whose needs and priorities are key throughout the entire process. &nbsp;Decisions about services and stratgies for intervention are made in collaboration with families.",
+          "caption1": "Families are strong and valued partners whose needs and priorities are key throughout the entire process. &nbsp;Decisions about services and strategies for intervention are made in collaboration with families.",
           "buttons1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">learn more</a>",
           "title2": "Responsive",
           "subtitle2": "services delivered in natural environments",
@@ -2985,7 +2985,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/brothers-764670-1920-1280x1920.jpg",
+              "src": "@PROJECT_PATH@/assets/images/stock-photo-colorful-paint-children-hand-painted-over-white-background-45077105-600x959.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2996,7 +2996,7 @@
           },
           "title1": "Bootstrap 4",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "The early intervention program's overarching <b>outcomes are for children</b> to develop\npositive social-emotional skills, to acquire and use knowledge and skills, and to use appropriate behaviors to meet their needs. &nbsp;<br><br>The overall family <b>outcomes are for families</b> to understand their&nbsp;rights, communicate effectively about their child’s needs, and learn how they can help their child develop&nbsp;and learn.&nbsp;<br><br>The Maryland Infants and Toddlers Program is not a medical program that “treats” children.&nbsp;While they may not be trained specialists, parents and caregivers are a child’s most important teachers. The early intervention team will partner with them by using a coaching model to design and implement strategies within a child’s daily routine.<br>",
+          "caption1": "The Maryland Infants and Toddlers Program's overarching <b>outcomes are for children</b> to develop\npositive social-emotional skills, to acquire and use knowledge and skills, and to use appropriate behaviors to meet their needs. &nbsp;<br><br>The overall family <b>outcomes are for families</b> to understand their&nbsp;rights, communicate effectively about their child’s needs, and learn how they can help their child develop&nbsp;and learn.&nbsp;<br><br>The Maryland Infants and Toddlers Program is not a medical program that “treats” children.&nbsp;While they may not be trained specialists, parents and caregivers are a child’s most important teachers. The early intervention team will partner with them by using a coaching model to design and implement strategies within a child’s daily routine.<br>",
           "number1": "1",
           "title2": "Responsive",
           "subtitle2": "One of Bootstrap 4's big points",
@@ -3151,7 +3151,7 @@
             "overlayColor": "#ffc80a",
             "overlayOpacity": 0.9
           },
-          "title": "A child and family may receive early intervention services if found eligible for early intervention services AND if the child is under three years of age and resides in Maryland.",
+          "title": "A child and family may receive early intervention services if the child meets eligibility requirements AND if the child is under three years of age and resides in Maryland.",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-white-outline\" href=\"https://mobirise.com\"><span class=\"cm-icon cm-icon-arrowright mbr-iconfont mbr-iconfont-btn\"></span></a>",
           "alias": "colorm/components",
           "_tags": [
@@ -3292,23 +3292,32 @@
           "tabTitle": "<li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1header9-2c\" aria-expanded=\"false\">25% Developmental Delay</a></li><li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2header9-2c\" aria-expanded=\"false\">AtYpical Development</a></li><li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3header9-2c\" aria-expanded=\"true\">diagnosed condition</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4header9-2c\">Awesome</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5header9-2c\">Amazing</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6header9-2c\">Beautiful</a></li>",
           "media11": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/nb1.png",
+              "src": "@PROJECT_PATH@/assets/images/baby-1317604-1929-1920x1280.jpg",
               "class": "card-img-top",
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "media12": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/nb2.png",
+              "src": "@PROJECT_PATH@/assets/images/toddler-667300-1920-1920x1285.jpg",
               "class": "card-img-top",
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "media13": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/nb3.png",
+              "src": "@PROJECT_PATH@/assets/images/boy-609687-1920-1920x1280.jpg",
               "class": "card-img-top",
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "media14": {
@@ -3403,7 +3412,7 @@
           },
           "text1": "≥25% delay compared with expected development for the child's age in one or or more of the following areas: cognitive (early learning), communication, physical development (fine and gross motor skills), social-emotional skills, &nbsp;and adaptive (self-help). &nbsp;<br><br>The Infants and Toddlers Program will conduct the appropriate evaluation, at no cost to the family, with the parent's consent.",
           "text2": "Atypical development refers to quality of performance. &nbsp;A child may demonstrate skills that are age appropriate but that are of atypical quality. &nbsp;Examples of atypical development include: refusal to take foods of a certain texture, decreased initiation of communication for social purposes, repetitive or stereotyped patterns of play with objects, etc.<br><br>Children may be eligible for early intervention if they demonstrate atypical development in one or more areas.",
-          "text3": "Children may be eligible for early intervention services if they have been diagnosed with a medical condition that has a high probability of delayed or atypical development. &nbsp;Examples include, but are not limited to, Down Syndrome, visual or hearing impairment, elevated lead poisoning, extreme prematurity (birth weight &lt;1200 grams), epilepsy, etc.",
+          "text3": "Children may be eligible for early intervention services if they have been diagnosed with a physical or mental condition that has a high probability of delayed or atypical development. &nbsp;Examples include, but are not limited to, Down Syndrome, visual or hearing impairment, elevated lead levels, extreme prematurity (birth weight &lt;1200 grams), epilepsy, etc.",
           "text4": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laboriosam, nisi, ea. Excepturi dolores, laborum ipsum soluta aliquid, ullam repellat ratione iste harum voluptatem? Alias id blanditiis, sequi possimus dolorem dolorum.",
           "text5": "Create a responsive, touch-swipe slideshow with <a href=\"http://mobirise.com\">Mobirise bootstrap slider</a>. Add images, text, buttons to slides, set autoplay, full-screen, full-width or boxed layout. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde sunt, illo quo ipsa. Laboriosam voluptatem sunt nisi velit incidunt labore, sapiente pariatur ipsam fugiat doloremque asperiores eos ipsum, eveniet cum.",
           "text6": "Easily add subscribe and contact forms without any server-side integration. Just link your email to form and get submissions instantly. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium id perspiciatis, sint odit error animi veniam omnis cupiditate distinctio, a quidem deleniti laborum maiores optio laudantium earum vel! Sint, rerum.",
@@ -3436,7 +3445,7 @@
             "bgColor": "#fff"
           },
           "title": "Positive Outcomes for Children and Families",
-          "meta": "Maryland’s own 2017 longitudinal research validates the importance of starting early. &nbsp;More than 68% of children \n<br>who receive early intervention services were enrolled in general education by third grade through sixth grade.&nbsp;<br><br>In Maryland, most children receiving early intervention services demonstrate progress in the outcome areas of positive social-emotional development and relationships, learning and functionally using new skills, and using appropriate behavior to meet their needs.",
+          "meta": "Maryland’s own 2017 longitudinal research validates the importance of starting early. &nbsp;<b>More than 68% of children \n</b><br>who received early intervention services were enrolled in general education by third grade.&nbsp;<br><br>In Maryland, most children receiving early intervention services demonstrate progress in the outcome areas of positive social-emotional development and relationships, learning and functionally using new skills, and using appropriate behavior to meet their needs.",
           "_tags": [
             "Theme"
           ],
@@ -3526,8 +3535,8 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "Publications",
-          "meta": "By <b>John Smith</b> posted July 20, 2016",
+          "title": "Maryland Infants and Toddlers Program Publications",
+          "meta": "These publications are designed to support families and other referral sources within Maryland's statewide early intervention system.",
           "_tags": [
             "Theme"
           ],
@@ -3609,7 +3618,7 @@
             "showTitle": true,
             "showButtons": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/stock-photo-colorful-wooden-building-blocks-selective-focus-306641441-1500x1101.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/building-blocks-purchased-2000x1333.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#eeeeee",
@@ -3629,7 +3638,7 @@
             "Theme"
           ],
           "_name": "call4",
-          "_anchor": "call4-12"
+          "_anchor": "call4-y"
         }
       ]
     },
