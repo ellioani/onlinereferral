@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Online Referral",
-    "currentPage": "Referral.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "colorm",
       "title": "ColorM",
@@ -477,9 +477,9 @@
               },
               {
                 "active": false,
-                "text": "<p>“Without the ITP, we're not sure how we could have grown to become the strong family team we are today ”</p>",
+                "text": "<p>“Without the [Infants and Todders Program], we're not sure how we could have grown to become the strong family team we are today ”</p>",
                 "authorName": "Michele H. and Robert B.",
-                "authorBio": "Baltimore County, MD",
+                "authorBio": "A Family Guide to Early Intervention Services in Maryland",
                 "media": {
                   "image": {
                     "src": "@THEME_PATH@/components/_images/face2.jpg",
@@ -511,7 +511,7 @@
                 "active": true,
                 "text": "<p>\"We all work together as a team so that Kayleigh can reach her maximum potential and I know that early intervention has already made a huge difference in her future.\"</p>",
                 "authorName": "Klatt Family",
-                "authorBio": "One Family's Story",
+                "authorBio": "Moving Maryland Forward ",
                 "media": {
                   "image": {
                     "src": "@THEME_PATH@/components/_images/face4.jpg",
@@ -1583,13 +1583,13 @@
           "text": "These resources include print, video, and online information for families and professionals about early childhood development, developmental milestones, screening and evaluation, and strategies for supporting healthy development.",
           "title1": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion2-10-init\" data-core=\"\" href=\"#collapseOneaccordion2-10\" aria-expanded=\"false\" aria-controls=\"collapseOne\"><span class=\"sign\"></span>Develomental Milestones Tracker App (iPhone, Android)</a>",
           "title2": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion2-10-init\" data-core=\"\" href=\"#collapseTwoaccordion2-10\" aria-expanded=\"true\" aria-controls=\"collapseTwo\">Online Learning with CEUs for Child Care Providers</a>",
-          "title3": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion2-10-init\" data-core=\"\" href=\"#collapseThreeaccordion2-10\" aria-expanded=\"false\" aria-controls=\"collapseThree\">Additional Websites</a>",
+          "title3": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion2-10-init\" data-core=\"\" href=\"#collapseThreeaccordion2-10\" aria-expanded=\"true\" aria-controls=\"collapseThree\">Additional Websites</a>",
           "title4": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseFour\" aria-expanded=\"false\" aria-controls=\"collapseFour\">This is a accordion Title 4</a>",
           "title5": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseFive\" aria-expanded=\"false\" aria-controls=\"collapseFive\">This is a accordion Title 5</a>",
           "title6": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseSix\" aria-expanded=\"false\" aria-controls=\"collapseSix\">This is a accordion Title 6</a>",
           "text1": "<p>Track your child's milestones from age 2 months to 5 years with CDC's easy-to-use app on <a href=\"https://itunes.apple.com/us/app/cdcs-milestone-tracker/id1232718688?mt=8\" target=\"_blank\">iOs</a> and <a href=\"https://play.google.com/store/apps/details?id=gov.cdc.ncbddd.actearly.milestones\" target=\"_blank\">Android </a>devices in English and Spanish. &nbsp;With the app, you can e<span style=\"font-size: 1rem;\">nter and save information about one or more children; keep track of your child's doctors' appointments; get a summary of your child's milestones to view and to share with your physician and other important care providers; and receive tips and activities to support your child's development.&nbsp;</span></p>",
           "text2": "<p>The <a href=\"https://www.cdc.gov/ncbddd/watchmetraining/index.html\" target=\"_blank\">Watch Me! Celebrating Milestones and Sharing Concerns</a>&nbsp; is a free, online training course that helps child care providers identify children who might need extra help in their development. &nbsp;The 1-hour, 4-module course provides tools and best practices for monitoring the development of children in their care and for talking about it with parents. &nbsp;The course offers 0.1 CEUs.</p>",
-          "text3": "<p>Key websites for learning about early childhood development:</p><br><p>* Maryland Healthy Beginnings<br>* <b><a href=\"https://www.zerotothree.org/\" target=\"_blank\">Zero to Three</a></b><br>* <strong><a href=\"https://www.acf.hhs.gov/ecd/child-health-development/watch-me-thrive\" target=\"_blank\">Birth to 5: Watch Me Thrive!</a>&nbsp;</strong><br>* <b><a href=\"http://www.easterseals.com/mtffc/\" target=\"_blank\">Make the First Five Count</a>&nbsp;</b></p>",
+          "text3": "<p>Key websites for learning about early childhood development:</p><br><p>* <a href=\"http://olms.cte.jhu.edu/olms2/healthybeginnings\" target=\"_blank\">Maryland Healthy Beginnings</a><br>* <b><a href=\"https://www.zerotothree.org/\" target=\"_blank\">Zero to Three</a></b><br>* <strong><a href=\"https://www.acf.hhs.gov/ecd/child-health-development/watch-me-thrive\" target=\"_blank\">Birth to 5: Watch Me Thrive!</a>&nbsp;</strong><br>* <b><a href=\"http://www.easterseals.com/mtffc/\" target=\"_blank\">Make the First Five Count</a>&nbsp;</b></p>",
           "text4": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>",
           "text5": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>",
           "text6": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>",
