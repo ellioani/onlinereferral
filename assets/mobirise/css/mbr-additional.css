@@ -1012,36 +1012,30 @@ blockquote {
 }
 #tabs1-2g P {
   text-align: left;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'PT Sans', sans-serif;
 }
 #tabs1-2g .mbr-section-title {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Oxygen', sans-serif;
+  font-size: 48px;
 }
-#features17-2h .mbr-section-title {
-  font-weight: 400;
-  font-family: 'Montserrat', sans-serif;
-  font-size: 36px;
-  text-align: left;
-}
-#features17-2h .mbr-section-subtitle {
-  text-transform: uppercase;
-  letter-spacing: 2px;
-  color: #fff;
+#content4-11 P {
+  font-family: 'PT Sans', sans-serif;
+  font-size: 20px;
 }
 #tabs2-2i P {
   text-align: left;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'PT Sans', sans-serif;
 }
 #tabs2-2i .mbr-section-title {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'PT Sans', sans-serif;
   font-size: 48px;
 }
 #accordion2-10 H1 {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'PT Sans', sans-serif;
   font-size: 48px;
 }
 #accordion2-10 P {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'PT Sans', sans-serif;
 }
 #content3-11 .mbr-section-title,
 #content3-11 .mbr-section-subtitle {
@@ -1073,9 +1067,13 @@ blockquote {
 
 
 
+
+
+
+
 #content1-2s P {
   color: #000000;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'PT Sans', sans-serif;
 }
 #features1-2u .mbr-section-title {
   font-weight: 700;
@@ -1086,30 +1084,40 @@ blockquote {
   text-transform: uppercase;
   letter-spacing: 2px;
   color: #fff;
+  font-family: 'PT Sans', sans-serif;
+}
+#features1-2u .mbr-section-text {
+  font-family: 'PT Sans', sans-serif;
 }
 #tabs1-1z .mbr-section-title {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Oxygen', sans-serif;
+  font-size: 48px;
 }
 #tabs1-1z P {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'PT Sans', sans-serif;
 }
-#features17-2v .mbr-section-title {
-  font-weight: 400;
-  font-family: 'Merriweather', serif;
-  font-size: 36px;
-}
-#features17-2v .mbr-section-subtitle {
-  text-transform: uppercase;
-  letter-spacing: 2px;
-  color: #fff;
+#content4-13 P {
+  font-family: 'PT Sans', sans-serif;
+  font-size: 20px;
 }
 #tabs3-2x P {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'PT Sans', sans-serif;
   text-align: left;
 }
-#call4-10 .mbr-section-title {
-  font-family: 'Montserrat', sans-serif;
-  text-align: right;
+#tabs3-2x .mbr-section-title {
+  font-family: 'Oxygen', sans-serif;
+  font-size: 48px;
+}
+#content3-15 .mbr-section-title,
+#content3-15 .mbr-section-subtitle {
+  text-align: center;
+}
+#content3-15 H3 {
+  font-family: 'Oxygen', sans-serif;
+  font-size: 48px;
+}
+#buttons1-14 .btn {
+  font-family: 'PT Sans Narrow', sans-serif;
 }
 #footer7-e .mbr-section-subtitle {
   color: #ffffff;
@@ -1206,8 +1214,13 @@ blockquote {
 
 
 
+
+
+
+
+
 #content1-1j P {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'PT Sans', sans-serif;
   color: #000000;
 }
 #features1-1s .mbr-section-title {
@@ -1219,6 +1232,7 @@ blockquote {
   text-transform: uppercase;
   letter-spacing: 2px;
   color: #fff;
+  font-family: 'PT Sans', sans-serif;
 }
 #features8-1h .lead {
   color: #9fa3a7;
@@ -1228,7 +1242,7 @@ blockquote {
 }
 #features8-1h .mbr-section-text {
   color: #000000;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'PT Sans', sans-serif;
   font-size: 20px;
 }
 #menu-g .hide-buttons .nav-btn {
@@ -1299,15 +1313,9 @@ blockquote {
 #menu-g .dropdown-item[aria-expanded="true"] {
   color: #f39c12!important;
 }
-#features17-2e .mbr-section-title {
-  font-weight: 400;
-  font-size: 36px;
-  font-family: 'Merriweather', serif;
-}
-#features17-2e .mbr-section-subtitle {
-  text-transform: uppercase;
-  letter-spacing: 2px;
-  color: #fff;
+#content4-y P {
+  font-family: 'PT Sans', sans-serif;
+  font-size: 20px;
 }
 #footer7-e .mbr-section-subtitle {
   color: #ffffff;
@@ -1334,31 +1342,33 @@ blockquote {
   color: #000;
 }
 #header9-2c .mbr-section-title {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Oxygen', sans-serif;
   font-size: 48px;
 }
 #header9-2c .header-text {
   color: #000000;
+  font-family: 'PT Sans', sans-serif;
 }
 #header9-2c P {
   color: #000000;
+  font-family: 'PT Sans', sans-serif;
 }
 #content3-1t .mbr-section-title,
 #content3-1t .mbr-section-subtitle {
   text-align: center;
 }
 #content3-1t H3 {
-  font-family: 'Montserrat', sans-serif;
-  font-size: 46px;
+  font-family: 'Oxygen', sans-serif;
+  font-size: 48px;
 }
 #content3-1t P {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'PT Sans', sans-serif;
 }
 #progress-bar7-1l path[stroke] {
   stroke: #f39c12 !important;
 }
 #progress-bar7-1l P {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'PT Sans', sans-serif;
 }
 #progress-bar7-1l H4 {
   font-family: 'Merriweather', serif;
@@ -1368,17 +1378,27 @@ blockquote {
   text-align: center;
 }
 #content3-14 H3 {
-  font-family: 'Montserrat', sans-serif;
-  font-size: 46px;
+  font-family: 'Oxygen', sans-serif;
+  font-size: 48px;
   text-align: right;
+}
+#content3-14 P {
+  font-family: 'PT Sans', sans-serif;
 }
 #news1-13 P {
   color: #000000;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'PT Sans', sans-serif;
 }
-#call4-y .mbr-section-title {
-  font-family: 'Montserrat', sans-serif;
-  text-align: right;
+#content3-z .mbr-section-title,
+#content3-z .mbr-section-subtitle {
+  text-align: center;
+}
+#content3-z H3 {
+  font-family: 'Oxygen', sans-serif;
+  font-size: 48px;
+}
+#buttons1-10 .btn {
+  font-family: 'PT Sans Narrow', sans-serif;
 }
 
 

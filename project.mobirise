@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Online Referral",
-    "currentPage": "index.html",
+    "currentPage": "Referral.html",
     "theme": {
       "name": "colorm",
       "title": "ColorM",
@@ -26,7 +26,7 @@
       ]
     },
     "versionFirst": "4.7.2",
-    "uniqCompNum": 34,
+    "uniqCompNum": 42,
     "versionPublish": "4.8.3",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -974,12 +974,13 @@
           "_styles": {
             "P": {
               "text-align": "left",
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
             },
             ".mbr-section-title": {
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "48px"
             }
           },
           "_params": {
@@ -1004,7 +1005,7 @@
             "overlayOpacity": 0.9
           },
           "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
-          "title": "Click on the age of your child <br>to see the milestones",
+          "title": "<b>Click on the age of your child <br>to see the milestones</b>",
           "text": "Use the brief guidelines below to help you decide if you should request a more in-depth developmental screening or evaluation. &nbsp;Remember, if your child is at higher risk for developmental problems due to preterm birth, low birthweight, environmental risks like lead exposure, or other factors, you can make a referral to the Maryland Infants and Toddlers Program even if your child's development appears to be on track.&nbsp;",
           "title11": "3 Months",
           "title12": "6 Months",
@@ -1255,57 +1256,36 @@
           "_anchor": "tabs1-2g"
         },
         {
-          "_styles": {
-            ".mbr-section-title": {
-              "font-weight": "400",
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "font-size": "36px",
-              "text-align": "left"
-            },
-            ".mbr-section-subtitle": {
-              "text-transform": "uppercase",
-              "letter-spacing": "2px",
-              "color": "#fff"
-            }
-          },
           "_params": {
-            "showTitle": true,
-            "showButtons": false,
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/02.jpg",
-            "parallax": false,
-            "bgColorRadio": false,
-            "bgColor": "#ffc80a",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#ffc80a",
-            "overlayOpacity": 0.9
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgColor": "#eeeeee"
           },
-          "title": "Many children with developmental delays or behavior concerns are not identified as early as possible. &nbsp;If you have concerns about your child's development, complete an online referral today.",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-white-outline\" href=\"https://mobirise.com\"><span class=\"cm-icon cm-icon-arrowright mbr-iconfont mbr-iconfont-btn\"></span></a>",
+          "text": "<p>Many children with developmental delays or behavior concerns are not identified as early as possible. If you have concerns about your child's development, complete an online referral today.</p>",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
           ],
-          "_name": "features17",
-          "_anchor": "features17-2h"
+          "_name": "content4",
+          "_anchor": "content4-11",
+          "_styles": {
+            "P": {
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700",
+              "font-size": "20px"
+            }
+          }
         },
         {
           "_styles": {
             "P": {
               "text-align": "left",
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
             },
             ".mbr-section-title": {
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700",
               "font-size": "48px"
             }
           },
@@ -1331,7 +1311,7 @@
             "overlayOpacity": 0.9
           },
           "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
-          "title": "Red Flags of Development",
+          "title": "<b>Red Flags of Development</b>",
           "text": "There may be red flags in a child's development that can compromise their ability to interact with others, learn, and/or gain independence. If you notice any of these red flags, <a href=\"Referral.html\">make a referral</a> to the Maryland Infants and Toddlers Program right away.",
           "media": {
             "image": {
@@ -1604,7 +1584,7 @@
             "overlayColor": "#151515",
             "overlayOpacity": "0.3"
           },
-          "title": "Additional Resources",
+          "title": "<b>Additional Resources</b>",
           "text": "These resources include print, video, and online information for families and professionals about early childhood development, developmental milestones, screening and evaluation, and strategies for supporting healthy development.",
           "title1": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion2-10-init\" data-core=\"\" href=\"#collapseOneaccordion2-10\" aria-expanded=\"false\" aria-controls=\"collapseOne\"><span class=\"sign\"></span>Develomental Milestones Tracker App (iPhone, Android)</a>",
           "title2": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion2-10-init\" data-core=\"\" href=\"#collapseTwoaccordion2-10\" aria-expanded=\"false\" aria-controls=\"collapseTwo\">Online Learning with CEUs for Child Care Providers</a>",
@@ -1626,13 +1606,13 @@
           "_anchor": "accordion2-10",
           "_styles": {
             "H1": {
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700",
               "font-size": "48px"
             },
             "P": {
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
             }
           }
         },
@@ -1653,7 +1633,7 @@
             "paddingBottom": "0",
             "bgColor": "#fff"
           },
-          "title": "Ready to Submit a Referral?",
+          "title": "<b>Ready to Submit a Referral?</b>",
           "meta": "",
           "_tags": [
             "Theme"
@@ -1775,8 +1755,8 @@
           "_styles": {
             "P": {
               "color": "#000000",
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
             }
           }
         },
@@ -1791,7 +1771,13 @@
             ".mbr-section-subtitle": {
               "text-transform": "uppercase",
               "letter-spacing": "2px",
-              "color": "#fff"
+              "color": "#fff",
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
+            },
+            ".mbr-section-text": {
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
             }
           },
           "_params": {
@@ -1804,7 +1790,7 @@
             "paddingBottom": 2,
             "columns": "3",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/stock-photo-colorful-wooden-building-blocks-selective-focus-306641441-1500x1101.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/building-blocks-purchased-2000x1333.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#2c3e50",
@@ -1814,7 +1800,7 @@
             },
             "overlay": true,
             "overlayColor": "#2c3e50",
-            "overlayOpacity": 0.9
+            "overlayOpacity": "0.8"
           },
           "media1": {
             "image": {
@@ -1959,12 +1945,13 @@
         {
           "_styles": {
             ".mbr-section-title": {
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "48px"
             },
             "P": {
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
             }
           },
           "_params": {
@@ -1989,7 +1976,7 @@
             "overlayOpacity": 0.9
           },
           "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
-          "title": "Online Referral System",
+          "title": "<b>Online Referral System</b>",
           "text": "Now you can make a referral to the Maryland Infants and Toddlers Program at your convenience using the Online Referral System. &nbsp;This fully encrypted web-based application will ensure the security of your information while saving you time and increasing efficiency.",
           "title11": "CREATE AN ACCOUNT",
           "title12": "COMPLETE A REFERRAL",
@@ -2236,52 +2223,37 @@
           "_anchor": "tabs1-1z"
         },
         {
-          "_styles": {
-            ".mbr-section-title": {
-              "font-weight": "400",
-              "font-family": "'Merriweather', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
-              "font-size": "36px"
-            },
-            ".mbr-section-subtitle": {
-              "text-transform": "uppercase",
-              "letter-spacing": "2px",
-              "color": "#fff"
-            }
-          },
           "_params": {
-            "showTitle": true,
-            "showButtons": false,
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/02.jpg",
-            "parallax": false,
-            "bgColorRadio": false,
-            "bgColor": "#ffc80a",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#ffc80a",
-            "overlayOpacity": 0.9
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgColor": "#eeeeee"
           },
-          "title": "The first step in determining eligibility for early intervention services is a referral to the local Infants and Toddlers Program.&nbsp;",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-white-outline\" href=\"https://mobirise.com\"><span class=\"cm-icon cm-icon-arrowright mbr-iconfont mbr-iconfont-btn\"></span></a>",
+          "text": "<p>The first step in determining eligibility for early intervention services is a referral to the local Infants and Toddlers Program.</p>",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
           ],
-          "_name": "features17",
-          "_anchor": "features17-2v"
+          "_name": "content4",
+          "_anchor": "content4-13",
+          "_styles": {
+            "P": {
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700",
+              "font-size": "20px"
+            }
+          }
         },
         {
           "_styles": {
             "P": {
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700",
               "text-align": "left"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "48px"
             }
           },
           "_params": {
@@ -2306,7 +2278,7 @@
             "overlayOpacity": 0.9
           },
           "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
-          "title": "What Happens After Referral",
+          "title": "<b>What Happens After Referral</b>",
           "text": "Once a referral is made the local Infants and Toddlers Program staff will call the family to talk through next steps, explain the family's rights, begin to gather information about the family's concerns, and schedule a developmental screening or evaluation to determine eligibility. &nbsp;After eligibility is established, early intervention providers will work with the family to complete an in-depth child and family assessment, to identify outcomes, services, and supports needed and to create a plan of action, called the Individualized Family Services Plan (IFSP).",
           "media": {
             "image": {
@@ -2560,39 +2532,48 @@
         },
         {
           "_styles": {
-            ".mbr-section-title": {
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "text-align": "right"
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "48px"
             }
           },
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "showTitle": true,
-            "showButtons": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/building-blocks-purchased-2000x1333.jpg",
-            "parallax": false,
-            "bgColorRadio": false,
-            "bgColor": "#eeeeee",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"
-            },
-            "overlay": true,
-            "overlayColor": "#52779e",
-            "overlayOpacity": "0.8"
+            "showMeta": false,
+            "paddingTop": "3",
+            "paddingBottom": "0",
+            "bgColor": "#fff"
           },
-          "title": "Ready to make a referral?",
-          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos quaerat omnis amet accusantium accusamus quidems?",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline btn-primary\" href=\"https://uat.mditp.org\" data-toolbar=\"-mbrBtnMove\">refer a child</a>",
+          "title": "<b>Ready to Submit a Referral?</b>",
+          "meta": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content3",
+          "_anchor": "content3-15"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "3",
+            "bgColor": "#ffffff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://uat.mditp.org/login\" data-toolbar=\"-mbrBtnMove\">make a referral online</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"http://marylandpublicschools.org/programs/Pages/Special-Education/MITP/singlepointentry.aspx\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">call your local program</a>",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
           ],
-          "_name": "call4",
-          "_anchor": "call4-10"
+          "_name": "buttons1",
+          "_styles": {
+            ".btn": {
+              "font-family": "'PT Sans Narrow', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700"
+            }
+          },
+          "_anchor": "buttons1-14"
         },
         {
           "_styles": {
@@ -2791,8 +2772,8 @@
           "_anchor": "content1-1j",
           "_styles": {
             "P": {
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700",
               "color": "#000000"
             }
           }
@@ -2808,7 +2789,9 @@
             ".mbr-section-subtitle": {
               "text-transform": "uppercase",
               "letter-spacing": "2px",
-              "color": "#fff"
+              "color": "#fff",
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
             }
           },
           "_params": {
@@ -2831,7 +2814,7 @@
             },
             "overlay": true,
             "overlayColor": "#2c3e50",
-            "overlayOpacity": "0.9"
+            "overlayOpacity": "0.8"
           },
           "media1": {
             "image": {
@@ -2983,8 +2966,8 @@
             },
             ".mbr-section-text": {
               "color": "#000000",
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700",
               "font-size": "20px"
             }
           },
@@ -3148,45 +3131,25 @@
           "_anchor": "menu-g"
         },
         {
-          "_styles": {
-            ".mbr-section-title": {
-              "font-weight": "400",
-              "font-size": "36px",
-              "font-family": "'Merriweather', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700"
-            },
-            ".mbr-section-subtitle": {
-              "text-transform": "uppercase",
-              "letter-spacing": "2px",
-              "color": "#fff"
-            }
-          },
           "_params": {
-            "showTitle": true,
-            "showButtons": false,
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/02.jpg",
-            "parallax": false,
-            "bgColorRadio": false,
-            "bgColor": "#ffc80a",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#ffc80a",
-            "overlayOpacity": 0.9
+            "paddingTop": "2",
+            "paddingBottom": "3",
+            "bgColor": "#eeeeee"
           },
-          "title": "A child and family may receive early intervention services if the child meets eligibility requirements AND if the child is under three years of age and resides in Maryland.",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-white-outline\" href=\"https://mobirise.com\"><span class=\"cm-icon cm-icon-arrowright mbr-iconfont mbr-iconfont-btn\"></span></a>",
+          "text": "<p>A Child and family may receive early intervention services if the child meets eligibility requirements AND if the child is under three years of age and resides in Maryland.</p>",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
           ],
-          "_name": "features17",
-          "_anchor": "features17-2e"
+          "_name": "content4",
+          "_anchor": "content4-y",
+          "_styles": {
+            "P": {
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700",
+              "font-size": "20px"
+            }
+          }
         },
         {
           "_styles": {
@@ -3278,15 +3241,19 @@
               "color": "#000"
             },
             ".mbr-section-title": {
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
               "font-size": "48px"
             },
             ".header-text": {
-              "color": "#000000"
+              "color": "#000000",
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
             },
             "P": {
-              "color": "#000000"
+              "color": "#000000",
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
             }
           },
           "_params": {
@@ -3299,7 +3266,7 @@
             "bgImage": "@THEME_PATH@/components/_images/header/04.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#eeeeee",
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -3309,7 +3276,7 @@
             "overlayOpacity": 0.9
           },
           "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
-          "title": "Eligibility Requirements",
+          "title": "<b>Eligibility Requirements</b>",
           "text": "In Maryland, a child may be found eligible for early intervention services if they meet at least one of the following criteria:",
           "title1": "≥25% Developmental Delay",
           "title2": "BOOTSTRAP BUILDER",
@@ -3457,22 +3424,22 @@
               "text-align": "center"
             },
             "H3": {
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "font-size": "46px"
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "48px"
             },
             "P": {
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
             }
           },
           "_params": {
             "showMeta": true,
             "paddingTop": "4",
             "paddingBottom": "0",
-            "bgColor": "#fff"
+            "bgColor": "#eeeeee"
           },
-          "title": "Positive Outcomes for Children and Families",
+          "title": "<b>Positive Outcomes for Children and Families</b>",
           "meta": "Maryland’s own 2017 longitudinal research validates the importance of starting early. &nbsp;<b>More than 68% of children \n</b><br>who received early intervention services were enrolled in general education by third grade.&nbsp;<br><br>In Maryland, most children receiving early intervention services demonstrate progress in the outcome areas of positive social-emotional development and relationships, learning and functionally using new skills, and using appropriate behavior to meet their needs.",
           "_tags": [
             "Theme"
@@ -3498,7 +3465,7 @@
             "bgImage": "@THEME_PATH@/components/_images/header/03.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#eeeeee",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -3536,8 +3503,8 @@
               "stroke": "@primaryColor !important"
             },
             "P": {
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
             },
             "H4": {
               "font-family": "'Merriweather', serif",
@@ -3551,19 +3518,23 @@
               "text-align": "center"
             },
             "H3": {
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "font-size": "46px",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "48px",
               "text-align": "right"
+            },
+            "P": {
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
             }
           },
           "_params": {
             "showMeta": true,
-            "paddingTop": 1,
+            "paddingTop": "2",
             "paddingBottom": "0",
             "bgColor": "#fff"
           },
-          "title": "Maryland Infants and Toddlers Program Publications",
+          "title": "<b>Maryland Infants and Toddlers Program Publications</b>",
           "meta": "These publications are designed to support families and other referral sources within Maryland's statewide early intervention system.",
           "_tags": [
             "Theme"
@@ -3575,8 +3546,8 @@
           "_styles": {
             "P": {
               "color": "#000000",
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
             }
           },
           "_params": {
@@ -3634,39 +3605,48 @@
         },
         {
           "_styles": {
-            ".mbr-section-title": {
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "text-align": "right"
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "48px"
             }
           },
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "showTitle": true,
-            "showButtons": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/building-blocks-purchased-2000x1333.jpg",
-            "parallax": false,
-            "bgColorRadio": false,
-            "bgColor": "#eeeeee",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"
-            },
-            "overlay": true,
-            "overlayColor": "#52779e",
-            "overlayOpacity": "0.8"
+            "showMeta": false,
+            "paddingTop": "3",
+            "paddingBottom": "0",
+            "bgColor": "#fff"
           },
-          "title": "Ready to make a referral?",
-          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos quaerat omnis amet accusantium accusamus quidems?",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline btn-primary\" href=\"https://uat.mditp.org\" data-toolbar=\"-mbrBtnMove\">refer a child</a>",
+          "title": "<b>Ready to Submit a Referral?</b>",
+          "meta": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content3",
+          "_anchor": "content3-z"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "3",
+            "bgColor": "#ffffff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://uat.mditp.org/login\" data-toolbar=\"-mbrBtnMove\">make a referral online</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"http://marylandpublicschools.org/programs/Pages/Special-Education/MITP/singlepointentry.aspx\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">call your local program</a>",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
           ],
-          "_name": "call4",
-          "_anchor": "call4-y"
+          "_name": "buttons1",
+          "_styles": {
+            ".btn": {
+              "font-family": "'PT Sans Narrow', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700"
+            }
+          },
+          "_anchor": "buttons1-10"
         }
       ]
     },
