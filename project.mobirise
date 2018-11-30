@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Online Referral",
-    "currentPage": "index.html",
+    "currentPage": "Referral.html",
     "theme": {
       "name": "colorm",
       "title": "ColorM",
@@ -228,7 +228,7 @@
             "bgColor": "#fff"
           },
           "title": "<b>The Earlier, The Better!</b>",
-          "meta": "The Maryland Infants and Toddlers Program supports young children with developmental delays, atypical behavior, or disabilities and their families.",
+          "meta": "The Maryland Infants and Toddlers Program supports young children with developmental delays or disabilities and their families.",
           "_tags": [
             "Theme"
           ],
@@ -421,7 +421,7 @@
             "overlayColor": "#2c3e50",
             "overlayOpacity": "0.8"
           },
-          "title": "Early intervention services are designed to suport each family's capacity to enchance their child's potential at every stage of growth and development.",
+          "title": "Early intervention services are designed to suport each family's capacity to enhance their child's potential at every stage of growth and development.",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-white-outline\" href=\"https://mobirise.com\"><span class=\"cm-icon cm-icon-arrowright mbr-iconfont mbr-iconfont-btn\"></span></a>",
           "alias": "colorm/components",
           "_tags": [
@@ -1631,7 +1631,7 @@
           "title": "<b>Additional Resources</b>",
           "text": "These resources include print, video, and online information for families and professionals about early childhood development, developmental milestones, screening and evaluation, and strategies for supporting healthy development.",
           "title1": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion2-10-init\" data-core=\"\" href=\"#collapseOneaccordion2-10\" aria-expanded=\"false\" aria-controls=\"collapseOne\"><span class=\"sign\"></span>Develomental Milestones Tracker App (iPhone, Android)</a>",
-          "title2": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion2-10-init\" data-core=\"\" href=\"#collapseTwoaccordion2-10\" aria-expanded=\"true\" aria-controls=\"collapseTwo\">Online Learning with Continuing Education Units for Child Care Providers</a>",
+          "title2": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion2-10-init\" data-core=\"\" href=\"#collapseTwoaccordion2-10\" aria-expanded=\"true\" aria-controls=\"collapseTwo\">Online Learning with Continuing Education Units (CEUs) for Child Care Providers</a>",
           "title3": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion2-10-init\" data-core=\"\" href=\"#collapseThreeaccordion2-10\" aria-expanded=\"false\" aria-controls=\"collapseThree\">Additional Websites</a>",
           "title4": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion2-10-init\" data-core=\"\" href=\"#collapseFouraccordion2-10\" aria-expanded=\"true\" aria-controls=\"collapseFour\">This is a accordion Title 4</a>",
           "title5": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseFive\" aria-expanded=\"false\" aria-controls=\"collapseFive\">This is a accordion Title 5</a>",
@@ -2815,7 +2815,7 @@
             "paddingBottom": "1",
             "bgColor": "#ffffff"
           },
-          "text": "The Maryland State Department of Education, Division of Early Intervention and Special Education Services, in accordance with federal and state laws, provides early intervention services and supports through the Maryland Infants and Toddlers Program. Each of Maryland’s 24 jurisdictions implements a local Infants and Toddlers Program, coordinating\nservices provided by education, health care, and social services agencies and private providers. Services are&nbsp;provided to eligible infants and toddlers and certain services\nand supports are also available to parents and members of the\nimmediate family. &nbsp;Services are provided at no cost to families.",
+          "text": "The Maryland State Department of Education, Division of Early Intervention and Special Education Services, in accordance with federal and state laws, provides early intervention services and supports through the Maryland Infants and Toddlers Program. Each of Maryland’s 24 jurisdictions implements a local Infants and Toddlers Program, coordinating\nservices provided by education, health care, social services agencies, and private providers. Services are&nbsp;provided to eligible infants and toddlers and certain services\nand supports are also available to parents and members of the\nimmediate family. &nbsp;Services are provided at no cost to families.",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
@@ -3059,7 +3059,7 @@
           },
           "title1": "Bootstrap 4",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "The Maryland Infants and Toddlers Program's overarching <b>outcomes are for children</b> to:<br>* Develop\npositive social-emotional skills, <br>* Acquire and use knowledge and skills, and <br>* Use appropriate behaviors to meet their needs. &nbsp;<br><br>The overall family <b>outcomes are for families</b> to:<br>* Understand their&nbsp;rights, <br>* Communicate effectively about their child’s needs, and <br>* Learn to help their child develop&nbsp;and learn.&nbsp;<br><br>The Maryland Infants and Toddlers Program is not a medical program that “treats” children.&nbsp;While they may not be trained specialists, parents and caregivers are a child’s most important teachers. The early intervention team will partner with them by using a coaching model to design and implement individualized strategies within a child’s daily routines and activities.<br>",
+          "caption1": "The Maryland Infants and Toddlers Program's overarching <b>outcomes for children</b>&nbsp;are to:<br>* Develop\npositive social-emotional skills, <br>* Acquire and use knowledge and skills, and <br>* Use appropriate behaviors to meet their needs. &nbsp;<br><br>The overall <b>outcomes for families</b>&nbsp;are to:<br>* Understand their&nbsp;rights, <br>* Communicate effectively about their child’s needs, and <br>* Help their child develop&nbsp;and learn.&nbsp;<br><br>The Maryland Infants and Toddlers Program is not a medical program that “treats” children.&nbsp;While they may not be trained specialists, families and caregivers are a child’s most important teachers. The early intervention team will partner with them by using a coaching model to design and implement individualized strategies within a child’s daily routines and activities.<br>",
           "number1": "1",
           "title2": "Responsive",
           "subtitle2": "One of Bootstrap 4's big points",
@@ -3192,7 +3192,7 @@
             "paddingBottom": "3",
             "bgColor": "#eeeeee"
           },
-          "text": "<p>A Child and family may receive early intervention services if the child meets eligibility requirements AND if the child is under three years of age and resides in Maryland.</p>",
+          "text": "<p>A child and family may receive early intervention services if the child meets eligibility requirements AND if the child is under three years of age and resides in Maryland.</p>",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
@@ -3340,7 +3340,7 @@
           "title4": "HOST ANYWHERE",
           "title5": "IMAGE/CONTENT SLIDER",
           "title6": "CONTACT FORMS",
-          "tabTitle": "<li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1header9-2c\" aria-expanded=\"false\">25% Developmental Delay</a></li><li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2header9-2c\" aria-expanded=\"true\">AtYpical Development or behavior</a></li><li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3header9-2c\" aria-expanded=\"true\">diagnosed condition</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4header9-2c\">Awesome</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5header9-2c\">Amazing</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6header9-2c\">Beautiful</a></li>",
+          "tabTitle": "<li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1header9-2c\" aria-expanded=\"false\">25% Developmental Delay</a></li><li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2header9-2c\" aria-expanded=\"false\">AtYpical Development or behavior</a></li><li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3header9-2c\" aria-expanded=\"true\">diagnosed condition</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4header9-2c\">Awesome</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5header9-2c\">Amazing</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6header9-2c\">Beautiful</a></li>",
           "media11": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/baby-1317604-1929-1920x1280.jpg",
@@ -3462,7 +3462,7 @@
             }
           },
           "text1": "≥25% delay compared with expected development for the child's age in one or or more of the following areas: cognitive (early learning), communication, physical development (fine and gross motor skills), social-emotional skills, &nbsp;and adaptive (self-help). &nbsp;<br><br>The Infants and Toddlers Program will conduct the appropriate evaluation, at no cost to the family, with the parent's consent.",
-          "text2": "Atypical development or behavior refers to quality of performance. &nbsp;A child may demonstrate skills that are age appropriate but that are of atypical quality. Examples of atypical development include: refusal to take foods of a certain texture, decreased initiation of communication for social purposes, repetitive or stereotyped patterns of play with objects, etc.<br><br>Children may be eligible for early intervention if they demonstrate atypical development or behavior in one or more areas.",
+          "text2": "Atypical development or behavior refers to quality of performance. &nbsp;A child may demonstrate skills that are age appropriate but that are of atypical quality. Examples of atypical development/behavior include: refusal to take foods of a certain texture, decreased initiation of communication for social purposes, repetitive or stereotyped patterns of play with objects, etc.<br><br>Children may be eligible for early intervention if they demonstrate atypical development or behavior in one or more areas.",
           "text3": "Children may be eligible for early intervention services if they have been diagnosed with a physical or mental condition that has a high probability of delayed or atypical development. &nbsp;Examples include, but are not limited to, Down Syndrome, visual or hearing impairment, elevated lead levels, extreme prematurity (birth weight &lt;1200 grams), epilepsy, etc.",
           "text4": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laboriosam, nisi, ea. Excepturi dolores, laborum ipsum soluta aliquid, ullam repellat ratione iste harum voluptatem? Alias id blanditiis, sequi possimus dolorem dolorum.",
           "text5": "Create a responsive, touch-swipe slideshow with <a href=\"http://mobirise.com\">Mobirise bootstrap slider</a>. Add images, text, buttons to slides, set autoplay, full-screen, full-width or boxed layout. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde sunt, illo quo ipsa. Laboriosam voluptatem sunt nisi velit incidunt labore, sapiente pariatur ipsam fugiat doloremque asperiores eos ipsum, eveniet cum.",
