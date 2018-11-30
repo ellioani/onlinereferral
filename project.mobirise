@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Online Referral",
-    "currentPage": "Referral.html",
+    "currentPage": "MDITP.html",
     "theme": {
       "name": "colorm",
       "title": "ColorM",
@@ -26,14 +26,15 @@
       ]
     },
     "versionFirst": "4.7.2",
-    "uniqCompNum": 42,
+    "uniqCompNum": 34,
     "versionPublish": "4.8.3",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "siteFonts": [],
     "favicon": "",
     "noImageResize": "",
-    "siteUrl": "undefined"
+    "siteUrl": "undefined",
+    "google-analytics": ""
   },
   "pages": {
     "index.html": {
@@ -62,14 +63,14 @@
             },
             ".link, .dropdown-item": {
               "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
-              "font-family": "'Merriweather', serif"
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700",
+              "font-family": "'PT Sans Narrow', sans-serif"
             },
             ".link": {
-              "font-size": "0.875rem"
+              "font-size": "0.8rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.948rem"
+              "font-size": "0.866rem"
             },
             ".link:hover, .link:focus": {
               "color": "@primaryColor"
@@ -101,6 +102,10 @@
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
               "color": "#f39c12!important"
+            },
+            ".btn": {
+              "font-family": "'PT Sans Narrow', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700"
             }
           },
           "_params": {
@@ -111,11 +116,11 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#2c3e50",
-            "fontSize": 0.875,
+            "fontSize": "0.8",
             "fontName": {
-              "name": "Merriweather",
-              "url": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
-              "css": "'Merriweather', serif"
+              "name": "PT Sans Narrow",
+              "url": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700",
+              "css": "'PT Sans Narrow', sans-serif"
             },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -189,7 +194,7 @@
             "overlayOpacity": "0.3"
           },
           "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
-          "title": "<br><br>Maryland Infants and <br>Toddlers Program",
+          "title": "<br><br><br>Maryland Infants and <br>Toddlers Program",
           "text": "We begin early to finish strong.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-text btn-primary\" href=\"https://uat.mditp.org\" data-toolbar=\"-mbrBtnMove\">Online Referral system</a> ",
           "alias": "colorm/components",
@@ -358,7 +363,7 @@
               "font-weight": "400",
               "font-family": "'Oxygen', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "font-size": "30px",
+              "font-size": "20px",
               "text-align": "center"
             },
             ".mbr-section-subtitle": {
@@ -385,7 +390,7 @@
             "overlayColor": "#2c3e50",
             "overlayOpacity": "0.8"
           },
-          "title": "The Maryland Infants and Toddlers Program supports young children with developmental delays or disabilities and their families.&nbsp;",
+          "title": "The Marland Infants and Toddlers Program supports young children with developmental delays, atypical behavior or disabilities and their families",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-white-outline\" href=\"https://mobirise.com\"><span class=\"cm-icon cm-icon-arrowright mbr-iconfont mbr-iconfont-btn\"></span></a>",
           "alias": "colorm/components",
           "_tags": [
@@ -655,7 +660,7 @@
           "titled2": "Maryland Infants and Toddlers Program<br>1-800-535-0132",
           "titled3": "JOHNS HOPKINS UNIVERSTIY\n<br>CENTER FOR TECHNOLOGY IN EDUCATION (JHU, CTE)",
           "followtext": "follow us",
-          "text": "© 2018 Maryland State Department of Education, Division of Early Intervention and Special Education Services (MSDE, DEI/SES) and <br>Johns Hopkins University, Center for Technology in Education (JHU CTE).\n<br><br>Please include reference to MSDE, DEI/SE and JHU, CTE on any replications of this information. For any use that is not \"fair use\" as that term is understood in copyright law, contact MSDE, DEI/SE, 200 West Baltimore Street, Baltimore, Maryland 21201, Phone: 410- 767-0261 and JHU, CTE, 3400 N. Charles Street, W400 Wyman Park, Baltimore, Maryland 21218, Phone 410-516-9838 for permission.\n<br>",
+          "text": "© 2018 Maryland State Department of Education, Division of Early Intervention and Special Education Services (MSDE, DEI/SES) and <br>Johns Hopkins University, Center for Technology in Education (JHU CTE).\n<br><br>Please include reference to MSDE, DEI/SES on any replications of this information. <br>Permission must be requested for any use that is not \"fair use\" as that term is understood in copyright law from: <br>MSDE, DEI/SES, 200 West Baltimore Street, Baltimore, Maryland 21201, Phone: 410- 767-0261&nbsp;<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"></a>",
           "alias": "colorm/components",
           "_tags": [
@@ -669,7 +674,7 @@
     "Milestones.html": {
       "settings": {
         "title": "Developmental Milestones",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -711,14 +716,14 @@
             },
             ".link, .dropdown-item": {
               "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
-              "font-family": "'Merriweather', serif"
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700",
+              "font-family": "'PT Sans Narrow', sans-serif"
             },
             ".link": {
-              "font-size": "0.875rem"
+              "font-size": "0.8rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.948rem"
+              "font-size": "0.866rem"
             },
             ".link:hover, .link:focus": {
               "color": "@primaryColor"
@@ -750,6 +755,10 @@
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
               "color": "#f39c12!important"
+            },
+            ".btn": {
+              "font-family": "'PT Sans Narrow', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700"
             }
           },
           "_params": {
@@ -760,11 +769,11 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#2c3e50",
-            "fontSize": 0.875,
+            "fontSize": "0.8",
             "fontName": {
-              "name": "Merriweather",
-              "url": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
-              "css": "'Merriweather', serif"
+              "name": "PT Sans Narrow",
+              "url": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700",
+              "css": "'PT Sans Narrow', sans-serif"
             },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -1722,7 +1731,7 @@
           "titled2": "Maryland Infants and Toddlers Program<br>1-800-535-0132",
           "titled3": "JOHNS HOPKINS UNIVERSTIY\n<br>CENTER FOR TECHNOLOGY IN EDUCATION (JHU, CTE)",
           "followtext": "follow us",
-          "text": "© 2018 Maryland State Department of Education, Division of Early Intervention and Special Education Services (MSDE, DEI/SES) and <br>Johns Hopkins University, Center for Technology in Education (JHU CTE).\n<br><br>Please include reference to MSDE, DEI/SE and JHU, CTE on any replications of this information. For any use that is not \"fair use\" as that term is understood in copyright law, contact MSDE, DEI/SE, 200 West Baltimore Street, Baltimore, Maryland 21201, Phone: 410- 767-0261 and JHU, CTE, 3400 N. Charles Street, W400 Wyman Park, Baltimore, Maryland 21218, Phone 410-516-9838 for permission.\n<br>",
+          "text": "© 2018 Maryland State Department of Education, Division of Early Intervention and Special Education Services (MSDE, DEI/SES) and <br>Johns Hopkins University, Center for Technology in Education (JHU CTE).\n<br><br>Please include reference to MSDE, DEI/SES on any replications of this information. <br>Permission must be requested for any use that is not \"fair use\" as that term is understood in copyright law from: <br>MSDE, DEI/SES, 200 West Baltimore Street, Baltimore, Maryland 21201, Phone: 410- 767-0261&nbsp;<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"></a>",
           "alias": "colorm/components",
           "_tags": [
@@ -1736,7 +1745,7 @@
     "Referral.html": {
       "settings": {
         "title": "Refer a Child",
-        "order": 6
+        "order": 7
       },
       "components": [
         {
@@ -1745,7 +1754,7 @@
             "paddingBottom": 1,
             "bgColor": "#ffffff"
           },
-          "text": "When an infant or toddler\nis suspected of having a developmental delay or has been diagnosed with a special heath care need, he or she may be referred to the local\nInfants and Toddlers Program by a parent, health or education\nprovider, child care or social service provider, or a staff person\nfrom the NICU or hospital, just to name a few. &nbsp;Referrals to the Maryland Infants and Toddlers Program can be made for children ages birth to 36 months who reside in Maryland.",
+          "text": "When an infant or toddler\nis suspected of having a developmental delay, exhibits atypical behavior, or has been diagnosed with a special heath care need, he or she may be referred to the local\nInfants and Toddlers Program by a parent, health or education\nprovider, child care or social service provider, or a staff person\nfrom the NICU or hospital, just to name a few. &nbsp;Referrals to the Maryland Infants and Toddlers Program can be made for children ages birth to 36 months who reside in Maryland.",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
@@ -2642,7 +2651,7 @@
           "titled2": "Maryland Infants and Toddlers Program<br>1-800-535-0132",
           "titled3": "JOHNS HOPKINS UNIVERSTIY\n<br>CENTER FOR TECHNOLOGY IN EDUCATION (JHU, CTE)",
           "followtext": "follow us",
-          "text": "© 2018 Maryland State Department of Education, Division of Early Intervention and Special Education Services (MSDE, DEI/SES) and <br>Johns Hopkins University, Center for Technology in Education (JHU CTE).\n<br><br>Please include reference to MSDE, DEI/SE and JHU, CTE on any replications of this information. For any use that is not \"fair use\" as that term is understood in copyright law, contact MSDE, DEI/SE, 200 West Baltimore Street, Baltimore, Maryland 21201, Phone: 410- 767-0261 and JHU, CTE, 3400 N. Charles Street, W400 Wyman Park, Baltimore, Maryland 21218, Phone 410-516-9838 for permission.\n<br>",
+          "text": "© 2018 Maryland State Department of Education, Division of Early Intervention and Special Education Services (MSDE, DEI/SES) and <br>Johns Hopkins University, Center for Technology in Education (JHU CTE).\n<br><br>Please include reference to MSDE, DEI/SES on any replications of this information. <br>Permission must be requested for any use that is not \"fair use\" as that term is understood in copyright law from: <br>MSDE, DEI/SES, 200 West Baltimore Street, Baltimore, Maryland 21201, Phone: 410- 767-0261&nbsp;<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"></a>",
           "alias": "colorm/components",
           "_tags": [
@@ -2667,14 +2676,14 @@
             },
             ".link, .dropdown-item": {
               "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
-              "font-family": "'Merriweather', serif"
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700",
+              "font-family": "'PT Sans Narrow', sans-serif"
             },
             ".link": {
-              "font-size": "0.875rem"
+              "font-size": "0.8rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.948rem"
+              "font-size": "0.866rem"
             },
             ".link:hover, .link:focus": {
               "color": "@primaryColor"
@@ -2706,6 +2715,10 @@
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
               "color": "#f39c12!important"
+            },
+            ".btn": {
+              "font-family": "'PT Sans Narrow', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700"
             }
           },
           "_params": {
@@ -2716,11 +2729,11 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#2c3e50",
-            "fontSize": 0.875,
+            "fontSize": "0.8",
             "fontName": {
-              "name": "Merriweather",
-              "url": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
-              "css": "'Merriweather', serif"
+              "name": "PT Sans Narrow",
+              "url": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700",
+              "css": "'PT Sans Narrow', sans-serif"
             },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -2754,7 +2767,7 @@
     "MDITP.html": {
       "settings": {
         "title": "MDITP",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -2763,7 +2776,7 @@
             "paddingBottom": "1",
             "bgColor": "#ffffff"
           },
-          "text": "In accordance with federal and state laws, early intervention services and supports are available from the Maryland Infants and Toddlers Program and delivered\nthrough local programs in the county where the family resides. Each of Maryland’s 24 jurisdictions implements a local Infants and Toddlers Program, coordinating\nservices provided by education, health care, and social services agencies and private providers. Services are&nbsp;provided to eligible infants and toddlers and certain services\nand supports are also available to parents and members of the\nimmediate family. &nbsp;Services are provided at no cost to families.",
+          "text": "The Maryland State Department of Education, Division of Early Intervention and Special Education Services, in accordance with federal and state laws, provides early intervention services and supports through the Maryland Infants and Toddlers Program. Each of Maryland’s 24 jurisdictions implements a local Infants and Toddlers Program, coordinating\nservices provided by education, health care, and social services agencies and private providers. Services are&nbsp;provided to eligible infants and toddlers and certain services\nand supports are also available to parents and members of the\nimmediate family. &nbsp;Services are provided at no cost to families.",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
@@ -2996,7 +3009,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/colorful-hand-600x900.jpg",
+              "src": "@PROJECT_PATH@/assets/images/stock-photo-cute-little-girl-playing-block-with-mother-at-home-isolated-on-white-104717895-600x959.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3007,7 +3020,7 @@
           },
           "title1": "Bootstrap 4",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "The Maryland Infants and Toddlers Program's overarching <b>outcomes are for children</b> to develop\npositive social-emotional skills, to acquire and use knowledge and skills, and to use appropriate behaviors to meet their needs. &nbsp;<br><br>The overall family <b>outcomes are for families</b> to understand their&nbsp;rights, communicate effectively about their child’s needs, and learn how they can help their child develop&nbsp;and learn.&nbsp;<br><br>The Maryland Infants and Toddlers Program is not a medical program that “treats” children.&nbsp;While they may not be trained specialists, parents and caregivers are a child’s most important teachers. The early intervention team will partner with them by using a coaching model to design and implement strategies within a child’s daily routine.<br>",
+          "caption1": "The Maryland Infants and Toddlers Program's overarching <b>outcomes are for children</b> to:<br>* Develop\npositive social-emotional skills, <br>* Acquire and use knowledge and skills, and <br>* Use appropriate behaviors to meet their needs. &nbsp;<br><br>The overall family <b>outcomes are for families</b> to:<br>* Understand their&nbsp;rights, <br>* Communicate effectively about their child’s needs, and <br>* Learn to help their child develop&nbsp;and learn.&nbsp;<br><br>The Maryland Infants and Toddlers Program is not a medical program that “treats” children.&nbsp;While they may not be trained specialists, parents and caregivers are a child’s most important teachers. The early intervention team will partner with them by using a coaching model to design and implement individualized strategies within a child’s daily routines and activities.<br>",
           "number1": "1",
           "title2": "Responsive",
           "subtitle2": "One of Bootstrap 4's big points",
@@ -3048,14 +3061,14 @@
             },
             ".link, .dropdown-item": {
               "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
-              "font-family": "'Merriweather', serif"
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700",
+              "font-family": "'PT Sans Narrow', sans-serif"
             },
             ".link": {
-              "font-size": "0.875rem"
+              "font-size": "0.8rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.948rem"
+              "font-size": "0.866rem"
             },
             ".link:hover, .link:focus": {
               "color": "@primaryColor"
@@ -3087,6 +3100,10 @@
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
               "color": "#f39c12!important"
+            },
+            ".btn": {
+              "font-family": "'PT Sans Narrow', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700"
             }
           },
           "_params": {
@@ -3097,11 +3114,11 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#2c3e50",
-            "fontSize": 0.875,
+            "fontSize": "0.8",
             "fontName": {
-              "name": "Merriweather",
-              "url": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
-              "css": "'Merriweather', serif"
+              "name": "PT Sans Narrow",
+              "url": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700",
+              "css": "'PT Sans Narrow', sans-serif"
             },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -3218,7 +3235,7 @@
           "titled2": "Maryland Infants and Toddlers Program<br>1-800-535-0132",
           "titled3": "JOHNS HOPKINS UNIVERSTIY\n<br>CENTER FOR TECHNOLOGY IN EDUCATION (JHU, CTE)",
           "followtext": "follow us",
-          "text": "© 2018 Maryland State Department of Education, Division of Early Intervention and Special Education Services (MSDE, DEI/SES) and <br>Johns Hopkins University, Center for Technology in Education (JHU CTE).\n<br><br>Please include reference to MSDE, DEI/SE and JHU, CTE on any replications of this information. For any use that is not \"fair use\" as that term is understood in copyright law, contact MSDE, DEI/SE, 200 West Baltimore Street, Baltimore, Maryland 21201, Phone: 410- 767-0261 and JHU, CTE, 3400 N. Charles Street, W400 Wyman Park, Baltimore, Maryland 21218, Phone 410-516-9838 for permission.\n<br>",
+          "text": "© 2018 Maryland State Department of Education, Division of Early Intervention and Special Education Services (MSDE, DEI/SES) and <br>Johns Hopkins University, Center for Technology in Education (JHU CTE).\n<br><br>Please include reference to MSDE, DEI/SES on any replications of this information. <br>Permission must be requested for any use that is not \"fair use\" as that term is understood in copyright law from: <br>MSDE, DEI/SES, 200 West Baltimore Street, Baltimore, Maryland 21201, Phone: 410- 767-0261&nbsp;<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"></a>",
           "alias": "colorm/components",
           "_tags": [
@@ -3284,7 +3301,7 @@
           "title4": "HOST ANYWHERE",
           "title5": "IMAGE/CONTENT SLIDER",
           "title6": "CONTACT FORMS",
-          "tabTitle": "<li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1header9-2c\" aria-expanded=\"false\">25% Developmental Delay</a></li><li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2header9-2c\" aria-expanded=\"false\">AtYpical Development</a></li><li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3header9-2c\" aria-expanded=\"true\">diagnosed condition</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4header9-2c\">Awesome</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5header9-2c\">Amazing</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6header9-2c\">Beautiful</a></li>",
+          "tabTitle": "<li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1header9-2c\" aria-expanded=\"false\">25% Developmental Delay</a></li><li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2header9-2c\" aria-expanded=\"true\">AtYpical Development or behavior</a></li><li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3header9-2c\" aria-expanded=\"true\">diagnosed condition</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4header9-2c\">Awesome</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5header9-2c\">Amazing</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6header9-2c\">Beautiful</a></li>",
           "media11": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/baby-1317604-1929-1920x1280.jpg",
@@ -3406,7 +3423,7 @@
             }
           },
           "text1": "≥25% delay compared with expected development for the child's age in one or or more of the following areas: cognitive (early learning), communication, physical development (fine and gross motor skills), social-emotional skills, &nbsp;and adaptive (self-help). &nbsp;<br><br>The Infants and Toddlers Program will conduct the appropriate evaluation, at no cost to the family, with the parent's consent.",
-          "text2": "Atypical development refers to quality of performance. &nbsp;A child may demonstrate skills that are age appropriate but that are of atypical quality. &nbsp;Examples of atypical development include: refusal to take foods of a certain texture, decreased initiation of communication for social purposes, repetitive or stereotyped patterns of play with objects, etc.<br><br>Children may be eligible for early intervention if they demonstrate atypical development in one or more areas.",
+          "text2": "Atypical development or behavior refers to quality of performance. &nbsp;A child may demonstrate skills that are age appropriate but that are of atypical quality. Examples of atypical development include: refusal to take foods of a certain texture, decreased initiation of communication for social purposes, repetitive or stereotyped patterns of play with objects, etc.<br><br>Children may be eligible for early intervention if they demonstrate atypical development or behavior in one or more areas.",
           "text3": "Children may be eligible for early intervention services if they have been diagnosed with a physical or mental condition that has a high probability of delayed or atypical development. &nbsp;Examples include, but are not limited to, Down Syndrome, visual or hearing impairment, elevated lead levels, extreme prematurity (birth weight &lt;1200 grams), epilepsy, etc.",
           "text4": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laboriosam, nisi, ea. Excepturi dolores, laborum ipsum soluta aliquid, ullam repellat ratione iste harum voluptatem? Alias id blanditiis, sequi possimus dolorem dolorum.",
           "text5": "Create a responsive, touch-swipe slideshow with <a href=\"http://mobirise.com\">Mobirise bootstrap slider</a>. Add images, text, buttons to slides, set autoplay, full-screen, full-width or boxed layout. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde sunt, illo quo ipsa. Laboriosam voluptatem sunt nisi velit incidunt labore, sapiente pariatur ipsam fugiat doloremque asperiores eos ipsum, eveniet cum.",
@@ -3657,7 +3674,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -3676,14 +3693,14 @@
             },
             ".link, .dropdown-item": {
               "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
-              "font-family": "'Merriweather', serif"
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700",
+              "font-family": "'PT Sans Narrow', sans-serif"
             },
             ".link": {
-              "font-size": "0.875rem"
+              "font-size": "0.8rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.948rem"
+              "font-size": "0.866rem"
             },
             ".link:hover, .link:focus": {
               "color": "@primaryColor"
@@ -3715,6 +3732,10 @@
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
               "color": "#f39c12!important"
+            },
+            ".btn": {
+              "font-family": "'PT Sans Narrow', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700"
             }
           },
           "_params": {
@@ -3725,11 +3746,11 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#2c3e50",
-            "fontSize": 0.875,
+            "fontSize": "0.8",
             "fontName": {
-              "name": "Merriweather",
-              "url": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
-              "css": "'Merriweather', serif"
+              "name": "PT Sans Narrow",
+              "url": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700",
+              "css": "'PT Sans Narrow', sans-serif"
             },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -4249,7 +4270,7 @@
           "titled2": "Maryland Infants and Toddlers Program<br>1-800-535-0132",
           "titled3": "JOHNS HOPKINS UNIVERSTIY\n<br>CENTER FOR TECHNOLOGY IN EDUCATION (JHU, CTE)",
           "followtext": "follow us",
-          "text": "© 2018 Maryland State Department of Education, Division of Early Intervention and Special Education Services (MSDE, DEI/SES) and <br>Johns Hopkins University, Center for Technology in Education (JHU CTE).\n<br><br>Please include reference to MSDE, DEI/SE and JHU, CTE on any replications of this information. For any use that is not \"fair use\" as that term is understood in copyright law, contact MSDE, DEI/SE, 200 West Baltimore Street, Baltimore, Maryland 21201, Phone: 410- 767-0261 and JHU, CTE, 3400 N. Charles Street, W400 Wyman Park, Baltimore, Maryland 21218, Phone 410-516-9838 for permission.\n<br>",
+          "text": "© 2018 Maryland State Department of Education, Division of Early Intervention and Special Education Services (MSDE, DEI/SES) and <br>Johns Hopkins University, Center for Technology in Education (JHU CTE).\n<br><br>Please include reference to MSDE, DEI/SES on any replications of this information. <br>Permission must be requested for any use that is not \"fair use\" as that term is understood in copyright law from: <br>MSDE, DEI/SES, 200 West Baltimore Street, Baltimore, Maryland 21201, Phone: 410- 767-0261&nbsp;<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"></a>",
           "alias": "colorm/components",
           "_tags": [
@@ -4263,7 +4284,7 @@
     "page6.html": {
       "settings": {
         "title": "testing dev milestones",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -4305,14 +4326,14 @@
             },
             ".link, .dropdown-item": {
               "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
-              "font-family": "'Merriweather', serif"
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700",
+              "font-family": "'PT Sans Narrow', sans-serif"
             },
             ".link": {
-              "font-size": "0.875rem"
+              "font-size": "0.8rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.948rem"
+              "font-size": "0.866rem"
             },
             ".link:hover, .link:focus": {
               "color": "@primaryColor"
@@ -4344,6 +4365,10 @@
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
               "color": "#f39c12!important"
+            },
+            ".btn": {
+              "font-family": "'PT Sans Narrow', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700"
             }
           },
           "_params": {
@@ -4354,11 +4379,11 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#2c3e50",
-            "fontSize": 0.875,
+            "fontSize": "0.8",
             "fontName": {
-              "name": "Merriweather",
-              "url": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
-              "css": "'Merriweather', serif"
+              "name": "PT Sans Narrow",
+              "url": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700",
+              "css": "'PT Sans Narrow', sans-serif"
             },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -5318,7 +5343,7 @@
           "titled2": "Maryland Infants and Toddlers Program<br>1-800-535-0132",
           "titled3": "JOHNS HOPKINS UNIVERSTIY\n<br>CENTER FOR TECHNOLOGY IN EDUCATION (JHU, CTE)",
           "followtext": "follow us",
-          "text": "© 2018 Maryland State Department of Education, Division of Early Intervention and Special Education Services (MSDE, DEI/SES) and <br>Johns Hopkins University, Center for Technology in Education (JHU CTE).\n<br><br>Please include reference to MSDE, DEI/SE and JHU, CTE on any replications of this information. For any use that is not \"fair use\" as that term is understood in copyright law, contact MSDE, DEI/SE, 200 West Baltimore Street, Baltimore, Maryland 21201, Phone: 410- 767-0261 and JHU, CTE, 3400 N. Charles Street, W400 Wyman Park, Baltimore, Maryland 21218, Phone 410-516-9838 for permission.\n<br>",
+          "text": "© 2018 Maryland State Department of Education, Division of Early Intervention and Special Education Services (MSDE, DEI/SES) and <br>Johns Hopkins University, Center for Technology in Education (JHU CTE).\n<br><br>Please include reference to MSDE, DEI/SES on any replications of this information. <br>Permission must be requested for any use that is not \"fair use\" as that term is understood in copyright law from: <br>MSDE, DEI/SES, 200 West Baltimore Street, Baltimore, Maryland 21201, Phone: 410- 767-0261&nbsp;<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"></a>",
           "alias": "colorm/components",
           "_tags": [
@@ -5332,7 +5357,7 @@
     "page7.html": {
       "settings": {
         "title": "Page 7",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -5351,14 +5376,14 @@
             },
             ".link, .dropdown-item": {
               "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
-              "font-family": "'Merriweather', serif"
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700",
+              "font-family": "'PT Sans Narrow', sans-serif"
             },
             ".link": {
-              "font-size": "0.875rem"
+              "font-size": "0.8rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.948rem"
+              "font-size": "0.866rem"
             },
             ".link:hover, .link:focus": {
               "color": "@primaryColor"
@@ -5390,6 +5415,10 @@
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
               "color": "#f39c12!important"
+            },
+            ".btn": {
+              "font-family": "'PT Sans Narrow', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700"
             }
           },
           "_params": {
@@ -5400,11 +5429,11 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#2c3e50",
-            "fontSize": 0.875,
+            "fontSize": "0.8",
             "fontName": {
-              "name": "Merriweather",
-              "url": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
-              "css": "'Merriweather', serif"
+              "name": "PT Sans Narrow",
+              "url": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700",
+              "css": "'PT Sans Narrow', sans-serif"
             },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -5553,7 +5582,7 @@
           "titled2": "Maryland Infants and Toddlers Program<br>1-800-535-0132",
           "titled3": "JOHNS HOPKINS UNIVERSTIY\n<br>CENTER FOR TECHNOLOGY IN EDUCATION (JHU, CTE)",
           "followtext": "follow us",
-          "text": "© 2018 Maryland State Department of Education, Division of Early Intervention and Special Education Services (MSDE, DEI/SES) and <br>Johns Hopkins University, Center for Technology in Education (JHU CTE).\n<br><br>Please include reference to MSDE, DEI/SE and JHU, CTE on any replications of this information. For any use that is not \"fair use\" as that term is understood in copyright law, contact MSDE, DEI/SE, 200 West Baltimore Street, Baltimore, Maryland 21201, Phone: 410- 767-0261 and JHU, CTE, 3400 N. Charles Street, W400 Wyman Park, Baltimore, Maryland 21218, Phone 410-516-9838 for permission.\n<br>",
+          "text": "© 2018 Maryland State Department of Education, Division of Early Intervention and Special Education Services (MSDE, DEI/SES) and <br>Johns Hopkins University, Center for Technology in Education (JHU CTE).\n<br><br>Please include reference to MSDE, DEI/SES on any replications of this information. <br>Permission must be requested for any use that is not \"fair use\" as that term is understood in copyright law from: <br>MSDE, DEI/SES, 200 West Baltimore Street, Baltimore, Maryland 21201, Phone: 410- 767-0261&nbsp;<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"></a>",
           "alias": "colorm/components",
           "_tags": [
@@ -5561,6 +5590,640 @@
           ],
           "_name": "footer7",
           "_anchor": "footer7-z"
+        }
+      ]
+    },
+    "page8.html": {
+      "settings": {
+        "title": "Page 8",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700",
+              "font-family": "'PT Sans Narrow', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.8rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.866rem"
+            },
+            ".link:hover, .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".dropdown-item:hover::before, .dropdown-item:focus::before": {
+              "background": "@primaryColor"
+            },
+            ".dropdown-item:hover, .dropdown-item:focus": {
+              "color": "#ffffff"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#1a242f"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#273646!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#2c3e50"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#f39c12!important"
+            },
+            ".btn": {
+              "font-family": "'PT Sans Narrow', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700"
+            }
+          },
+          "_params": {
+            "logo": false,
+            "showBrand": false,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#2c3e50",
+            "fontSize": "0.8",
+            "fontName": {
+              "name": "PT Sans Narrow",
+              "url": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700",
+              "css": "'PT Sans Narrow', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Milestones.html\" aria-expanded=\"false\">Developmental <br>Milestones<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"MDITP.html\">Maryland Infants &amp; <br>Toddlers Program</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Referral.html\">How to Refer</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://uat.mditp.org\">Login</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/msdelogo2018rgb-261x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-16"
+        },
+        {
+          "_styles": {
+            ".lead": {
+              "color": "#93a3a7",
+              "font-style": "italic"
+            },
+            ".mbr-section-title": {
+              "font-size": "48px",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "color": "#ffffff",
+              "text-align": "left"
+            },
+            ".mbr-section-text": {
+              "font-size": "25px",
+              "color": "#ffffff",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "text-align": "left"
+            },
+            ".btn": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "buttonAlign": "left",
+            "showArrow": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/referral-cover-2000x1333.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#2c3e50",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"
+            },
+            "overlay": true,
+            "overlayColor": "#3a6693",
+            "overlayOpacity": "0.3"
+          },
+          "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
+          "title": "<br><br><br>Maryland Infants and <br>Toddlers Program",
+          "text": "We begin early to finish strong.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-text btn-primary\" href=\"https://uat.mditp.org\" data-toolbar=\"-mbrBtnMove\">Online Referral system</a> ",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-17"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "font-weight": "700",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "48px",
+              "color": "#000000"
+            },
+            ".mbr-section-subtitle": {
+              "text-transform": "uppercase",
+              "letter-spacing": "2px",
+              "color": "#000000",
+              "font-family": "'PT Sans Narrow', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700"
+            },
+            ".mbr-section-text": {
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700",
+              "color": "#000000",
+              "font-size": "18px"
+            },
+            ".btn": {
+              "font-family": "'Merriweather', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showImages": true,
+            "showTitles": true,
+            "ShowTexts": true,
+            "showButtons": false,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "columns": 3,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1299.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#e67e22",
+            "overlayOpacity": "0.6"
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "check",
+              "family": "iconsMind",
+              "active": true,
+              "link": "Milestones.html",
+              "size": 0,
+              "color": "#000000",
+              "newWindow": false
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "lego-toy",
+              "family": "icon54-v3",
+              "active": true,
+              "link": "MDITP.html",
+              "size": "",
+              "color": "#000000",
+              "newWindow": false
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "computer-network1",
+              "family": "icon54",
+              "active": true,
+              "link": "Referral.html",
+              "size": 0,
+              "color": "#000000",
+              "newWindow": false
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "briefcase",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "title": "The Earlier, The Better!",
+          "title1": "Bootstrap 4",
+          "subtitle1": "Developmental Milestones",
+          "caption1": "Discover the importance of developmental milestones and the tools available to track young children's development.",
+          "buttons1": "<a data-app-btn=\"true\" href=\"Milestones.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">Developmental<br>Milestones<br></a>",
+          "title2": "Responsive",
+          "subtitle2": "Maryland Infants and Toddlers Program",
+          "caption2": "Learn about the Maryland Infants and Toddlers Program and the benefits of early intervention.",
+          "buttons2": "<a data-app-btn=\"true\" href=\"MDITP.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">Maryland Infants &amp;<br>Toddlers Program<br></a>",
+          "title3": "Web Fonts",
+          "subtitle3": "referral process",
+          "caption3": "Find out how to refer a child to the Maryland Infants and Toddlers Program and learn what to expect after a referral has been submitted.",
+          "buttons3": "<a data-app-btn=\"true\" href=\"Referral.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">Referral<br>Process<br></a>",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "buttons4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white\">learn more</a>",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "buttons5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white\">learn more</a>",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "buttons6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white\">learn more</a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features2",
+          "_anchor": "features2-18"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "font-weight": "400",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "30px",
+              "text-align": "center"
+            },
+            ".mbr-section-subtitle": {
+              "text-transform": "uppercase",
+              "letter-spacing": "2px",
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showButtons": false,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/building-blocks-purchased-2000x1333.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#ffc80a",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#2c3e50",
+            "overlayOpacity": "0.8"
+          },
+          "title": "The Maryland Infants and Toddlers Program supports young children with developmental delays or disabilities and their families.&nbsp;",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-white-outline\" href=\"https://mobirise.com\"><span class=\"cm-icon cm-icon-arrowright mbr-iconfont mbr-iconfont-btn\"></span></a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features17",
+          "_anchor": "features17-19"
+        },
+        {
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "2",
+            "bgColor": "#ffffff"
+          },
+          "text": "While all children grow and develop at their own rate, some infants and toddlers experience delays in their development or have been diagnosed with a special health condition that is likely to lead to non-typical development. &nbsp;The earlier any potential delays and disabilities are identified and early intervention services begin, the better chance a young child has of achieving his or her best potential.&nbsp;<br><br>The overall goals of early intervention are:&nbsp;<br><b>To enable young children</b> to be active and successful participants during their early childhood years and in the future in a variety of settings: in their homes, in child care or preschool programs, and in their communities; and<br><br><b>To enable families </b>to provide care for their children and have the resources they need to participate in their own desired family and community activities.<br>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "left",
+              "color": "#212121",
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700",
+              "font-size": "18px"
+            }
+          },
+          "_anchor": "content1-1a"
+        },
+        {
+          "_styles": {
+            ".card-block p": {
+              "font-size": "15px"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "48px"
+            },
+            ".card-footer > div": {
+              "font-family": "'PT Sans Narrow', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700"
+            },
+            ".card-block P": {
+              "color": "#000000",
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
+            },
+            ".card-footer > small": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": false,
+            "showImages": false,
+            "showName": true,
+            "showBio": true,
+            "autoplay": true,
+            "timeout": 5,
+            "paddingTop": "1",
+            "paddingBottom": 1,
+            "showBullets": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/flight-mountains-sky-flying.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#eeeeee",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5,
+            "visibleSlides": "3",
+            "slides": [
+              {
+                "active": false,
+                "text": "<p>“Because of this program, I now can understand my child over the phone. I had previously gone an entire deployment without being able to communicate with her.”</p>",
+                "authorName": "Maryland Early Intervention Family Survey Respondant",
+                "authorBio": "2015 Family Survey",
+                "media": {
+                  "image": {
+                    "src": "@THEME_PATH@/components/_images/face1.jpg",
+                    "class": "img-circle",
+                    "link": "https://mobirise.com",
+                    "height": 160,
+                    "width": 160,
+                    "active": true
+                  }
+                }
+              },
+              {
+                "active": false,
+                "text": "<p>“Without the [Infants and Todders Program], we're not sure how we could have grown to become the strong family team we are today ”</p>",
+                "authorName": "Michele H. and Robert B.",
+                "authorBio": "A Family Guide to Early Intervention Services in Maryland",
+                "media": {
+                  "image": {
+                    "src": "@THEME_PATH@/components/_images/face2.jpg",
+                    "class": "img-circle",
+                    "link": "https://mobirise.com",
+                    "height": 160,
+                    "width": 160,
+                    "active": true
+                  }
+                }
+              },
+              {
+                "active": false,
+                "text": "<p>“The early intervention program supports my child to be ready for school by assisting me to tach my child pre-reading activities (such as namig pictures) and pre-match activities (such as sorting household items).”</p>",
+                "authorName": "Maryland Early Intervention Family Survey Respondant",
+                "authorBio": "2017 Family Survey",
+                "media": {
+                  "image": {
+                    "src": "@THEME_PATH@/components/_images/face3.jpg",
+                    "class": "img-circle",
+                    "link": "https://mobirise.com",
+                    "height": 160,
+                    "width": 160,
+                    "active": true
+                  }
+                }
+              },
+              {
+                "active": true,
+                "text": "<p>\"We all work together as a team so that Kayleigh can reach her maximum potential and I know that early intervention has already made a huge difference in her future.\"</p>",
+                "authorName": "Klatt Family",
+                "authorBio": "Moving Maryland Forward&nbsp;",
+                "media": {
+                  "image": {
+                    "src": "@THEME_PATH@/components/_images/face4.jpg",
+                    "class": "img-circle",
+                    "link": "https://mobirise.com",
+                    "height": 160,
+                    "width": 160,
+                    "active": true
+                  }
+                }
+              }
+            ],
+            "controlBgLeft": "@PROJECT_PATH@/assets/images/left.png",
+            "controlBgRight": "@PROJECT_PATH@/assets/images/right.png"
+          },
+          "title": "<b>What Families Say</b>",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "_anchor": "testimonials1-1b"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "48px"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "3",
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "title": "<b>Ready to Submit a Referral?</b>",
+          "meta": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content3",
+          "_anchor": "content3-1c"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "3",
+            "bgColor": "#ffffff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://uat.mditp.org/login\" data-toolbar=\"-mbrBtnMove\">make a referral online</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"http://marylandpublicschools.org/programs/Pages/Special-Education/MITP/singlepointentry.aspx\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">call your local program</a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_styles": {
+            ".btn": {
+              "font-family": "'PT Sans Narrow', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700"
+            }
+          },
+          "_anchor": "buttons1-1d"
+        },
+        {
+          "_styles": {
+            ".mbr-section-subtitle": {
+              "color": "#ffffff",
+              "font-family": "'PT Sans Narrow', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700",
+              "font-size": "14px",
+              "text-align": "center"
+            },
+            "P": {
+              "color": "#ffffff",
+              "font-family": "'PT Sans Narrow', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700",
+              "font-size": "14px",
+              "text-align": "right"
+            }
+          },
+          "_params": {
+            "showButtons": false,
+            "paddingTop": "3",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3a6693",
+            "overlay": true,
+            "overlayColor": "#f7f7f7",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/msdelogo2018rgb-261x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "title1": "product",
+          "text11": "Popular",
+          "text12": "Trending",
+          "text13": "Catalog",
+          "text14": "Awesome",
+          "text15": "Best",
+          "title2": "company",
+          "text21": "Press",
+          "text22": "Features",
+          "text23": "Mission",
+          "text24": "Strategy",
+          "text25": "Works",
+          "title3": "Learn more",
+          "text31": "Support",
+          "text32": "Developers",
+          "text33": "Service",
+          "text34": "Starter pack",
+          "text35": "FAQ",
+          "titled1": "maryland state department of education<br>division of early intervention and special&nbsp;education services (MSDE, DEI/SES)",
+          "titled2": "Maryland Infants and Toddlers Program<br>1-800-535-0132",
+          "titled3": "JOHNS HOPKINS UNIVERSTIY\n<br>CENTER FOR TECHNOLOGY IN EDUCATION (JHU, CTE)",
+          "followtext": "follow us",
+          "text": "© 2018 Maryland State Department of Education, Division of Early Intervention and Special Education Services (MSDE, DEI/SES) and <br>Johns Hopkins University, Center for Technology in Education (JHU CTE).\n<br><br>Please include reference to MSDE, DEI/SES on any replications of this information. <br>Permission must be requested for any use that is not \"fair use\" as that term is understood in copyright law from: <br>MSDE, DEI/SES, 200 West Baltimore Street, Baltimore, Maryland 21201, Phone: 410- 767-0261&nbsp;<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"></a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer7",
+          "_anchor": "footer7-1e"
         }
       ]
     }

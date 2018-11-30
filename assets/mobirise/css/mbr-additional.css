@@ -1,12 +1,13 @@
-@import url(https://fonts.googleapis.com/css?family=Merriweather:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700);
 @import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
-@import url(https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700);
 @import url(https://fonts.googleapis.com/css?family=PT+Sans:400,700);
+@import url(https://fonts.googleapis.com/css?family=Merriweather:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Arvo:400,400i,700,700i);
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i);
+
 
 
 
@@ -758,14 +759,14 @@ blockquote {
 #menu-g .link,
 #menu-g .dropdown-item {
   color: #ffffff;
-  font-family: 'Merriweather', serif;
+  font-family: 'PT Sans Narrow', sans-serif;
 }
 #menu-g .link {
-  font-size: 0.875rem;
+  font-size: 0.8rem;
 }
 #menu-g .dropdown-item,
 #menu-g .nav-dropdown-sm .link {
-  font-size: 0.948rem;
+  font-size: 0.866rem;
 }
 #menu-g .link:hover,
 #menu-g .link:focus {
@@ -810,6 +811,9 @@ blockquote {
 #menu-g .dropdown-item[aria-expanded="true"] {
   color: #f39c12!important;
 }
+#menu-g .btn {
+  font-family: 'PT Sans Narrow', sans-serif;
+}
 #header1-1 .lead {
   color: #93a3a7;
   font-style: italic;
@@ -852,7 +856,7 @@ blockquote {
 #features17-11 .mbr-section-title {
   font-weight: 400;
   font-family: 'Oxygen', sans-serif;
-  font-size: 30px;
+  font-size: 20px;
   text-align: center;
 }
 #features17-11 .mbr-section-subtitle {
@@ -921,6 +925,7 @@ blockquote {
 
 
 
+
 #content1-13 P {
   color: #212121;
   font-size: 16px;
@@ -943,14 +948,14 @@ blockquote {
 #menu-g .link,
 #menu-g .dropdown-item {
   color: #ffffff;
-  font-family: 'Merriweather', serif;
+  font-family: 'PT Sans Narrow', sans-serif;
 }
 #menu-g .link {
-  font-size: 0.875rem;
+  font-size: 0.8rem;
 }
 #menu-g .dropdown-item,
 #menu-g .nav-dropdown-sm .link {
-  font-size: 0.948rem;
+  font-size: 0.866rem;
 }
 #menu-g .link:hover,
 #menu-g .link:focus {
@@ -994,6 +999,9 @@ blockquote {
 #menu-g .link[aria-expanded="true"],
 #menu-g .dropdown-item[aria-expanded="true"] {
   color: #f39c12!important;
+}
+#menu-g .btn {
+  font-family: 'PT Sans Narrow', sans-serif;
 }
 #features1-2f .mbr-section-title {
   font-weight: 700;
@@ -1057,6 +1065,7 @@ blockquote {
   font-size: 14px;
   text-align: right;
 }
+
 
 
 
@@ -1147,14 +1156,14 @@ blockquote {
 #menu-g .link,
 #menu-g .dropdown-item {
   color: #ffffff;
-  font-family: 'Merriweather', serif;
+  font-family: 'PT Sans Narrow', sans-serif;
 }
 #menu-g .link {
-  font-size: 0.875rem;
+  font-size: 0.8rem;
 }
 #menu-g .dropdown-item,
 #menu-g .nav-dropdown-sm .link {
-  font-size: 0.948rem;
+  font-size: 0.866rem;
 }
 #menu-g .link:hover,
 #menu-g .link:focus {
@@ -1199,6 +1208,10 @@ blockquote {
 #menu-g .dropdown-item[aria-expanded="true"] {
   color: #f39c12!important;
 }
+#menu-g .btn {
+  font-family: 'PT Sans Narrow', sans-serif;
+}
+
 
 
 
@@ -1261,14 +1274,14 @@ blockquote {
 #menu-g .link,
 #menu-g .dropdown-item {
   color: #ffffff;
-  font-family: 'Merriweather', serif;
+  font-family: 'PT Sans Narrow', sans-serif;
 }
 #menu-g .link {
-  font-size: 0.875rem;
+  font-size: 0.8rem;
 }
 #menu-g .dropdown-item,
 #menu-g .nav-dropdown-sm .link {
-  font-size: 0.948rem;
+  font-size: 0.866rem;
 }
 #menu-g .link:hover,
 #menu-g .link:focus {
@@ -1312,6 +1325,9 @@ blockquote {
 #menu-g .link[aria-expanded="true"],
 #menu-g .dropdown-item[aria-expanded="true"] {
   color: #f39c12!important;
+}
+#menu-g .btn {
+  font-family: 'PT Sans Narrow', sans-serif;
 }
 #content4-y P {
   font-family: 'PT Sans', sans-serif;
@@ -1414,6 +1430,7 @@ blockquote {
 
 
 
+
 #menu-y .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1430,14 +1447,14 @@ blockquote {
 #menu-y .link,
 #menu-y .dropdown-item {
   color: #ffffff;
-  font-family: 'Merriweather', serif;
+  font-family: 'PT Sans Narrow', sans-serif;
 }
 #menu-y .link {
-  font-size: 0.875rem;
+  font-size: 0.8rem;
 }
 #menu-y .dropdown-item,
 #menu-y .nav-dropdown-sm .link {
-  font-size: 0.948rem;
+  font-size: 0.866rem;
 }
 #menu-y .link:hover,
 #menu-y .link:focus {
@@ -1481,6 +1498,9 @@ blockquote {
 #menu-y .link[aria-expanded="true"],
 #menu-y .dropdown-item[aria-expanded="true"] {
   color: #f39c12!important;
+}
+#menu-y .btn {
+  font-family: 'PT Sans Narrow', sans-serif;
 }
 #header1-z .lead {
   color: #93a3a7;
@@ -1579,6 +1599,7 @@ blockquote {
 
 
 
+
 #content1-16 P {
   color: #212121;
   font-size: 16px;
@@ -1601,14 +1622,14 @@ blockquote {
 #menu-17 .link,
 #menu-17 .dropdown-item {
   color: #ffffff;
-  font-family: 'Merriweather', serif;
+  font-family: 'PT Sans Narrow', sans-serif;
 }
 #menu-17 .link {
-  font-size: 0.875rem;
+  font-size: 0.8rem;
 }
 #menu-17 .dropdown-item,
 #menu-17 .nav-dropdown-sm .link {
-  font-size: 0.948rem;
+  font-size: 0.866rem;
 }
 #menu-17 .link:hover,
 #menu-17 .link:focus {
@@ -1652,6 +1673,9 @@ blockquote {
 #menu-17 .link[aria-expanded="true"],
 #menu-17 .dropdown-item[aria-expanded="true"] {
   color: #f39c12!important;
+}
+#menu-17 .btn {
+  font-family: 'PT Sans Narrow', sans-serif;
 }
 #features1-18 .mbr-section-title {
   font-weight: 700;
@@ -1718,6 +1742,7 @@ blockquote {
 
 
 
+
 #menu-y .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1734,14 +1759,14 @@ blockquote {
 #menu-y .link,
 #menu-y .dropdown-item {
   color: #ffffff;
-  font-family: 'Merriweather', serif;
+  font-family: 'PT Sans Narrow', sans-serif;
 }
 #menu-y .link {
-  font-size: 0.875rem;
+  font-size: 0.8rem;
 }
 #menu-y .dropdown-item,
 #menu-y .nav-dropdown-sm .link {
-  font-size: 0.948rem;
+  font-size: 0.866rem;
 }
 #menu-y .link:hover,
 #menu-y .link:focus {
@@ -1786,6 +1811,9 @@ blockquote {
 #menu-y .dropdown-item[aria-expanded="true"] {
   color: #f39c12!important;
 }
+#menu-y .btn {
+  font-family: 'PT Sans Narrow', sans-serif;
+}
 #header1-11 .lead {
   color: #93a3a7;
   font-style: italic;
@@ -1803,6 +1831,192 @@ blockquote {
   text-align: center;
 }
 #footer7-z P {
+  color: #ffffff;
+  font-family: 'PT Sans Narrow', sans-serif;
+  font-size: 14px;
+  text-align: right;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#menu-16 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-16 .navbar-caption {
+  color: #ffffff;
+}
+#menu-16 .navbar-toggler {
+  color: #ffffff;
+}
+#menu-16 .close-icon::before,
+#menu-16 .close-icon::after {
+  background-color: #ffffff;
+}
+#menu-16 .link,
+#menu-16 .dropdown-item {
+  color: #ffffff;
+  font-family: 'PT Sans Narrow', sans-serif;
+}
+#menu-16 .link {
+  font-size: 0.8rem;
+}
+#menu-16 .dropdown-item,
+#menu-16 .nav-dropdown-sm .link {
+  font-size: 0.866rem;
+}
+#menu-16 .link:hover,
+#menu-16 .link:focus {
+  color: #f39c12;
+}
+#menu-16 .dropdown-item:hover::before,
+#menu-16 .dropdown-item:focus::before {
+  background: #f39c12;
+}
+#menu-16 .dropdown-item:hover,
+#menu-16 .dropdown-item:focus {
+  color: #ffffff;
+}
+#menu-16 .link[aria-expanded="true"],
+#menu-16 .dropdown-menu {
+  background: #1a242f;
+}
+#menu-16 .nav-dropdown-sm .link:focus,
+#menu-16 .nav-dropdown-sm .link:hover,
+#menu-16 .nav-dropdown-sm .dropdown-item:focus,
+#menu-16 .nav-dropdown-sm .dropdown-item:hover {
+  background: #273646!important;
+}
+#menu-16 .navbar,
+#menu-16 .nav-dropdown-sm,
+#menu-16 .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-16 .nav-dropdown-sm .dropdown-menu {
+  background: #2c3e50;
+}
+#menu-16 .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-16 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-16 .bg-color.transparent.opened .link:hover,
+#menu-16 .bg-color.transparent.opened .link:focus {
+  color: #f39c12;
+}
+#menu-16 .link[aria-expanded="true"],
+#menu-16 .dropdown-item[aria-expanded="true"] {
+  color: #f39c12!important;
+}
+#menu-16 .btn {
+  font-family: 'PT Sans Narrow', sans-serif;
+}
+#header1-17 .lead {
+  color: #93a3a7;
+  font-style: italic;
+}
+#header1-17 .mbr-section-title {
+  font-size: 48px;
+  font-family: 'Oxygen', sans-serif;
+  color: #ffffff;
+  text-align: left;
+}
+#header1-17 .mbr-section-text {
+  font-size: 25px;
+  color: #ffffff;
+  font-family: 'Oxygen', sans-serif;
+  text-align: left;
+}
+#header1-17 .btn {
+  font-family: 'Montserrat', sans-serif;
+}
+#features2-18 .mbr-section-title {
+  font-weight: 700;
+  font-family: 'Oxygen', sans-serif;
+  font-size: 48px;
+  color: #000000;
+}
+#features2-18 .mbr-section-subtitle {
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  color: #000000;
+  font-family: 'PT Sans Narrow', sans-serif;
+}
+#features2-18 .mbr-section-text {
+  font-family: 'PT Sans', sans-serif;
+  color: #000000;
+  font-size: 18px;
+}
+#features2-18 .btn {
+  font-family: 'Merriweather', serif;
+}
+#features17-19 .mbr-section-title {
+  font-weight: 400;
+  font-family: 'Oxygen', sans-serif;
+  font-size: 30px;
+  text-align: center;
+}
+#features17-19 .mbr-section-subtitle {
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  color: #fff;
+}
+#content1-1a P {
+  text-align: left;
+  color: #212121;
+  font-family: 'PT Sans', sans-serif;
+  font-size: 18px;
+}
+#testimonials1-1b .card-block p {
+  font-size: 15px;
+}
+#testimonials1-1b .mbr-section-title {
+  font-family: 'Oxygen', sans-serif;
+  font-size: 48px;
+}
+#testimonials1-1b .card-footer > div {
+  font-family: 'PT Sans Narrow', sans-serif;
+}
+#testimonials1-1b .card-block P {
+  color: #000000;
+  font-family: 'PT Sans', sans-serif;
+}
+#testimonials1-1b .card-footer > small {
+  font-family: 'Open Sans', sans-serif;
+}
+#content3-1c .mbr-section-title,
+#content3-1c .mbr-section-subtitle {
+  text-align: center;
+}
+#content3-1c H3 {
+  font-family: 'Oxygen', sans-serif;
+  font-size: 48px;
+}
+#buttons1-1d .btn {
+  font-family: 'PT Sans Narrow', sans-serif;
+}
+#footer7-1e .mbr-section-subtitle {
+  color: #ffffff;
+  font-family: 'PT Sans Narrow', sans-serif;
+  font-size: 14px;
+  text-align: center;
+}
+#footer7-1e P {
   color: #ffffff;
   font-family: 'PT Sans Narrow', sans-serif;
   font-size: 14px;
