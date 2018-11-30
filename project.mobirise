@@ -212,7 +212,8 @@
             "P": {
               "text-align": "right",
               "font-family": "'PT Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700",
+              "font-size": "24px"
             },
             "H3": {
               "font-size": "48px",
@@ -227,7 +228,7 @@
             "bgColor": "#fff"
           },
           "title": "<b>The Earlier, The Better!</b>",
-          "meta": "The Maryland Infants and Toddlers Program supports young children with developmental delays, atypical behavior or disabilities and their families.",
+          "meta": "The Maryland Infants and Toddlers Program supports young children with developmental delays, atypical behavior, or disabilities and their families.",
           "_tags": [
             "Theme"
           ],

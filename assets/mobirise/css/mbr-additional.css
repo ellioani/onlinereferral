@@ -842,6 +842,7 @@ blockquote {
 #content3-y P {
   text-align: right;
   font-family: 'PT Sans', sans-serif;
+  font-size: 24px;
 }
 #content3-y H3 {
   font-size: 48px;
