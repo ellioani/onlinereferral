@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Online Referral",
-    "currentPage": "MDITP.html",
+    "currentPage": "Milestones.html",
     "theme": {
       "name": "colorm",
       "title": "ColorM",
@@ -1596,7 +1596,7 @@
           "title": "<b>Additional Resources</b>",
           "text": "These resources include print, video, and online information for families and professionals about early childhood development, developmental milestones, screening and evaluation, and strategies for supporting healthy development.",
           "title1": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion2-10-init\" data-core=\"\" href=\"#collapseOneaccordion2-10\" aria-expanded=\"false\" aria-controls=\"collapseOne\"><span class=\"sign\"></span>Develomental Milestones Tracker App (iPhone, Android)</a>",
-          "title2": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion2-10-init\" data-core=\"\" href=\"#collapseTwoaccordion2-10\" aria-expanded=\"false\" aria-controls=\"collapseTwo\">Online Learning with CEUs for Child Care Providers</a>",
+          "title2": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion2-10-init\" data-core=\"\" href=\"#collapseTwoaccordion2-10\" aria-expanded=\"true\" aria-controls=\"collapseTwo\">Online Learning with Continuing Education Units for Child Care Providers</a>",
           "title3": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion2-10-init\" data-core=\"\" href=\"#collapseThreeaccordion2-10\" aria-expanded=\"false\" aria-controls=\"collapseThree\">Additional Websites</a>",
           "title4": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion2-10-init\" data-core=\"\" href=\"#collapseFouraccordion2-10\" aria-expanded=\"true\" aria-controls=\"collapseFour\">This is a accordion Title 4</a>",
           "title5": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseFive\" aria-expanded=\"false\" aria-controls=\"collapseFive\">This is a accordion Title 5</a>",
