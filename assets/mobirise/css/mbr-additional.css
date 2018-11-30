@@ -29,6 +29,8 @@
 
 
 
+
+
 body,
 input,
 textarea,
@@ -833,6 +835,18 @@ blockquote {
 #header1-1 .btn {
   font-family: 'Montserrat', sans-serif;
 }
+#content3-y .mbr-section-title,
+#content3-y .mbr-section-subtitle {
+  text-align: center;
+}
+#content3-y P {
+  text-align: right;
+  font-family: 'PT Sans', sans-serif;
+}
+#content3-y H3 {
+  font-size: 48px;
+  font-family: 'Oxygen', sans-serif;
+}
 #features2-4 .mbr-section-title {
   font-weight: 700;
   font-family: 'Oxygen', sans-serif;
@@ -910,6 +924,8 @@ blockquote {
   font-size: 14px;
   text-align: right;
 }
+
+
 
 
 
@@ -1038,12 +1054,18 @@ blockquote {
   font-family: 'PT Sans', sans-serif;
   font-size: 48px;
 }
+#tabs2-2i .mbr-section-title B {
+  font-family: 'Oxygen', sans-serif;
+}
 #accordion2-10 H1 {
   font-family: 'PT Sans', sans-serif;
   font-size: 48px;
 }
 #accordion2-10 P {
   font-family: 'PT Sans', sans-serif;
+}
+#accordion2-10 B {
+  font-family: 'Oxygen', sans-serif;
 }
 #content3-11 .mbr-section-title,
 #content3-11 .mbr-section-subtitle {

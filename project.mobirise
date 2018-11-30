@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Online Referral",
-    "currentPage": "Milestones.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "colorm",
       "title": "ColorM",
@@ -26,7 +26,7 @@
       ]
     },
     "versionFirst": "4.7.2",
-    "uniqCompNum": 34,
+    "uniqCompNum": 35,
     "versionPublish": "4.8.3",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -206,6 +206,36 @@
         },
         {
           "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "P": {
+              "text-align": "right",
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
+            },
+            "H3": {
+              "font-size": "48px",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "title": "<b>The Earlier, The Better!</b>",
+          "meta": "The Maryland Infants and Toddlers Program supports young children with developmental delays, atypical behavior or disabilities and their families.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content3",
+          "_anchor": "content3-y"
+        },
+        {
+          "_styles": {
             ".mbr-section-title": {
               "font-weight": "700",
               "font-family": "'Oxygen', sans-serif",
@@ -232,12 +262,12 @@
             }
           },
           "_params": {
-            "showTitle": true,
+            "showTitle": false,
             "showImages": true,
             "showTitles": true,
             "ShowTexts": true,
             "showButtons": false,
-            "paddingTop": "2",
+            "paddingTop": "0",
             "paddingBottom": "2",
             "columns": 3,
             "bgImageRadio": false,
@@ -390,7 +420,7 @@
             "overlayColor": "#2c3e50",
             "overlayOpacity": "0.8"
           },
-          "title": "The Marland Infants and Toddlers Program supports young children with developmental delays, atypical behavior or disabilities and their families",
+          "title": "The Maryland Infants and Toddlers Program supports young children with developmental delays, atypical behavior or disabilities and their families",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-white-outline\" href=\"https://mobirise.com\"><span class=\"cm-icon cm-icon-arrowright mbr-iconfont mbr-iconfont-btn\"></span></a>",
           "alias": "colorm/components",
           "_tags": [
@@ -405,7 +435,7 @@
             "paddingBottom": "2",
             "bgColor": "#ffffff"
           },
-          "text": "While all children grow and develop at their own rate, some infants and toddlers experience delays in their development or have been diagnosed with a special health condition that is likely to lead to non-typical development. &nbsp;The earlier any potential delays and disabilities are identified and early intervention services begin, the better chance a young child has of achieving his or her best potential.&nbsp;<br><br>The overall goals of early intervention are:&nbsp;<br><b>To enable young children</b> to be active and successful participants during their early childhood years and in the future in a variety of settings: in their homes, in child care or preschool programs, and in their communities; and<br><br><b>To enable families </b>to provide care for their children and have the resources they need to participate in their own desired family and community activities.<br>",
+          "text": "While all children grow and develop at their own rate, some infants and toddlers experience delays in their development, exhibit atypical behaviors, or have been diagnosed with a special health condition that is likely to lead to non-typical development. &nbsp;The earlier any potential delays and disabilities are identified and early intervention services begin, the better chance a young child has of achieving his or her best potential.&nbsp;<br><br>The overall goals of early intervention are:&nbsp;<br><b>To enable young children</b> to be active and successful participants during their early childhood years and in the future in a variety of settings: in their homes, in child care or preschool programs, and in their communities; and<br><br><b>To enable families </b>to provide care for their children and have the resources they need to participate in their own desired family and community activities.<br>",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
@@ -1296,6 +1326,10 @@
               "font-family": "'PT Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700",
               "font-size": "48px"
+            },
+            ".mbr-section-title B": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             }
           },
           "_params": {
@@ -1622,6 +1656,10 @@
             "P": {
               "font-family": "'PT Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
+            },
+            "B": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             }
           }
         },
