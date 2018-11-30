@@ -392,8 +392,8 @@
           "_styles": {
             ".mbr-section-title": {
               "font-weight": "400",
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700",
               "font-size": "20px",
               "text-align": "center"
             },
@@ -406,8 +406,8 @@
           "_params": {
             "showTitle": true,
             "showButtons": false,
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/building-blocks-purchased-2000x1333.jpg",
             "parallax": false,
@@ -421,7 +421,7 @@
             "overlayColor": "#2c3e50",
             "overlayOpacity": "0.8"
           },
-          "title": "The Maryland Infants and Toddlers Program supports young children with developmental delays, atypical behavior or disabilities and their families",
+          "title": "Early intervention services are designed to suport each family's capacity to enchance their child's potential at every stage of growth and development.",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-white-outline\" href=\"https://mobirise.com\"><span class=\"cm-icon cm-icon-arrowright mbr-iconfont mbr-iconfont-btn\"></span></a>",
           "alias": "colorm/components",
           "_tags": [
