@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Online Referral",
-    "currentPage": "index.html",
+    "currentPage": "MDITP.html",
     "theme": {
       "name": "colorm",
       "title": "ColorM",
@@ -3059,7 +3059,7 @@
           },
           "title1": "Bootstrap 4",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "The Maryland Infants and Toddlers Program's overarching <b>outcomes for children</b>&nbsp;are to:<br>* Develop\npositive social-emotional skills, <br>* Acquire and use knowledge and skills, and <br>* Use appropriate behaviors to meet their needs. &nbsp;<br><br>The overall <b>outcomes for families</b>&nbsp;are to:<br>* Understand their&nbsp;rights, <br>* Communicate effectively about their child’s needs, and <br>* Help their child develop&nbsp;and learn.&nbsp;<br><br>The Maryland Infants and Toddlers Program is not a medical program that “treats” children.&nbsp;While they may not be trained specialists, families and caregivers are a child’s most important teachers. The early intervention team will partner with them by using a coaching model to design and implement individualized strategies within a child’s daily routines and activities.<br>",
+          "caption1": "The Maryland Infants and Toddlers Program's overarching <b>outcomes for children</b>&nbsp;are to:<br>* Develop\npositive social-emotional skills and relaltionships, <br>* Acquire and use knowledge and skills, and <br>* Use appropriate behaviors to meet their needs. &nbsp;<br><br>The overall <b>outcomes for families</b>&nbsp;are to:<br>* Understand their&nbsp;rights, <br>* Communicate effectively about their child’s needs, and <br>* Help their child develop&nbsp;and learn.&nbsp;<br><br>The Maryland Infants and Toddlers Program is not a medical program that “treats” children.&nbsp;While they may not be trained specialists, families and caregivers are a child’s most important teachers. The early intervention team will partner with them by using a coaching model to design and implement individualized strategies within a child’s daily routines and activities.<br>",
           "number1": "1",
           "title2": "Responsive",
           "subtitle2": "One of Bootstrap 4's big points",
