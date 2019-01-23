@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Online Referral",
-    "currentPage": "MDITP.html",
+    "currentPage": "Referral.html",
     "theme": {
       "name": "colorm",
       "title": "ColorM",
@@ -1961,7 +1961,7 @@
           "title": "Make a Referral",
           "title1": "Bootstrap 4",
           "subtitle1": "Online referral",
-          "caption1": "<a href=\"https://uat.mditp.org\">Submit an online referral</a> by creating an account and completing a short questionnaire.&nbsp;",
+          "caption1": "<a href=\"https://online.mditp.org\" target=\"_blank\">Submit an online referral</a> by creating an account and completing a short questionnaire.&nbsp;",
           "buttons1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">learn more</a>",
           "title2": "Responsive",
           "subtitle2": "phone call to local program",
