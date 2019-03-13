@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Online Referral",
-    "currentPage": "Referral.html",
+    "currentPage": "Milestones.html",
     "theme": {
       "name": "colorm",
       "title": "ColorM",
@@ -27,7 +27,7 @@
     },
     "versionFirst": "4.7.2",
     "uniqCompNum": 52,
-    "versionPublish": "4.8.3",
+    "versionPublish": "4.9.5",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "siteFonts": [],
@@ -985,7 +985,7 @@
           "buttons1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">learn more</a>",
           "title2": "Responsive",
           "subtitle2": "how to ask for help&nbsp;",
-          "caption2": "Missed milestones could be a sign of a problem. &nbsp;If you notice that your child is not meeting milestones or is exhibiting one or more of the red flags of development listed below, you can speak with your physician and request a more formal developmental screening to take a closer look at how your child is developing. &nbsp;You can also call the Maryland Infants and Toddlers Program or <a href=\"https://uat.mditp.org\">complete the online referral</a> to request a developmental evaluation.",
+          "caption2": "Missed milestones could be a sign of a problem. &nbsp;If you notice that your child is not meeting milestones or is exhibiting one or more of the red flags of development listed below, you can speak with your physician and request a more formal developmental screening to take a closer look at how your child is developing. &nbsp;You can also call the Maryland Infants and Toddlers Program or <a href=\"https://online.mditp.org\">complete the online referral</a> to request a developmental evaluation.",
           "buttons2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">learn more</a>",
           "title3": "Web Fonts",
           "subtitle3": "how to know when to ask for help",
@@ -1356,7 +1356,7 @@
           },
           "arrowDown": "@THEME_PATH@/components/_images/header/arrowDown.png",
           "title": "<b>Red Flags of Development</b>",
-          "text": "There may be red flags in a child's development that can compromise their ability to interact with others, learn, and/or gain independence. If you notice any of these red flags, <a href=\"Referral.html\">make a referral</a> to the Maryland Infants and Toddlers Program right away.",
+          "text": "There may be red flags in a child's development that can compromise their ability to interact with others, learn, and/or gain independence. If you notice any of these red flags, <a href=\"http://online.mditp.org\">make a referral</a> to the Maryland Infants and Toddlers Program right away.",
           "media": {
             "image": {
               "active": true,
