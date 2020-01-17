@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Online Referral",
-    "currentPage": "Milestones.html",
+    "currentPage": "Referral.html",
     "theme": {
       "name": "colorm",
       "title": "ColorM",
@@ -659,9 +659,10 @@
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/msdelogo2018rgb-261x128.png",
               "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": ""
+              "alt": "MSDE Logo",
+              "link": "https://mditp.org",
+              "title": "MSDE Logo",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -1362,8 +1363,8 @@
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/brothers-764670-1920-1280x1920.jpg",
               "link": "",
-              "alt": "",
-              "title": ""
+              "alt": "Sister and baby brother",
+              "title": "Sister and brother"
             }
           },
           "title11": "BOOST YOUR RANKING",
@@ -1381,7 +1382,7 @@
           "title61": "TRENDY WEBSITE BLOCKS",
           "title62": "TRENDY WEBSITE BLOCKS",
           "title63": "TRENDY WEBSITE BLOCKS",
-          "tabTitle": "<li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1tabs2-2i\" aria-expanded=\"false\">Infant</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2tabs2-2i\" aria-expanded=\"false\">Toddler</a></li><li class=\"nav-item nav-item-last\" style=\"display: inline-block;\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3tabs2-2i\" aria-expanded=\"true\">any age</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4tabs2-2i\">Awesome</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5tabs2-2i\">Amazing</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6tabs2-2i\">Beautiful</a></li>",
+          "tabTitle": "<li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1tabs2-2i\" aria-expanded=\"true\">Infant</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2tabs2-2i\" aria-expanded=\"false\">Toddler</a></li><li class=\"nav-item nav-item-last\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3tabs2-2i\" aria-expanded=\"false\">any age</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4tabs2-2i\">Awesome</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5tabs2-2i\">Amazing</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6tabs2-2i\">Beautiful</a></li>",
           "media11": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-header5",
@@ -1389,7 +1390,7 @@
               "name": "flag",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "",
               "size": 0,
               "color": "#c0392b"
             }
@@ -1423,7 +1424,7 @@
               "name": "flag",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "",
               "size": 0,
               "color": "#c0392b"
             }
@@ -1457,7 +1458,7 @@
               "name": "flag",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "",
               "size": 0,
               "color": "#c0392b"
             }
@@ -1738,9 +1739,10 @@
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/msdelogo2018rgb-261x128.png",
               "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": ""
+              "alt": "MSDE Logo",
+              "link": "https://mditp.org",
+              "title": "MSDE Logo",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -1857,8 +1859,8 @@
               "class": "features-img",
               "width": 600,
               "link": "",
-              "alt": "",
-              "title": ""
+              "alt": "closeup of adult hand on a computer keyboard",
+              "title": "One hand typing"
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features4",
@@ -1876,8 +1878,8 @@
               "class": "features-img",
               "width": 600,
               "link": "",
-              "alt": "",
-              "title": ""
+              "alt": "African American father holding baby while on the phone",
+              "title": "Dad and baby on the phone"
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features4",
@@ -1895,8 +1897,8 @@
               "class": "features-img",
               "width": 600,
               "link": "",
-              "alt": "",
-              "title": ""
+              "alt": "Samsung fax maching",
+              "title": "Samsung fax machine"
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features4",
@@ -2333,8 +2335,8 @@
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/34669-600x424.jpg",
               "link": "",
-              "alt": "",
-              "title": ""
+              "alt": "Toddler in grandmother's arms reaching out to toy held by other adult",
+              "title": "Toddler with grandmother"
             }
           },
           "title11": "EVALUATION AND ASSESSMENT",
@@ -2658,9 +2660,10 @@
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/msdelogo2018rgb-261x128.png",
               "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": ""
+              "alt": "MSDE Logo",
+              "link": "https://mditp.org",
+              "title": "MSDE Logo",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -2875,8 +2878,8 @@
               "class": "features-img",
               "width": 600,
               "link": "",
-              "alt": "",
-              "title": ""
+              "alt": "Baby boy taking first steps",
+              "title": "Baby Boy's first steps"
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features4",
@@ -2894,8 +2897,8 @@
               "class": "features-img",
               "width": 600,
               "link": "",
-              "alt": "",
-              "title": ""
+              "alt": "Toddler climbing in the playground",
+              "title": "Toddler climbing"
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features4",
@@ -2913,8 +2916,8 @@
               "class": "features-img",
               "width": 600,
               "link": "",
-              "alt": "",
-              "title": ""
+              "alt": "Close up of the hands of two adults holding hands",
+              "title": "Holding hands"
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features4",
@@ -3053,8 +3056,8 @@
               "width": 600,
               "active": true,
               "link": "",
-              "alt": "",
-              "title": ""
+              "alt": "Toddler girl with mom buildign a lego tower",
+              "title": "Toddler girl building lego tower"
             }
           },
           "title1": "Bootstrap 4",
@@ -3242,9 +3245,10 @@
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/msdelogo2018rgb-261x128.png",
               "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": ""
+              "alt": "MSDE Logo",
+              "link": "https://mditp.org",
+              "title": "MSDE Logo",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -3347,8 +3351,8 @@
               "class": "card-img-top",
               "active": true,
               "link": "",
-              "alt": "",
-              "title": ""
+              "alt": "African American baby girl in red dress on a blanket",
+              "title": "African American baby girl in red dress"
             }
           },
           "media12": {
@@ -3548,8 +3552,8 @@
               "class": "features-img",
               "width": 600,
               "link": "",
-              "alt": "",
-              "title": ""
+              "alt": "circle graphic representing 73% growth",
+              "title": "circle graph 73%"
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features4",
@@ -3567,8 +3571,8 @@
               "class": "features-img",
               "width": 600,
               "link": "",
-              "alt": "",
-              "title": ""
+              "alt": "Circle graphic representing 74% growth",
+              "title": "74% infrographic"
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features4",
@@ -3586,8 +3590,8 @@
               "class": "features-img",
               "width": 600,
               "link": "",
-              "alt": "",
-              "title": ""
+              "alt": "Circle graphic representing 74% growth",
+              "title": "74% infographic"
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features4",
@@ -4258,9 +4262,10 @@
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/msdelogo2018rgb-261x128.png",
               "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": ""
+              "alt": "MSDE Logo",
+              "link": "https://mditp.org",
+              "title": "MSDE Logo",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
