@@ -7,7 +7,7 @@
       "title": "ColorM",
       "styling": {
         "primaryColor": "#f39c12",
-        "buttonsColor": "#000000",
+        "buttonsColor": "#ffffff",
         "secondaryColor": "#9b59b6",
         "successColor": "#2ecc71",
         "infoColor": "#3498db",
@@ -22,11 +22,14 @@
       },
       "additionalSetColors": [
         "#9fa3a7",
-        "#212121"
+        "#212121",
+        "#d1bf75",
+        "#e1b58e",
+        "#232323"
       ]
     },
     "versionFirst": "4.7.2",
-    "uniqCompNum": 52,
+    "uniqCompNum": 57,
     "versionPublish": "4.9.5",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -133,8 +136,7 @@
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mditp.com",
-              "title": "",
-              "linkInNewWindow": true
+              "title": ""
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -204,6 +206,41 @@
           ],
           "_name": "header1",
           "_anchor": "header1-1"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "48px",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "color": "#ecf0f1"
+            },
+            "P": {
+              "font-size": "24px",
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700",
+              "color": "#ffffff"
+            },
+            "B": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": "2",
+            "paddingBottom": 1,
+            "bgColor": "#34495e"
+          },
+          "title": "<b>Babies Can't Wait!<br>If You Have Concerns, Make a Referral!</b>",
+          "meta": "The Maryland Infants and Toddler Program is open during the Covid-19 Pandemic. As Local programs follow national, State, and local health and safety guidance and regulations, evaluations and ongoing family intervention services and supports may be provided virtually,  in-person, or in combination.&nbsp;",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content3",
+          "_anchor": "content3-1k"
         },
         {
           "_styles": {
@@ -395,7 +432,7 @@
               "font-weight": "400",
               "font-family": "'PT Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700",
-              "font-size": "20px",
+              "font-size": "30px",
               "text-align": "center"
             },
             ".mbr-section-subtitle": {
@@ -707,7 +744,8 @@
     "Milestones.html": {
       "settings": {
         "title": "Developmental Milestones",
-        "order": 1
+        "order": 1,
+        "html_before": "<html lang=\"en\">"
       },
       "components": [
         {
@@ -1065,7 +1103,7 @@
           "title61": "TRENDY WEBSITE BLOCKS",
           "title62": "TRENDY WEBSITE BLOCKS",
           "title63": "TRENDY WEBSITE BLOCKS",
-          "tabTitle": "<li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1tabs1-2g\" aria-expanded=\"false\">3-9 months</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2tabs1-2g\" aria-expanded=\"true\">12-18 months</a></li><li class=\"nav-item nav-item-last\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3tabs1-2g\" aria-expanded=\"true\">20-33 months</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4tabs1-2g\" aria-expanded=\"false\">Awesome</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5tabs1-2g\" aria-expanded=\"false\">Amazing</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6tabs1-2g\" aria-expanded=\"true\">Beautiful</a></li>",
+          "tabTitle": "<li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1tabs1-2g\" aria-expanded=\"true\">3-9 months</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2tabs1-2g\" aria-expanded=\"false\">12-18 months</a></li><li class=\"nav-item nav-item-last\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3tabs1-2g\" aria-expanded=\"false\">20-33 months</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4tabs1-2g\" aria-expanded=\"false\">Awesome</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5tabs1-2g\" aria-expanded=\"false\">Amazing</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6tabs1-2g\" aria-expanded=\"true\">Beautiful</a></li>",
           "media11": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-header5",
@@ -1384,7 +1422,7 @@
           "title61": "TRENDY WEBSITE BLOCKS",
           "title62": "TRENDY WEBSITE BLOCKS",
           "title63": "TRENDY WEBSITE BLOCKS",
-          "tabTitle": "<li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1tabs2-2i\" aria-expanded=\"true\">Infant</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2tabs2-2i\" aria-expanded=\"false\">Toddler</a></li><li class=\"nav-item nav-item-last\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3tabs2-2i\" aria-expanded=\"false\">any age</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4tabs2-2i\">Awesome</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5tabs2-2i\">Amazing</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6tabs2-2i\">Beautiful</a></li>",
+          "tabTitle": "<li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1tabs2-2i\" aria-expanded=\"false\">Infant</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2tabs2-2i\" aria-expanded=\"true\">Toddler</a></li><li class=\"nav-item nav-item-last\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3tabs2-2i\" aria-expanded=\"false\">any age</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4tabs2-2i\">Awesome</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5tabs2-2i\">Amazing</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6tabs2-2i\">Beautiful</a></li>",
           "media11": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-header5",
@@ -1633,8 +1671,8 @@
           },
           "title": "<b>Additional Resources</b>",
           "text": "These resources include print, video, and online information for families and professionals about early childhood development, developmental milestones, screening and evaluation, and strategies for supporting healthy development.",
-          "title1": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion2-10-init\" data-core=\"\" href=\"#collapseOneaccordion2-10\" aria-expanded=\"false\" aria-controls=\"collapseOne\"><span class=\"sign\"></span>Develomental Milestones Tracker App (iPhone, Android)</a>",
-          "title2": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion2-10-init\" data-core=\"\" href=\"#collapseTwoaccordion2-10\" aria-expanded=\"true\" aria-controls=\"collapseTwo\">Online Learning with Continuing Education Units (CEUs) for Child Care Providers</a>",
+          "title1": "<a role=\"button\" class=\"collapsed text-danger\" data-toggle=\"collapse\" data-parent=\"#accordion2-10-init\" data-core=\"\" href=\"#collapseOneaccordion2-10\" aria-expanded=\"false\" aria-controls=\"collapseOne\"><span class=\"sign\"></span>Developmental Milestones Tracker</a>",
+          "title2": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion2-10-init\" data-core=\"\" href=\"#collapseTwoaccordion2-10\" aria-expanded=\"false\" aria-controls=\"collapseTwo\">Online Learning with Continuing Education Units (CEUs) for Child Care Providers</a>",
           "title3": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion2-10-init\" data-core=\"\" href=\"#collapseThreeaccordion2-10\" aria-expanded=\"false\" aria-controls=\"collapseThree\">Additional Websites</a>",
           "title4": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion2-10-init\" data-core=\"\" href=\"#collapseFouraccordion2-10\" aria-expanded=\"true\" aria-controls=\"collapseFour\">This is a accordion Title 4</a>",
           "title5": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseFive\" aria-expanded=\"false\" aria-controls=\"collapseFive\">This is a accordion Title 5</a>",
@@ -1788,7 +1826,8 @@
     "Referral.html": {
       "settings": {
         "title": "Refer a Child",
-        "order": 4
+        "order": 4,
+        "html_before": "<html lang=\"en\">"
       },
       "components": [
         {
@@ -2812,7 +2851,8 @@
     "MDITP.html": {
       "settings": {
         "title": "MDITP",
-        "order": 2
+        "order": 2,
+        "html_before": "<html lang=\"en\">"
       },
       "components": [
         {
@@ -3830,7 +3870,8 @@
     "page4.html": {
       "settings": {
         "title": "clone of mditp",
-        "order": 3
+        "order": 3,
+        "html_before": "<html lang=\"en\">"
       },
       "components": [
         {

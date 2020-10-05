@@ -29,6 +29,8 @@
 
 
 
+
+
 body,
 input,
 textarea,
@@ -111,7 +113,7 @@ textarea,
 .btn-primary {
   background-color: #f39c12;
   border-color: #f39c12;
-  color: #000000;
+  color: #ffffff;
 }
 .btn-primary:hover,
 .btn-primary:focus,
@@ -131,7 +133,7 @@ textarea,
 .btn-secondary {
   background-color: #9b59b6;
   border-color: #9b59b6;
-  color: #000000;
+  color: #ffffff;
 }
 .btn-secondary:hover,
 .btn-secondary:focus,
@@ -151,7 +153,7 @@ textarea,
 .btn-info {
   background-color: #3498db;
   border-color: #3498db;
-  color: #000000;
+  color: #ffffff;
 }
 .btn-info:hover,
 .btn-info:focus,
@@ -171,7 +173,7 @@ textarea,
 .btn-success {
   background-color: #2ecc71;
   border-color: #2ecc71;
-  color: #000000;
+  color: #ffffff;
 }
 .btn-success:hover,
 .btn-success:focus,
@@ -191,7 +193,7 @@ textarea,
 .btn-warning {
   background-color: #f1c40f;
   border-color: #f1c40f;
-  color: #000000;
+  color: #ffffff;
 }
 .btn-warning:hover,
 .btn-warning:focus,
@@ -211,7 +213,7 @@ textarea,
 .btn-danger {
   background-color: #e74c3c;
   border-color: #e74c3c;
-  color: #000000;
+  color: #ffffff;
 }
 .btn-danger:hover,
 .btn-danger:focus,
@@ -877,6 +879,23 @@ section.form .container {
 #header1-1 .btn {
   font-family: 'Montserrat', sans-serif;
 }
+#content3-1k .mbr-section-title,
+#content3-1k .mbr-section-subtitle {
+  text-align: center;
+}
+#content3-1k H3 {
+  font-size: 48px;
+  font-family: 'Oxygen', sans-serif;
+  color: #ecf0f1;
+}
+#content3-1k P {
+  font-size: 24px;
+  font-family: 'PT Sans', sans-serif;
+  color: #ffffff;
+}
+#content3-1k B {
+  color: #ffffff;
+}
 #content3-y .mbr-section-title,
 #content3-y .mbr-section-subtitle {
   text-align: center;
@@ -913,7 +932,7 @@ section.form .container {
 #features17-11 .mbr-section-title {
   font-weight: 400;
   font-family: 'PT Sans', sans-serif;
-  font-size: 20px;
+  font-size: 30px;
   text-align: center;
 }
 #features17-11 .mbr-section-subtitle {
