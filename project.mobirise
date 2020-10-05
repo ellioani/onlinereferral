@@ -25,7 +25,8 @@
         "#212121",
         "#d1bf75",
         "#e1b58e",
-        "#232323"
+        "#232323",
+        "#3a6693"
       ]
     },
     "versionFirst": "4.7.2",
@@ -193,7 +194,7 @@
               "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"
             },
             "overlay": true,
-            "overlayColor": "#3a6693",
+            "overlayColor": "#34495e",
             "overlayOpacity": "0.3"
           },
           "arrowDown": "@THEME_PATH@/components/_images/header/arrowDown.png",
@@ -689,7 +690,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#3a6693",
+            "bgColor": "#2c3e50",
             "overlay": true,
             "overlayColor": "#f7f7f7",
             "overlayOpacity": 0.8
@@ -1771,7 +1772,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#3a6693",
+            "bgColor": "#2c3e50",
             "overlay": true,
             "overlayColor": "#f7f7f7",
             "overlayOpacity": 0.8
@@ -2693,7 +2694,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#3a6693",
+            "bgColor": "#2c3e50",
             "overlay": true,
             "overlayColor": "#f7f7f7",
             "overlayOpacity": 0.8
@@ -3281,7 +3282,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#3a6693",
+            "bgColor": "#2c3e50",
             "overlay": true,
             "overlayColor": "#f7f7f7",
             "overlayOpacity": 0.8
@@ -4300,7 +4301,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#3a6693",
+            "bgColor": "#2c3e50",
             "overlay": true,
             "overlayColor": "#f7f7f7",
             "overlayOpacity": 0.8
