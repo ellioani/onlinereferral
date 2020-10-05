@@ -216,16 +216,18 @@
               "font-size": "48px",
               "font-family": "'Oxygen', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "color": "#ecf0f1"
+              "color": "#ecf0f1",
+              "text-align": "right"
             },
             "P": {
               "font-size": "24px",
               "font-family": "'PT Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700",
-              "color": "#ffffff"
+              "color": "#ecf0f1",
+              "text-align": "right"
             },
             "B": {
-              "color": "#ffffff"
+              "color": "#ecf0f1"
             }
           },
           "_params": {

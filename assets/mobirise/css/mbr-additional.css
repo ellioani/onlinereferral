@@ -887,14 +887,16 @@ section.form .container {
   font-size: 48px;
   font-family: 'Oxygen', sans-serif;
   color: #ecf0f1;
+  text-align: right;
 }
 #content3-1k P {
   font-size: 24px;
   font-family: 'PT Sans', sans-serif;
-  color: #ffffff;
+  color: #ecf0f1;
+  text-align: right;
 }
 #content3-1k B {
-  color: #ffffff;
+  color: #ecf0f1;
 }
 #content3-y .mbr-section-title,
 #content3-y .mbr-section-subtitle {
