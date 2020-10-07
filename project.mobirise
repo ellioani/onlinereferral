@@ -228,7 +228,8 @@
               "text-align": "right"
             },
             "B": {
-              "color": "#ecf0f1"
+              "color": "#ecf0f1",
+              "font-size": "48px"
             }
           },
           "_params": {
@@ -237,8 +238,8 @@
             "paddingBottom": 1,
             "bgColor": "#34495e"
           },
-          "title": "<b>Babies Can't Wait!<br>If You Have Concerns, Make a Referral!</b>",
-          "meta": "The Maryland Infants and Toddler Program is open during the Covid-19 Pandemic. As Local programs follow national, State, and local health and safety guidance and regulations, evaluations and ongoing family intervention services and supports may be provided virtually,  in-person, or in combination.&nbsp;",
+          "title": "<b>Babies Can't Wait!&nbsp;</b><br><b>If You Have Questions about Your Child's Developmen</b><b>t,&nbsp;</b><b>Make a Referral!</b>",
+          "meta": "The Maryland Infants and Toddler Program is open during the Covid-19 Pandemic. As local programs follow national, State, and local health and safety guidance and regulations, evaluations and ongoing family intervention services and supports may be provided virtually,  in-person, or in combination.&nbsp;",
           "_tags": [
             "Theme"
           ],
