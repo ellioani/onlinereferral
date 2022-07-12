@@ -31,14 +31,23 @@
     },
     "versionFirst": "4.7.2",
     "uniqCompNum": 57,
-    "versionPublish": "4.9.5",
+    "versionPublish": "5.6.11",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "siteFonts": [],
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/msde-logo-blue-128x65.png",
     "noImageResize": "",
-    "siteUrl": "undefined",
-    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-130485402-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-130485402-1');\r\n</script>\r\n"
+    "siteUrl": false,
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-130485402-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-130485402-1');\r\n</script>\r\n<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-Z18TGRQB7T\"></script>\r\n",
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsSwitcher": "on",
+    "sitemapSwitcherAuto": "on",
+    "imageResize": true,
+    "mbrsiteDomain": "bqxx9eyxqw",
+    "sitemapSwitcher": false,
+    "cookiesAlert": false,
+    "gdpr": false,
+    "publishChangesOnly": false
   },
   "pages": {
     "index.html": {
@@ -151,7 +160,8 @@
             "Theme"
           ],
           "_name": "menu",
-          "_anchor": "menu-g"
+          "_anchor": "menu-g",
+          "_sourceTheme": "colorm"
         },
         {
           "_styles": {
@@ -206,7 +216,8 @@
             "Theme"
           ],
           "_name": "header1",
-          "_anchor": "header1-1"
+          "_anchor": "header1-1",
+          "_sourceTheme": "colorm"
         },
         {
           "_styles": {
@@ -244,7 +255,8 @@
             "Theme"
           ],
           "_name": "content3",
-          "_anchor": "content3-1k"
+          "_anchor": "content3-1k",
+          "_sourceTheme": "colorm"
         },
         {
           "_styles": {
@@ -275,7 +287,8 @@
             "Theme"
           ],
           "_name": "content3",
-          "_anchor": "content3-y"
+          "_anchor": "content3-y",
+          "_sourceTheme": "colorm"
         },
         {
           "_styles": {
@@ -428,7 +441,8 @@
             "Theme"
           ],
           "_name": "features2",
-          "_anchor": "features2-4"
+          "_anchor": "features2-4",
+          "_sourceTheme": "colorm"
         },
         {
           "_styles": {
@@ -470,7 +484,8 @@
             "Theme"
           ],
           "_name": "features17",
-          "_anchor": "features17-11"
+          "_anchor": "features17-11",
+          "_sourceTheme": "colorm"
         },
         {
           "_params": {
@@ -493,7 +508,8 @@
               "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700",
               "font-size": "18px"
             }
-          }
+          },
+          "_sourceTheme": "colorm"
         },
         {
           "_styles": {
@@ -619,7 +635,8 @@
             "Theme"
           ],
           "_name": "testimonials1",
-          "_anchor": "testimonials1-y"
+          "_anchor": "testimonials1-y",
+          "_sourceTheme": "colorm"
         },
         {
           "_styles": {
@@ -644,7 +661,8 @@
             "Theme"
           ],
           "_name": "content3",
-          "_anchor": "content3-10"
+          "_anchor": "content3-10",
+          "_sourceTheme": "colorm"
         },
         {
           "_params": {
@@ -664,7 +682,8 @@
               "font-family": "'PT Sans Narrow', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700"
             }
-          }
+          },
+          "_sourceTheme": "colorm"
         },
         {
           "_styles": {
@@ -699,12 +718,11 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/msdelogo2018rgb-261x128.png",
+              "src": "@PROJECT_PATH@/assets/images/msde-logo-blue-253x128.jpg",
               "height": 128,
               "alt": "MSDE Logo",
               "link": "https://mditp.org",
-              "title": "MSDE Logo",
-              "linkInNewWindow": false
+              "title": "MSDE Logo"
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -741,7 +759,8 @@
             "Theme"
           ],
           "_name": "footer7",
-          "_anchor": "footer7-e"
+          "_anchor": "footer7-e",
+          "_sourceTheme": "colorm"
         }
       ]
     },
@@ -773,7 +792,8 @@
               "font-family": "'PT Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
             }
-          }
+          },
+          "_sourceTheme": "colorm"
         },
         {
           "_styles": {
@@ -876,7 +896,8 @@
             "Theme"
           ],
           "_name": "menu",
-          "_anchor": "menu-g"
+          "_anchor": "menu-g",
+          "_sourceTheme": "colorm"
         },
         {
           "_styles": {
@@ -941,7 +962,7 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/02.jpg",
+              "src": "@THEME_PATH@/components/_images/features/02.jpg",
               "class": "features-img",
               "width": 600
             },
@@ -958,7 +979,7 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/03.jpg",
+              "src": "@THEME_PATH@/components/_images/features/03.jpg",
               "class": "features-img",
               "width": 600
             },
@@ -1053,7 +1074,8 @@
             "Theme"
           ],
           "_name": "features1",
-          "_anchor": "features1-2f"
+          "_anchor": "features1-2f",
+          "_sourceTheme": "colorm"
         },
         {
           "_styles": {
@@ -1338,7 +1360,8 @@
             "Theme"
           ],
           "_name": "tabs1",
-          "_anchor": "tabs1-2g"
+          "_anchor": "tabs1-2g",
+          "_sourceTheme": "colorm"
         },
         {
           "_params": {
@@ -1359,7 +1382,8 @@
               "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700",
               "font-size": "20px"
             }
-          }
+          },
+          "_sourceTheme": "colorm"
         },
         {
           "_styles": {
@@ -1651,7 +1675,8 @@
             "Theme"
           ],
           "_name": "tabs2",
-          "_anchor": "tabs2-2i"
+          "_anchor": "tabs2-2i",
+          "_sourceTheme": "colorm"
         },
         {
           "_params": {
@@ -1707,7 +1732,8 @@
               "font-family": "'Oxygen', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             }
-          }
+          },
+          "_sourceTheme": "colorm"
         },
         {
           "_styles": {
@@ -1732,7 +1758,8 @@
             "Theme"
           ],
           "_name": "content3",
-          "_anchor": "content3-11"
+          "_anchor": "content3-11",
+          "_sourceTheme": "colorm"
         },
         {
           "_params": {
@@ -1746,7 +1773,8 @@
             "Theme"
           ],
           "_name": "buttons1",
-          "_anchor": "buttons1-12"
+          "_anchor": "buttons1-12",
+          "_sourceTheme": "colorm"
         },
         {
           "_styles": {
@@ -1781,7 +1809,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/msdelogo2018rgb-261x128.png",
+              "src": "@PROJECT_PATH@/assets/images/msde-logo-blue-253x128.jpg",
               "height": 128,
               "alt": "MSDE Logo",
               "link": "https://mditp.org",
@@ -1823,7 +1851,8 @@
             "Theme"
           ],
           "_name": "footer7",
-          "_anchor": "footer7-e"
+          "_anchor": "footer7-e",
+          "_sourceTheme": "colorm"
         }
       ]
     },
@@ -1853,7 +1882,8 @@
               "font-family": "'PT Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
             }
-          }
+          },
+          "_sourceTheme": "colorm"
         },
         {
           "_styles": {
@@ -2035,7 +2065,8 @@
             "Theme"
           ],
           "_name": "features1",
-          "_anchor": "features1-2u"
+          "_anchor": "features1-2u",
+          "_sourceTheme": "colorm"
         },
         {
           "_styles": {
@@ -2315,7 +2346,8 @@
             "Theme"
           ],
           "_name": "tabs1",
-          "_anchor": "tabs1-1z"
+          "_anchor": "tabs1-1z",
+          "_sourceTheme": "colorm"
         },
         {
           "_params": {
@@ -2336,7 +2368,8 @@
               "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700",
               "font-size": "20px"
             }
-          }
+          },
+          "_sourceTheme": "colorm"
         },
         {
           "_styles": {
@@ -2623,7 +2656,8 @@
             "Theme"
           ],
           "_name": "tabs3",
-          "_anchor": "tabs3-2x"
+          "_anchor": "tabs3-2x",
+          "_sourceTheme": "colorm"
         },
         {
           "_styles": {
@@ -2648,7 +2682,8 @@
             "Theme"
           ],
           "_name": "content3",
-          "_anchor": "content3-15"
+          "_anchor": "content3-15",
+          "_sourceTheme": "colorm"
         },
         {
           "_params": {
@@ -2668,7 +2703,8 @@
               "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700"
             }
           },
-          "_anchor": "buttons1-14"
+          "_anchor": "buttons1-14",
+          "_sourceTheme": "colorm"
         },
         {
           "_styles": {
@@ -2703,7 +2739,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/msdelogo2018rgb-261x128.png",
+              "src": "@PROJECT_PATH@/assets/images/msde-logo-blue-253x128.jpg",
               "height": 128,
               "alt": "MSDE Logo",
               "link": "https://mditp.org",
@@ -2745,7 +2781,8 @@
             "Theme"
           ],
           "_name": "footer7",
-          "_anchor": "footer7-e"
+          "_anchor": "footer7-e",
+          "_sourceTheme": "colorm"
         },
         {
           "_styles": {
@@ -2848,7 +2885,8 @@
             "Theme"
           ],
           "_name": "menu",
-          "_anchor": "menu-g"
+          "_anchor": "menu-g",
+          "_sourceTheme": "colorm"
         }
       ]
     },
@@ -2878,7 +2916,8 @@
               "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700",
               "color": "#000000"
             }
-          }
+          },
+          "_sourceTheme": "colorm"
         },
         {
           "_styles": {
@@ -3056,7 +3095,8 @@
             "Theme"
           ],
           "_name": "features1",
-          "_anchor": "features1-1s"
+          "_anchor": "features1-1s",
+          "_sourceTheme": "colorm"
         },
         {
           "_styles": {
@@ -3132,7 +3172,8 @@
             "Theme"
           ],
           "_name": "features8",
-          "_anchor": "features8-1h"
+          "_anchor": "features8-1h",
+          "_sourceTheme": "colorm"
         },
         {
           "_styles": {
@@ -3235,7 +3276,8 @@
             "Theme"
           ],
           "_name": "menu",
-          "_anchor": "menu-g"
+          "_anchor": "menu-g",
+          "_sourceTheme": "colorm"
         },
         {
           "_params": {
@@ -3256,7 +3298,8 @@
               "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700",
               "font-size": "20px"
             }
-          }
+          },
+          "_sourceTheme": "colorm"
         },
         {
           "_styles": {
@@ -3291,7 +3334,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/msdelogo2018rgb-261x128.png",
+              "src": "@PROJECT_PATH@/assets/images/msde-logo-blue-253x128.jpg",
               "height": 128,
               "alt": "MSDE Logo",
               "link": "https://mditp.org",
@@ -3333,7 +3376,8 @@
             "Theme"
           ],
           "_name": "footer7",
-          "_anchor": "footer7-e"
+          "_anchor": "footer7-e",
+          "_sourceTheme": "colorm"
         },
         {
           "_styles": {
@@ -3524,7 +3568,8 @@
             "Theme"
           ],
           "_name": "header9",
-          "_anchor": "header9-2c"
+          "_anchor": "header9-2c",
+          "_sourceTheme": "colorm"
         },
         {
           "_styles": {
@@ -3553,7 +3598,8 @@
             "Theme"
           ],
           "_name": "content3",
-          "_anchor": "content3-1t"
+          "_anchor": "content3-1t",
+          "_sourceTheme": "colorm"
         },
         {
           "_styles": {
@@ -3731,7 +3777,8 @@
             "Theme"
           ],
           "_name": "features1",
-          "_anchor": "features1-1f"
+          "_anchor": "features1-1f",
+          "_sourceTheme": "colorm"
         },
         {
           "_styles": {
@@ -3761,7 +3808,8 @@
             "Theme"
           ],
           "_name": "content3",
-          "_anchor": "content3-14"
+          "_anchor": "content3-14",
+          "_sourceTheme": "colorm"
         },
         {
           "_styles": {
@@ -3779,7 +3827,7 @@
             "paddingTop": "1",
             "paddingBottom": 2,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/03.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/features/03.jpg",
             "parallax": false,
             "bgColorRadio": true,
             "bgColor": "#fff",
@@ -3822,7 +3870,8 @@
             "Theme"
           ],
           "_name": "news1",
-          "_anchor": "news1-13"
+          "_anchor": "news1-13",
+          "_sourceTheme": "colorm"
         },
         {
           "_styles": {
@@ -3847,7 +3896,8 @@
             "Theme"
           ],
           "_name": "content3",
-          "_anchor": "content3-z"
+          "_anchor": "content3-z",
+          "_sourceTheme": "colorm"
         },
         {
           "_params": {
@@ -3867,1025 +3917,8 @@
               "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700"
             }
           },
-          "_anchor": "buttons1-10"
-        }
-      ]
-    },
-    "page4.html": {
-      "settings": {
-        "title": "clone of mditp",
-        "order": 3,
-        "html_before": "<html lang=\"en\">"
-      },
-      "components": [
-        {
-          "_params": {
-            "paddingTop": "6",
-            "paddingBottom": "1",
-            "bgColor": "#ffffff"
-          },
-          "text": "The Maryland State Department of Education, Division of Early Intervention and Special Education Services, in accordance with federal and state laws, provides early intervention services and supports through the Maryland Infants and Toddlers Program. Each of Maryland’s 24 jurisdictions implements a local Infants and Toddlers Program, coordinating\nservices provided by education, health care, social services agencies, and private providers. Services are&nbsp;provided to eligible infants and toddlers and certain services\nand supports are also available to parents and members of the\nimmediate family. &nbsp;Services are provided at no cost to families.",
-          "alias": "colorm/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "font-family": "'PT Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700",
-              "color": "#000000"
-            }
-          },
-          "_anchor": "content1-z"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title": {
-              "font-weight": "700",
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "font-size": "48px"
-            },
-            ".mbr-section-subtitle": {
-              "text-transform": "uppercase",
-              "letter-spacing": "2px",
-              "color": "#fff",
-              "font-family": "'PT Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showImages": true,
-            "showTitles": true,
-            "ShowTexts": true,
-            "showButtons": false,
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "columns": "3",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/building-blocks-purchased-2000x1333.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#2c3e50",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#2c3e50",
-            "overlayOpacity": "0.8"
-          },
-          "media1": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/11340-5-600x400.jpg",
-              "class": "features-img",
-              "width": 600,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "phone",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#fff",
-              "family": "et-line"
-            }
-          },
-          "media2": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/1509-600x453.jpg",
-              "class": "features-img",
-              "width": 600,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "edit",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#fff",
-              "family": "et-line"
-            }
-          },
-          "media3": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mbr-1-600x480.jpg",
-              "class": "features-img",
-              "width": 600,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "briefcase",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#fff",
-              "family": "et-line"
-            }
-          },
-          "media4": {
-            "image": {
-              "active": true,
-              "src": "@THEME_PATH@/components/_images/features/04.jpg",
-              "class": "features-img",
-              "width": 600
-            },
-            "iconFont": {
-              "active": false,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "linegraph",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#fff",
-              "family": "et-line"
-            }
-          },
-          "media5": {
-            "image": {
-              "active": true,
-              "src": "@THEME_PATH@/components/_images/features/05.jpg",
-              "class": "features-img",
-              "width": 600
-            },
-            "iconFont": {
-              "active": false,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "briefcase",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#fff",
-              "family": "et-line"
-            }
-          },
-          "media6": {
-            "image": {
-              "active": true,
-              "src": "@THEME_PATH@/components/_images/features/06.jpg",
-              "class": "features-img",
-              "width": 600
-            },
-            "iconFont": {
-              "active": false,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "linegraph",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#fff",
-              "family": "et-line"
-            }
-          },
-          "title": "Maryland Infants &amp; Toddlers Program",
-          "title1": "Bootstrap 4",
-          "subtitle1": "family-centered focus",
-          "caption1": "Families are strong and valued partners whose needs and priorities are key throughout the entire process. &nbsp;Decisions about services and strategies for intervention are made in collaboration with families.",
-          "buttons1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">learn more</a>",
-          "title2": "Responsive",
-          "subtitle2": "services delivered in natural environments",
-          "caption2": "A natural environment is a location where a child and family spend time, including the home, child care center, library, playground, and other community settings.",
-          "buttons2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">learn more</a>",
-          "title3": "Web Fonts",
-          "subtitle3": "strong community engagement",
-          "caption3": "The Maryland Infants and Toddlers Program cultivates strong partnerships with community programs and systems to ensure that families have the supports they need.",
-          "buttons3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">learn more</a>",
-          "title4": "Unlimited Sites",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "buttons4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">learn more</a>",
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "buttons5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">learn more</a>",
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "buttons6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">learn more</a>",
-          "alias": "colorm/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features1",
-          "_anchor": "features1-10"
-        },
-        {
-          "_styles": {
-            ".lead": {
-              "color": "#9fa3a7"
-            },
-            ".mbr-section-subtitle": {
-              "text-transform": "uppercase"
-            },
-            ".mbr-section-text": {
-              "color": "#000000",
-              "font-family": "'PT Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700",
-              "font-size": "20px"
-            }
-          },
-          "_params": {
-            "showImages": true,
-            "showNumber": false,
-            "showTitles": false,
-            "showSubtitles": false,
-            "ShowTexts": true,
-            "showButtons": false,
-            "imageSize": "50",
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/features/05.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#ecf0f1",
-            "overlayOpacity": 0.9
-          },
-          "media1": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/stock-photo-cute-little-girl-playing-block-with-mother-at-home-isolated-on-white-104717895-600x959.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            }
-          },
-          "title1": "Bootstrap 4",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "The Maryland Infants and Toddlers Program's overarching <b>outcomes for children</b>&nbsp;are to:<br>* Develop\npositive social-emotional skills, <br>* Acquire and use knowledge and skills, and <br>* Use appropriate behaviors to meet their needs. &nbsp;<br><br>The overall <b>outcomes for families</b>&nbsp;are to:<br>* Understand their&nbsp;rights, <br>* Communicate effectively about their child’s needs, and <br>* Help their child develop&nbsp;and learn.&nbsp;<br><br>The Maryland Infants and Toddlers Program is not a medical program that “treats” children.&nbsp;While they may not be trained specialists, families and caregivers are a child’s most important teachers. The early intervention team will partner with them by using a coaching model to design and implement individualized strategies within a child’s daily routines and activities.<br>",
-          "number1": "1",
-          "title2": "Responsive",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "title3": "Web Fonts",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "title4": "Unlimited Sites",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://mobirise.com\"><span class=\"cm-icon cm-icon-arrowright mbr-iconfont mbr-iconfont-btn\"></span></a>",
-          "alias": "colorm/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features8",
-          "_anchor": "features8-11"
-        },
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700",
-              "font-family": "'PT Sans Narrow', sans-serif"
-            },
-            ".link": {
-              "font-size": "0.8rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.866rem"
-            },
-            ".link:hover, .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".dropdown-item:hover::before, .dropdown-item:focus::before": {
-              "background": "@primaryColor"
-            },
-            ".dropdown-item:hover, .dropdown-item:focus": {
-              "color": "#ffffff"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#1a242f"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#273646!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#2c3e50"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#f39c12!important"
-            },
-            ".btn": {
-              "font-family": "'PT Sans Narrow', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700"
-            }
-          },
-          "_params": {
-            "logo": false,
-            "showBrand": false,
-            "hideButtons": false,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": false,
-            "bgColor": "#2c3e50",
-            "fontSize": "0.8",
-            "fontName": {
-              "name": "PT Sans Narrow",
-              "url": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700",
-              "css": "'PT Sans Narrow', sans-serif"
-            },
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor"
-          },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Milestones.html\" aria-expanded=\"false\">Developmental <br>Milestones<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"MDITP.html\">Maryland Infants &amp; <br>Toddlers Program</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Referral.html\">How to Refer</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://online.mditp.org\" target=\"_blank\">Login</a></li>",
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/msdelogo2018rgb-261x128.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mditp.com",
-              "title": "",
-              "linkInNewWindow": true
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mditp.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "alias": "colorm/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu",
-          "_anchor": "menu-12"
-        },
-        {
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "3",
-            "bgColor": "#eeeeee"
-          },
-          "text": "<p>A child and family may receive early intervention services if the child meets eligibility requirements AND if the child is under three years of age and resides in Maryland.</p>",
-          "alias": "colorm/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content4",
-          "_styles": {
-            "P": {
-              "font-family": "'PT Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700",
-              "font-size": "20px"
-            }
-          },
-          "_anchor": "content4-13"
-        },
-        {
-          "_styles": {
-            ".mbr-section-subtitle": {
-              "color": "#ffffff",
-              "font-family": "'PT Sans Narrow', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700",
-              "font-size": "14px",
-              "text-align": "center"
-            },
-            "P": {
-              "color": "#ffffff",
-              "font-family": "'PT Sans Narrow', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700",
-              "font-size": "14px",
-              "text-align": "right"
-            }
-          },
-          "_params": {
-            "showButtons": false,
-            "paddingTop": "3",
-            "paddingBottom": "2",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#2c3e50",
-            "overlay": true,
-            "overlayColor": "#f7f7f7",
-            "overlayOpacity": 0.8
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/msdelogo2018rgb-261x128.png",
-              "height": 128,
-              "alt": "MSDE Logo",
-              "link": "https://mditp.org",
-              "title": "MSDE Logo",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "title1": "product",
-          "text11": "Popular",
-          "text12": "Trending",
-          "text13": "Catalog",
-          "text14": "Awesome",
-          "text15": "Best",
-          "title2": "company",
-          "text21": "Press",
-          "text22": "Features",
-          "text23": "Mission",
-          "text24": "Strategy",
-          "text25": "Works",
-          "title3": "Learn more",
-          "text31": "Support",
-          "text32": "Developers",
-          "text33": "Service",
-          "text34": "Starter pack",
-          "text35": "FAQ",
-          "titled1": "maryland state department of education<br>division of early intervention and special&nbsp;education services (MSDE, DEI/SES)",
-          "titled2": "Maryland Infants and Toddlers Program<br>1-800-535-0132",
-          "titled3": "JOHNS HOPKINS UNIVERSTIY\n<br>CENTER FOR TECHNOLOGY IN EDUCATION (JHU, CTE)",
-          "followtext": "follow us",
-          "text": "© 2018 Maryland State Department of Education, Division of Early Intervention and Special Education Services (MSDE, DEI/SES) and <br>Johns Hopkins University, Center for Technology in Education (JHU CTE).\n<br><br>Please include reference to MSDE, DEI/SES on any replications of this information. <br>Permission must be requested for any use that is not \"fair use\" as that term is understood in copyright law from: <br>MSDE, DEI/SES, 200 West Baltimore Street, Baltimore, Maryland 21201, Phone: 410- 767-0261&nbsp;<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"></a>",
-          "alias": "colorm/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer7",
-          "_anchor": "footer7-14"
-        },
-        {
-          "_params": {
-            "showHeader": true,
-            "showText": true,
-            "showImages": true,
-            "showTitles": false,
-            "tabs": "3",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/header/04.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#ecf0f1",
-            "overlayOpacity": 0.9
-          },
-          "arrowDown": "@THEME_PATH@/components/_images/header/arrowDown.png",
-          "title": "<b>Eligibility Requirements</b>",
-          "text": "In Maryland, a child may be found eligible for early intervention services if they meet at least one of the following criteria:",
-          "title1": "≥25% Developmental Delay",
-          "title2": "BOOTSTRAP BUILDER",
-          "title3": "TRENDY WEBSITE BLOCKS",
-          "title4": "HOST ANYWHERE",
-          "title5": "IMAGE/CONTENT SLIDER",
-          "title6": "CONTACT FORMS",
-          "tabTitle": "<li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1header9-2c\" aria-expanded=\"false\">25% Developmental Delay</a></li><li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2header9-2c\" aria-expanded=\"false\">AtYpical Development or behavior</a></li><li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3header9-2c\" aria-expanded=\"true\">diagnosed condition</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4header9-2c\">Awesome</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5header9-2c\">Amazing</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6header9-2c\">Beautiful</a></li>",
-          "media11": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/baby-1317604-1929-1920x1280.jpg",
-              "class": "card-img-top",
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            }
-          },
-          "media12": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/toddler-667300-1920-1920x1285.jpg",
-              "class": "card-img-top",
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            }
-          },
-          "media13": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/boy-609687-1920-1920x1280.jpg",
-              "class": "card-img-top",
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            }
-          },
-          "media14": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/nb4.png",
-              "class": "card-img-top",
-              "active": true
-            }
-          },
-          "media15": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/nb5.png",
-              "class": "card-img-top",
-              "active": true
-            }
-          },
-          "media16": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/nb6.png",
-              "class": "card-img-top",
-              "active": true
-            }
-          },
-          "media21": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header5",
-              "linkInNewWindow": false,
-              "name": "percent",
-              "family": "icon54-v4",
-              "active": true,
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "@primaryColor"
-            }
-          },
-          "media22": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header5",
-              "linkInNewWindow": false,
-              "name": "edit",
-              "family": "MobiriseIcons",
-              "active": true,
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "@primaryColor"
-            }
-          },
-          "media23": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header5",
-              "linkInNewWindow": false,
-              "name": "clinic",
-              "family": "iconsMind",
-              "active": true,
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "@primaryColor"
-            }
-          },
-          "media24": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-header5",
-              "name": "upload",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "@primaryColor",
-              "family": "et-line"
-            }
-          },
-          "media25": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-header5",
-              "name": "genius",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "@primaryColor",
-              "family": "et-line"
-            }
-          },
-          "media26": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-header5",
-              "name": "global",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "@primaryColor",
-              "family": "et-line"
-            }
-          },
-          "text1": "≥25% delay compared with expected development for the child's age in one or or more of the following areas: cognitive (early learning), communication, physical development (fine and gross motor skills), social-emotional skills, &nbsp;and adaptive (self-help). &nbsp;<br><br>The Infants and Toddlers Program will conduct the appropriate evaluation, at no cost to the family, with the parent's consent.",
-          "text2": "Atypical development or behavior refers to quality of performance. &nbsp;A child may demonstrate skills that are age appropriate but that are of atypical quality. Examples of atypical development/behavior include: refusal to take foods of a certain texture, decreased initiation of communication for social purposes, repetitive or stereotyped patterns of play with objects, etc.<br><br>Children may be eligible for early intervention if they demonstrate atypical development or behavior in one or more areas.",
-          "text3": "Children may be eligible for early intervention services if they have been diagnosed with a physical or mental condition that has a high probability of delayed or atypical development. &nbsp;Examples include, but are not limited to, Down Syndrome, visual or hearing impairment, elevated lead levels, extreme prematurity (birth weight &lt;1200 grams), epilepsy, etc.",
-          "text4": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laboriosam, nisi, ea. Excepturi dolores, laborum ipsum soluta aliquid, ullam repellat ratione iste harum voluptatem? Alias id blanditiis, sequi possimus dolorem dolorum.",
-          "text5": "Create a responsive, touch-swipe slideshow with <a href=\"http://mobirise.com\">Mobirise bootstrap slider</a>. Add images, text, buttons to slides, set autoplay, full-screen, full-width or boxed layout. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde sunt, illo quo ipsa. Laboriosam voluptatem sunt nisi velit incidunt labore, sapiente pariatur ipsam fugiat doloremque asperiores eos ipsum, eveniet cum.",
-          "text6": "Easily add subscribe and contact forms without any server-side integration. Just link your email to form and get submissions instantly. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium id perspiciatis, sint odit error animi veniam omnis cupiditate distinctio, a quidem deleniti laborum maiores optio laudantium earum vel! Sint, rerum.",
-          "alias": "colorm/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header9",
-          "_anchor": "header9-15",
-          "_customHTML": "<section class=\"mbr-section--bg-adapted mbr-section-full mbr-section--relative header9\" data-rv-view=\"203\" style=\"background-color: rgb(255, 255, 255);\">\n    \n    <div class=\"mbr-table-cell mbr-table-cell-vertical-middle elements-content position-relative\">\n        <div class=\"container-fluid\">\n            <div class=\"row\">\n                <div class=\"col-xs-12 col-lg-8 col-lg-offset-2 text-xs-center\">\n\n                    <h1 class=\"mbr-section-title display-1 mbr-editable-content\" code-editable-id=\"165\"><strong>Eligibility Requirements</strong></h1>\n\n                    <p class=\"mbr-section-text lead header-text mbr-editable-content\" code-editable-id=\"166\">In Maryland, a child may be found eligible for early intervention services if they meet at least one of the following criteria:</p>\n\n                </div>\n            </div>\n\n            <div class=\"row\">\n                <div class=\"col-xs-12 col-sm-4 col-lg-3 col-lg-offset-1\">\n\n                    <div class=\"clearfix\"></div>\n                    \n                    <ul class=\"nav nav-tabs mbr-editable-content\" role=\"tablist\" code-editable-id=\"167\"><li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1header9-2c\" aria-expanded=\"true\">25% Developmental Delay</a></li><li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2header9-2c\" aria-expanded=\"true\">Atypical Development or behavior</a></li><li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3header9-2c\" aria-expanded=\"true\">diagnosed condition</a></li><li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4header9-2c\">Awesome</a></li><li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5header9-2c\">Amazing</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6header9-2c\">Beautiful</a></li></ul>\n\n                </div>\n\n                <div class=\"col-xs-12 col-sm-8 col-lg-8\">\n                    <div class=\"tab-content noScroll\">\n\n                        <div id=\"tab1header9-15\" class=\"tab-pane in active text-xs-center text-lg-left\" role=\"tabpanel\">\n\n                            <div class=\"row\">\n                                <div class=\"col-xs-12 col-lg-5\">\n                                    <div class=\"mbr-figure\"><img src=\"@PROJECT_PATH@/assets/images/baby-1317604-1929-1920x1280.jpg\" class=\"card-img-top\"></div>\n                                </div>\n                                <div class=\"col-xs-12 col-lg-6\">\n                                    <div>\n                                        <div class=\"mbr-figure icon-block\"><a href=\"https://mobirise.com\" class=\"icon54-v4-percent mbr-iconfont mbr-iconfont-header5\" style=\"color: rgb(243, 156, 18);\"></a></div>\n                                    </div>\n                                    <div>\n                                        \n                                        <div class=\"row\">\n                                            <div class=\"col-md-12\">\n                                                <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"168\">≥25% delay compared with expected development for the child's age in one or or more of the following areas: cognitive (early learning), communication, physical development (fine and gross motor skills), social-emotional skills, &nbsp;and adaptive (self-help). &nbsp;<br><br>The Infants and Toddlers Program will conduct the appropriate evaluation, at no cost to the family, with the parent's consent.</p>\n                                            </div>\n                                        </div>\n                                    </div>\n                                </div>\n                            </div>\n\n                        </div>\n\n                        <div id=\"tab2header9-15\" class=\"tab-pane text-xs-center text-lg-left\" role=\"tabpanel\">\n\n                            <div class=\"row\">\n                                <div class=\"col-xs-12 col-lg-5\">\n                                    <div class=\"mbr-figure\"><img src=\"@PROJECT_PATH@/assets/images/toddler-667300-1920-1920x1285.jpg\" class=\"card-img-top\"></div>\n                                </div>\n                                <div class=\"col-xs-12 col-lg-6\">\n                                    <div>\n                                        <div class=\"mbr-figure icon-block\"><a href=\"https://mobirise.com\" class=\"mbri-edit mbr-iconfont mbr-iconfont-header5\" style=\"color: rgb(243, 156, 18);\"></a></div>\n                                    </div>\n                                    <div>\n                                        \n                                        <div class=\"row\">\n                                            <div class=\"col-md-12\">\n                                                <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"169\">Atypical development or behavior refers to quality of performance. &nbsp;A child may demonstrate skills that are age appropriate but that are of atypical quality. Examples of atypical development/behavior include: refusal to take foods of a certain texture, decreased initiation of communication for social purposes, repetitive or stereotyped patterns of play with objects, etc.<br><br>Children may be eligible for early intervention if they demonstrate atypical development or behavior in one or more areas.</p>\n                                            </div>\n                                        </div>\n                                    </div>\n                                </div>\n                            </div>\n\n                        </div>\n                        \n                        <div id=\"tab3header9-15\" class=\"tab-pane text-xs-center text-lg-left\" role=\"tabpanel\">\n\n                            <div class=\"row\">\n                                <div class=\"col-xs-12 col-lg-5\">\n                                    <div class=\"mbr-figure\"><img src=\"@PROJECT_PATH@/assets/images/boy-609687-1920-1920x1280.jpg\" class=\"card-img-top\"></div>\n                                </div>\n                                <div class=\"col-xs-12 col-lg-6\">\n                                    <div>\n                                        <div class=\"mbr-figure icon-block\"><a href=\"https://mobirise.com\" class=\"imind-clinic mbr-iconfont mbr-iconfont-header5\" style=\"color: rgb(243, 156, 18);\"></a></div>\n                                    </div>\n                                    <div>\n                                        \n                                        <div class=\"row\">\n                                            <div class=\"col-md-12\">\n                                                <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"170\">Children may be eligible for early intervention services if they have been diagnosed with a physical or mental condition that has a high probability of delayed or atypical development. &nbsp;Examples include, but are not limited to, Down Syndrome, visual or hearing impairment, elevated lead levels, extreme prematurity (birth weight &lt;1200 grams), epilepsy, etc.</p>\n                                            </div>\n                                        </div>\n                                    </div>\n                                </div>\n                            </div>\n\n                        </div>\n\n                        <div id=\"tab4header9-15\" class=\"tab-pane text-xs-center text-lg-left\" role=\"tabpanel\">\n\n                            <div class=\"row\">\n                                <div class=\"col-xs-12 col-lg-5\">\n                                    <div class=\"mbr-figure\"><img src=\"@PROJECT_PATH@/assets/images/nb4.png\" class=\"card-img-top\"></div>\n                                </div>\n                                <div class=\"col-xs-12 col-lg-6\">\n                                    <div>\n                                        <div class=\"mbr-figure icon-block\"><a href=\"https://mobirise.com\" class=\"etl-icon icon-upload mbr-iconfont mbr-iconfont-header5\" style=\"color: rgb(243, 156, 18);\"></a></div>\n                                    </div>\n                                    <div>\n                                        \n                                        <div class=\"row\">\n                                            <div class=\"col-md-12\">\n                                                <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"171\">Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laboriosam, nisi, ea. Excepturi dolores, laborum ipsum soluta aliquid, ullam repellat ratione iste harum voluptatem? Alias id blanditiis, sequi possimus dolorem dolorum.</p>\n                                            </div>\n                                        </div>\n                                    </div>\n                                </div>\n                            </div>\n\n                        </div>\n\n                        <div id=\"tab5header9-15\" class=\"tab-pane text-xs-center text-lg-left\" role=\"tabpanel\">\n\n                            <div class=\"row\">\n                                <div class=\"col-xs-12 col-lg-5\">\n                                    <div class=\"mbr-figure\"><img src=\"@PROJECT_PATH@/assets/images/nb5.png\" class=\"card-img-top\"></div>\n                                </div>\n                                <div class=\"col-xs-12 col-lg-6\">\n                                    <div>\n                                        <div class=\"mbr-figure icon-block\"><a href=\"https://mobirise.com\" class=\"etl-icon icon-genius mbr-iconfont mbr-iconfont-header5\" style=\"color: rgb(243, 156, 18);\"></a></div>\n                                    </div>\n                                    <div>\n                                        \n                                        <div class=\"row\">\n                                            <div class=\"col-md-12\">\n                                                <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"172\">Create a responsive, touch-swipe slideshow with <a href=\"http://mobirise.com\">Mobirise bootstrap slider</a>. Add images, text, buttons to slides, set autoplay, full-screen, full-width or boxed layout. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde sunt, illo quo ipsa. Laboriosam voluptatem sunt nisi velit incidunt labore, sapiente pariatur ipsam fugiat doloremque asperiores eos ipsum, eveniet cum.</p>\n                                            </div>\n                                        </div>\n                                    </div>\n                                </div>\n                            </div>\n\n                        </div>\n\n                        <div id=\"tab6header9-15\" class=\"tab-pane text-xs-center text-lg-left\" role=\"tabpanel\">\n\n                            <div class=\"row\">\n                                <div class=\"col-xs-12 col-lg-5\">\n                                    <div class=\"mbr-figure\"><img src=\"@PROJECT_PATH@/assets/images/nb6.png\" class=\"card-img-top\"></div>\n                                </div>\n                                <div class=\"col-xs-12 col-lg-6\">\n                                    <div>\n                                        <div class=\"mbr-figure icon-block\"><a href=\"https://mobirise.com\" class=\"etl-icon icon-global mbr-iconfont mbr-iconfont-header5\" style=\"color: rgb(243, 156, 18);\"></a></div>\n                                    </div>\n                                    <div>\n                                        \n                                        <div class=\"row\">\n                                            <div class=\"col-md-12\">\n                                                <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"173\">Easily add subscribe and contact forms without any server-side integration. Just link your email to form and get submissions instantly. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium id perspiciatis, sint odit error animi veniam omnis cupiditate distinctio, a quidem deleniti laborum maiores optio laudantium earum vel! Sint, rerum.</p>\n                                            </div>\n                                        </div>\n                                    </div>\n                                </div>\n                            </div>\n\n                        </div>\n\n                    </div>\n                </div>\n\n            </div>\n\n        </div>\n    </div>\n\n</section>",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [],
-          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);\n@import url(https://fonts.googleapis.com/css?family=PT+Sans:400,700);\n@import url(https://fonts.googleapis.com/css?family=PT+Sans:400,700);\n.elements-content {\n  padding-bottom: 50px;\n}\n.mbr-section-subtitle {\n  letter-spacing: 2px;\n  margin-bottom: 10px;\n  font-weight: 700;\n}\n.mbr-section-title, .tab-pane {\n  color: #000;\n}\n.mbr-section-title {\n  font-family: 'Oxygen', sans-serif;\n  font-size: 48px;\n}\n.header-text {\n  color: #000000;\n  font-family: 'PT Sans', sans-serif;\n}\nP {\n  color: #000000;\n  font-family: 'PT Sans', sans-serif;\n}\n",
-          "_customTemplate": true
-        },
-        {
-          "_customTemplate": true,
-          "_afterNavbarItem": false,
-          "_customHTML": "<!-- Type valid HTML here -->\n<div style=\"width: 100%;\"><div style=\"position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;\"><iframe frameborder=\"0\" width=\"1200px\" height=\"675px\" style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%;\" src=\"https://view.genial.ly/5b90455f79a70f0a1e641166\" type=\"text/html\" allowscriptaccess=\"always\" allowfullscreen=\"true\" scrolling=\"yes\" allownetworking=\"all\"></iframe> </div> </div>",
-          "_customCSS": "/* Type valid CSS here */",
-          "alias": "code-editor",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "pro.custom-html",
-          "_anchor": "custom-html-1e",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": []
-        },
-        {
-          "_customTemplate": true,
-          "_afterNavbarItem": false,
-          "_customHTML": "<!-- Type valid HTML here -->\n",
-          "_customCSS": "/* Type valid CSS here */\n",
-          "alias": "code-editor",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "pro.custom-html",
-          "_anchor": "custom-html-1d",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": []
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "H3": {
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "font-size": "48px"
-            },
-            "P": {
-              "font-family": "'PT Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
-            }
-          },
-          "_params": {
-            "showMeta": true,
-            "paddingTop": "4",
-            "paddingBottom": "0",
-            "bgColor": "#ffffff"
-          },
-          "title": "<b>Positive Outcomes for Children and Families</b>",
-          "meta": "Maryland’s own 2017 longitudinal research validates the importance of starting early. &nbsp;<b>More than 68% of children \n</b><br>who received early intervention services were enrolled in general education by third grade.&nbsp;<br><br>In Maryland, most children receiving early intervention services demonstrate progress in the outcome areas of positive social-emotional development and relationships, learning and functionally using new skills, and using appropriate behavior to meet their needs.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content3",
-          "_anchor": "content3-16"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title": {
-              "font-weight": "700"
-            },
-            ".mbr-section-subtitle": {
-              "text-transform": "uppercase",
-              "letter-spacing": "2px",
-              "color": "#fff"
-            },
-            ".mbr-section-text": {
-              "color": "#000000"
-            }
-          },
-          "_params": {
-            "showTitle": false,
-            "showImages": true,
-            "showTitles": false,
-            "ShowTexts": true,
-            "showButtons": false,
-            "paddingTop": "0",
-            "paddingBottom": 2,
-            "columns": "3",
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/03.jpg",
-            "parallax": false,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#2c3e50",
-            "overlayOpacity": 0.9
-          },
-          "media1": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/capture-600x360.png",
-              "class": "features-img",
-              "width": 600,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "phone",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#fff",
-              "family": "et-line"
-            }
-          },
-          "media2": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/02.jpg",
-              "class": "features-img",
-              "width": 600
-            },
-            "iconFont": {
-              "active": false,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "edit",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#fff",
-              "family": "et-line"
-            }
-          },
-          "media3": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/03.jpg",
-              "class": "features-img",
-              "width": 600
-            },
-            "iconFont": {
-              "active": false,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "briefcase",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#fff",
-              "family": "et-line"
-            }
-          },
-          "media4": {
-            "image": {
-              "active": true,
-              "src": "@THEME_PATH@/components/_images/features/04.jpg",
-              "class": "features-img",
-              "width": 600
-            },
-            "iconFont": {
-              "active": false,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "linegraph",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#fff",
-              "family": "et-line"
-            }
-          },
-          "media5": {
-            "image": {
-              "active": true,
-              "src": "@THEME_PATH@/components/_images/features/05.jpg",
-              "class": "features-img",
-              "width": 600
-            },
-            "iconFont": {
-              "active": false,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "briefcase",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#fff",
-              "family": "et-line"
-            }
-          },
-          "media6": {
-            "image": {
-              "active": true,
-              "src": "@THEME_PATH@/components/_images/features/06.jpg",
-              "class": "features-img",
-              "width": 600
-            },
-            "iconFont": {
-              "active": false,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "linegraph",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#fff",
-              "family": "et-line"
-            }
-          },
-          "title": "Features",
-          "title1": "Bootstrap 4",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "buttons1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">learn more</a>",
-          "title2": "Responsive",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "buttons2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">learn more</a>",
-          "title3": "Web Fonts",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "buttons3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">learn more</a>",
-          "title4": "Unlimited Sites",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "buttons4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">learn more</a>",
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "buttons5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">learn more</a>",
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "buttons6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">learn more</a>",
-          "alias": "colorm/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features1",
-          "_anchor": "features1-1c"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "H3": {
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "font-size": "48px",
-              "text-align": "right"
-            },
-            "P": {
-              "font-family": "'PT Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
-            }
-          },
-          "_params": {
-            "showMeta": true,
-            "paddingTop": "2",
-            "paddingBottom": "0",
-            "bgColor": "#eeeeee"
-          },
-          "title": "<b>Maryland Infants and Toddlers Program Publications</b>",
-          "meta": "These publications are designed to support families and other referral sources within Maryland's statewide early intervention system.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content3",
-          "_anchor": "content3-18"
-        },
-        {
-          "_styles": {
-            "P": {
-              "color": "#000000",
-              "font-family": "'PT Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
-            }
-          },
-          "_params": {
-            "showImages": true,
-            "showTitle": true,
-            "showText": true,
-            "showDate": false,
-            "paddingTop": "1",
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/03.jpg",
-            "parallax": false,
-            "bgColorRadio": true,
-            "bgColor": "#eeeeee",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.9,
-            "news": [
-              {
-                "image": "@PROJECT_PATH@/assets/images/guide-to-early-intervention-745x352.png",
-                "title": "<a href=\"http://marylandpublicschools.org/programs/Documents/Special-Ed/BKPIS/BlueEarlyInterventionGuide[Sept2018]online.pdf\" target=\"_blank\">A Family Guide to Early </a><br><a href=\"http://marylandpublicschools.org/programs/Documents/Special-Ed/BKPIS/BlueEarlyInterventionGuide[Sept2018]online.pdf\" target=\"_blank\">Intervention Services in Maryland</a>",
-                "text": "A Family Guide To Early\nIntervention Services\nin Maryland is part of\nMaryland’s Birth to\nKindergarten Parent\nInformation Series, a\ncollection of publications\ndesigned to support families\nin the statewide early\nintervention and education\nsystem of services in\nMaryland.\nWith this guide, we wish\nto welcome you into a\ncommunity dedicated to\nthe enrichment of child\ndevelopment, and\nto guide you through a\nprocess created by parents\nand professionals to\nenhance the potential of\nyour child and support your\nfamily.",
-                "date": "10 june 2016",
-                "active": false,
-                "alt": ""
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/procedural-safeguards-742x351.png",
-                "title": "<a href=\"http://marylandpublicschools.org/programs/Documents/Special-Ed/BKPIS/PurpleParentalRightsGuide[Sept2018]online.pdf\" target=\"_blank\">A Family Companion Guide to Maryland's Parental Rights </a><br><a href=\"http://marylandpublicschools.org/programs/Documents/Special-Ed/BKPIS/PurpleParentalRightsGuide[Sept2018]online.pdf\" target=\"_blank\">and Procedural Safeguards Notice</a>",
-                "text": "A Companion Guide to\nMaryland's Parental\nRights and Procedural\nSafeguards Notice is\npart of Maryland’s Birth\n<br>to Kindergarten Parent\nInformation Series, a\ncollection of publications\ndesigned to support families\nin the statewide early\nintervention and education\nsystem of services in\nMaryland.&nbsp;",
-                "date": "10 june 2016",
-                "active": false,
-                "alt": ""
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/physicians-guide-813x326.png",
-                "title": "<a href=\"http://marylandpublicschools.org/programs/Documents/Special-Ed/MIFTP/PhysiciansGuideRev032017.pdf\" target=\"_blank\">Maryland Infants and Toddlers Program Physician's Guide</a>",
-                "text": "As a primary health care provider and a central figure in a child’s medical home,\nyou are often a family’s first link to early intervention services. Parents may bring\na developmental concern to your attention or you may identify a concern as part\nof a routine visit or developmental screening. This guide will show you ways you can help families engage in\nthe early intervention process.",
-                "date": "10 june 2016",
-                "active": true,
-                "alt": ""
-              }
-            ]
-          },
-          "alias": "colorm/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "news1",
-          "_anchor": "news1-19"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "H3": {
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "font-size": "48px"
-            }
-          },
-          "_params": {
-            "showMeta": false,
-            "paddingTop": "3",
-            "paddingBottom": "0",
-            "bgColor": "#fff"
-          },
-          "title": "<b>Ready to Submit a Referral?</b>",
-          "meta": "",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content3",
-          "_anchor": "content3-1a"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": "3",
-            "bgColor": "#ffffff"
-          },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://uat.mditp.org/login\" data-toolbar=\"-mbrBtnMove\">make a referral online</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"http://marylandpublicschools.org/programs/Pages/Special-Education/MITP/singlepointentry.aspx\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">call your local program</a>",
-          "alias": "colorm/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "buttons1",
-          "_styles": {
-            ".btn": {
-              "font-family": "'PT Sans Narrow', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700"
-            }
-          },
-          "_anchor": "buttons1-1b"
+          "_anchor": "buttons1-10",
+          "_sourceTheme": "colorm"
         }
       ]
     }
