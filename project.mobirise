@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Online Referral",
-    "currentPage": "MDITP.html",
+    "currentPage": "Referral.html",
     "theme": {
       "name": "colorm",
       "title": "ColorM",
@@ -578,7 +578,7 @@
               },
               {
                 "active": false,
-                "text": "<p>“Without the [Infants and Todders Program], we're not sure how we could have grown to become the strong family team we are today ”</p>",
+                "text": "<p>“Without the [Infants and Toddlers Program], we're not sure how we could have grown to become the strong family team we are today. ”</p>",
                 "authorName": "Michele H. and Robert B.",
                 "authorBio": "A Family Guide to Early Intervention Services in Maryland",
                 "media": {
@@ -749,7 +749,7 @@
           "text34": "Starter pack",
           "text35": "FAQ",
           "titled1": "maryland state department of education<br>division of early intervention and special&nbsp;education services (MSDE, DEI/SES)",
-          "titled2": "Maryland Infants and Toddlers Program<br>1-800-535-0132",
+          "titled2": "Maryland Infants and Toddlers Program<br>1-800-535-0182",
           "titled3": "JOHNS HOPKINS UNIVERSiTY\n<br>CENTER FOR TECHNOLOGY IN EDUCATION (JHU, CTE)",
           "followtext": "follow us",
           "text": "© 2018 Maryland State Department of Education, Division of Early Intervention and Special Education Services (MSDE, DEI/SES) and <br>Johns Hopkins University, Center for Technology in Education (JHU CTE).\n<br><br>Please include reference to MSDE, DEI/SES on any replications of this information. <br>Permission must be requested for any use that is not \"fair use\" as that term is understood in copyright law from: <br>MSDE, DEI/SES, 200 West Baltimore Street, Baltimore, Maryland 21201, Phone: 410- 767-0249&nbsp;<br>",
@@ -1841,7 +1841,7 @@
           "text34": "Starter pack",
           "text35": "FAQ",
           "titled1": "maryland state department of education<br>division of early intervention and special&nbsp;education services (MSDE, DEI/SES)",
-          "titled2": "Maryland Infants and Toddlers Program<br>1-800-535-0132",
+          "titled2": "Maryland Infants and Toddlers Program<br>1-800-535-0182",
           "titled3": "JOHNS HOPKINS UNIVERSiTY\n<br>CENTER FOR TECHNOLOGY IN EDUCATION (JHU, CTE)",
           "followtext": "follow us",
           "text": "© 2018 Maryland State Department of Education, Division of Early Intervention and Special Education Services (MSDE, DEI/SES) and <br>Johns Hopkins University, Center for Technology in Education (JHU CTE).\n<br><br>Please include reference to MSDE, DEI/SES on any replications of this information. <br>Permission must be requested for any use that is not \"fair use\" as that term is understood in copyright law from: <br>MSDE, DEI/SES, 200 West Baltimore Street, Baltimore, Maryland 21201, Phone: 410- 767-0249&nbsp;<br>",
@@ -2771,7 +2771,7 @@
           "text34": "Starter pack",
           "text35": "FAQ",
           "titled1": "maryland state department of education<br>division of early intervention and special&nbsp;education services (MSDE, DEI/SES)",
-          "titled2": "Maryland Infants and Toddlers Program<br>1-800-535-0132",
+          "titled2": "Maryland Infants and Toddlers Program<br>1-800-535-0182",
           "titled3": "JOHNS HOPKINS UNIVERSiTY\n<br>CENTER FOR TECHNOLOGY IN EDUCATION (JHU, CTE)",
           "followtext": "follow us",
           "text": "© 2018 Maryland State Department of Education, Division of Early Intervention and Special Education Services (MSDE, DEI/SES) and <br>Johns Hopkins University, Center for Technology in Education (JHU CTE).\n<br><br>Please include reference to MSDE, DEI/SES on any replications of this information. <br>Permission must be requested for any use that is not \"fair use\" as that term is understood in copyright law from: <br>MSDE, DEI/SES, 200 West Baltimore Street, Baltimore, Maryland 21201, Phone: 410- 767-0249&nbsp;<br>",
@@ -3366,7 +3366,7 @@
           "text34": "Starter pack",
           "text35": "FAQ",
           "titled1": "maryland state department of education<br>division of early intervention and special&nbsp;education services (MSDE, DEI/SES)",
-          "titled2": "Maryland Infants and Toddlers Program<br>1-800-535-0132",
+          "titled2": "Maryland Infants and Toddlers Program<br>1-800-535-0182",
           "titled3": "JOHNS HOPKINS UNIVERSiTY\n<br>CENTER FOR TECHNOLOGY IN EDUCATION (JHU, CTE)",
           "followtext": "follow us",
           "text": "© 2018 Maryland State Department of Education, Division of Early Intervention and Special Education Services (MSDE, DEI/SES) and <br>Johns Hopkins University, Center for Technology in Education (JHU CTE).\n<br><br>Please include reference to MSDE, DEI/SES on any replications of this information. <br>Permission must be requested for any use that is not \"fair use\" as that term is understood in copyright law from: <br>MSDE, DEI/SES, 200 West Baltimore Street, Baltimore, Maryland 21201, Phone: 410- 767-0249&nbsp;<br>",
@@ -3857,7 +3857,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/physicians-guide-813x326.png",
-                "title": "<a href=\"http://marylandpublicschools.org/programs/Documents/Special-Ed/MIFTP/PhysiciansGuideRev032017.pdf\" target=\"_blank\">Maryland Infants and Toddlers Program Physician's Guide</a>",
+                "title": "<a href=\"https://marylandpublicschools.org/programs/Documents/Special-Ed/TAB/PhysiciansGuideMITP.pdf\" target=\"_blank\" class=\"text-primary\">Maryland Infants and Toddlers Program Physician's Guide</a>",
                 "text": "As a primary health care provider and a central figure in a child’s medical home,\nyou are often a family’s first link to early intervention services. Parents may bring\na developmental concern to your attention or you may identify a concern as part\nof a routine visit or developmental screening. This guide will show you ways you can help families engage in\nthe early intervention process.",
                 "date": "10 june 2016",
                 "active": true,
