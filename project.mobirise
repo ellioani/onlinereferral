@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Online Referral",
-    "currentPage": "Referral.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "colorm",
       "title": "ColorM",
