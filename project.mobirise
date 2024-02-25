@@ -594,8 +594,8 @@
               },
               {
                 "active": false,
-                "text": "<p>“The early intervention program supports my child to be ready for school by assisting me to teach my child pre-reading activities (such as naming pictures) and pre-match activities (such as sorting household items).”</p>",
-                "authorName": "Maryland Early Intervention Family Survey Respondent",
+                "text": "<p>“The early intervention program supports my child to be ready for school by assisting me to tach my child pre-reading activities (such as namig pictures) and pre-match activities (such as sorting household items).”</p>",
+                "authorName": "Maryland Early Intervention Family Survey Respondant",
                 "authorBio": "2017 Family Survey",
                 "media": {
                   "image": {
@@ -612,7 +612,7 @@
                 "active": true,
                 "text": "<p>\"We all work together as a team so that Kayleigh can reach her maximum potential and I know that early intervention has already made a huge difference in her future.\"</p>",
                 "authorName": "Klatt Family",
-                "authorBio": "Moving Maryland Forward ",
+                "authorBio": "Moving Maryland Forward&nbsp;",
                 "media": {
                   "image": {
                     "src": "@THEME_PATH@/components/_images/face4.jpg",
@@ -718,11 +718,12 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/msde-logo-blue-253x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/msde-secondary-rgb-300ppi-fullcolor-80-164x128.jpg",
               "height": 128,
               "alt": "MSDE Logo",
               "link": "https://mditp.org",
-              "title": "MSDE Logo"
+              "title": "MSDE Logo",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -1809,7 +1810,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/msde-logo-blue-253x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/msde-secondary-rgb-300ppi-fullcolor-80-164x128.jpg",
               "height": 128,
               "alt": "MSDE Logo",
               "link": "https://mditp.org",
@@ -2739,7 +2740,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/msde-logo-blue-253x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/msde-secondary-rgb-300ppi-fullcolor-80-164x128.jpg",
               "height": 128,
               "alt": "MSDE Logo",
               "link": "https://mditp.org",
@@ -3334,7 +3335,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/msde-logo-blue-253x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/msde-secondary-rgb-300ppi-fullcolor-80-164x128.jpg",
               "height": 128,
               "alt": "MSDE Logo",
               "link": "https://mditp.org",
